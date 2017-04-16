@@ -35,23 +35,38 @@ def standard_blocking(data, blocking_key):
     print('\nBlocking on %s\n' % blocking_key)
     
     # calculate num pairs to compare post blocking
+    num_pairs_after_blocking = []
     pairs_after_blocking = set()
+    num_pairs_recalled = 0
+    itnum = 0
+
     for blockid, block in blocks.items():
-        for pair in combinations(block, 2):
-            pairs_after_blocking.add(pair)
-            print(pair)
-            input()
-    print('calculated number of pairs after blocking:',len(pairs_after_blocking))
+        itnum += 1
+        print('processing block {} out of {} ({} references)'.format(itnum, len(blocks), len(block)))
+        #num_pairs_after_blocking.append(len(block)*(len(block)-1)/2)
+        pairs_after_blocking.update([pair for pair in combinations(block,2)])
+        print('len(pairs_after_blocking):',len(pairs_after_blocking))
+    #print('upper bound on calculated number of pairs after blocking (because it contained repeats):', sum(num_pairs_after_blocking))
+    print('number of pairs after blocking:', len(pairs_after_blocking))
+
+
+    for refid1,refid2 in ent_ref_ground_truth:
+        for blockid, block in blocks.items():
+            if refid1 in block and refid2 in block:
+                num_pairs_recalled += 1
+                break
 
     # Calculate reduction ratio
     num_comp_before_blocking = (num_references*(num_references - 1))/2
     num_comp_after_blocking = len(pairs_after_blocking)
     print('Num comparisons without blocking: %d' % num_comp_before_blocking)
     print('Num comparisons after blocking: %d' % num_comp_after_blocking)
+    #print('Num comparisons after blocking (upper bound): %d' % num_comp_after_blocking)
     print('Reduction ratio: %f' % (1 - num_comp_after_blocking/num_comp_before_blocking))
+    #print('Reduction ratio (lower bound): %f' % (1 - num_comp_after_blocking/num_comp_before_blocking))
     
     # Calculate recall
-    recall = len(pairs_after_blocking & ent_ref_ground_truth)/len(ent_ref_ground_truth)
+    recall = num_pairs_recalled/len(ent_ref_ground_truth)
     print('Recall: %f' % recall)
     print('\n')
 
@@ -65,19 +80,19 @@ def test_standard_blocking(blocking_key):
             })
     '''
     data = {
-        'r1' : {
+        '1' : {
             'features' : { 'region' : set([1, 5, 6]), 'ipaddress': set([12, 45, 65]), 'ua': set([1])},
             'entity_id': 2381374681
         },
-        'r2' : {
+        '2' : {
             'features' : { 'region' : set([5, 6]), 'ipaddress': set([12, 45, 65]), 'ua': set([2])},
             'entity_id': 2381374682
         },
-        'r3' : {
+        '3' : {
             'features' : { 'region' : set([1, 3, 7]), 'ipaddress': set([12, 45, 65]), 'ua': set([1])},
             'entity_id': 2381374681
         },
-        'r4' : {
+        '4' : {
             'features' : { 'region' : set([1, 3, 7]), 'ipaddress': set([12, 45, 65]), 'ua': set([2])},
             'entity_id': 2381374682
         }
