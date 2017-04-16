@@ -2,6 +2,7 @@ import json
 import numpy as np
 from collections import defaultdict
 from itertools import combinations
+from pybloom import ScalableBloomFilter
 
 def standard_blocking(data, blocking_key):
     '''
@@ -35,20 +36,24 @@ def standard_blocking(data, blocking_key):
     print('\nBlocking on %s\n' % blocking_key)
     
     # calculate num pairs to compare post blocking
-    num_pairs_after_blocking = []
+    num_pairs_after_blocking = 0
     pairs_after_blocking = set()
     num_pairs_recalled = 0
     itnum = 0
 
+    # False positive matches are possible, but false negatives are not – in other words, a query returns either "possibly in set" or "definitely not in set". 
+    sbf = ScalableBloomFilter(mode=ScalableBloomFilter.SMALL_SET_GROWTH)
     for blockid, block in blocks.items():
         itnum += 1
         print('processing block {} out of {} ({} references)'.format(itnum, len(blocks), len(block)))
-        #num_pairs_after_blocking.append(len(block)*(len(block)-1)/2)
-        pairs_after_blocking.update([pair for pair in combinations(block,2)])
-        print('len(pairs_after_blocking):',len(pairs_after_blocking))
+        for pair in combinations(block,2):
+            if pair not in sbf:
+                sbf.add(pair)
+                num_pairs_after_blocking += 1
+        #pairs_after_blocking.update([pair for pair in combinations(block,2)])
+        print('num_pairs_after_blocking:',num_pairs_after_blocking)
     #print('upper bound on calculated number of pairs after blocking (because it contained repeats):', sum(num_pairs_after_blocking))
-    print('number of pairs after blocking:', len(pairs_after_blocking))
-
+    print('final number of pairs after blocking:', num_pairs_after_blocking)
 
     for refid1,refid2 in ent_ref_ground_truth:
         for blockid, block in blocks.items():
@@ -58,7 +63,7 @@ def standard_blocking(data, blocking_key):
 
     # Calculate reduction ratio
     num_comp_before_blocking = (num_references*(num_references - 1))/2
-    num_comp_after_blocking = len(pairs_after_blocking)
+    num_comp_after_blocking = num_pairs_after_blocking
     print('Num comparisons without blocking: %d' % num_comp_before_blocking)
     print('Num comparisons after blocking: %d' % num_comp_after_blocking)
     #print('Num comparisons after blocking (upper bound): %d' % num_comp_after_blocking)
