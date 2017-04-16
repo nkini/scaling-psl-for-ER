@@ -21,16 +21,16 @@ def standard_blocking(data, blocking_key):
     # create blocks and ground truth
     blocks = defaultdict(set)
     for refid, refdata in data.items():
-        ent_ref_map[refdata['entity_id']].add(refid)
+        ent_ref_map[refdata['entity_id']].add(int(refid))
         for it in data[refid]['features'][blocking_key]:
-            blocks[it].add(refid)
+            blocks[it].add(int(refid))
     print('created blocks. Number of blocks:',len(blocks))
             
     ent_ref_ground_truth = set()
     for entid, refs in ent_ref_map.items():
         for pair in combinations(refs, 2):
             ent_ref_ground_truth.add(pair)
-    print('created ground truth')
+    print('created ground truth. number of pairs:',len(ent_ref_ground_truth))
             
     print('\nBlocking on %s\n' % blocking_key)
     
@@ -39,6 +39,8 @@ def standard_blocking(data, blocking_key):
     for blockid, block in blocks.items():
         for pair in combinations(block, 2):
             pairs_after_blocking.add(pair)
+            print(pair)
+            input()
     print('calculated number of pairs after blocking:',len(pairs_after_blocking))
 
     # Calculate reduction ratio
