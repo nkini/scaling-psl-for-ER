@@ -5,6 +5,43 @@ from itertools import combinations
 from pybloom import ScalableBloomFilter
 
 
+def get_num_blocked_pairs_analytical2(blocks):
+    num_blocked_pairs = 0
+    alloverlaps = set()
+    blocks = list(blocks.values())
+    for block1Index in range(len(blocks)):
+
+        print('Processing block {}'.format(block1Index))
+
+        block1 = blocks[block1Index]
+
+        a = len(block1) * (len(block1)-1) / 2
+        b = 0
+        c = 0
+        overlaps_for_this_block = set()
+        for block2Index in range(len(blocks)):
+            block2 = blocks[block2Index]
+
+            if block1Index == block2Index:
+                continue
+
+            overlaps = list(combinations(block1 & block2, 2))
+
+            b += len(overlaps)
+            for overlap in overlaps:
+                if overlap in overlaps_for_this_block:
+                    c += 1
+
+            overlaps_for_this_block.update(overlaps)
+            alloverlaps.update(overlaps)
+
+        num_blocked_pairs += a - b + c
+        print("len(alloverlaps) so far:", len(alloverlaps))
+
+    num_blocked_pairs += len(alloverlaps)
+    print('final number of pairs after blocking (calculated analytically, method 2):', num_blocked_pairs)
+    return num_blocked_pairs
+
 def get_num_blocked_pairs_explicit(blocks):
     num_pairs_after_blocking = 0
     itnum = 0
@@ -70,7 +107,7 @@ def standard_blocking_stats(data, blocking_key):
     
     # calculate num pairs to compare post blocking
     #num_pairs_after_blocking1 = get_num_blocked_pairs_explicit(blocks)
-    num_pairs_after_blocking2 = get_num_blocked_pairs_analytical(blocks)
+    num_pairs_after_blocking2 = get_num_blocked_pairs_analytical2(blocks)
     #assert num_pairs_after_blocking1 == num_pairs_after_blocking2
 
     num_pairs_recalled = 0
@@ -126,11 +163,14 @@ def test_standard_blocking(blocking_key):
 
 if __name__  == '__main__':    
     recall, reduction_ratio = test_standard_blocking('region')
+    # b1: {r1, r3, r4}, b3: {r3, r4}, b5: {r1, r2}, b6: {r1, r2}, b7: {r3, r4}
     assert round(recall, 4) == round(1/2 , 4)
     assert round(reduction_ratio, 4) == round(1/3 , 4)
+    # b12: {r1, r2, r3, r4}, b45: {r1, r2, r3, r4}, b65: {r1, r2, r3, r4},
     recall, reduction_ratio = test_standard_blocking('ipaddress')
     assert round(recall, 4) == round(1.0000 , 4)
     assert round(reduction_ratio, 4) == round(0.0000 , 4)
+    # b1: {r1, r3}, b2: {r2, r4},
     recall, reduction_ratio = test_standard_blocking('ua')
     assert round(recall, 4) == round(1.0000 , 4)
     assert round(reduction_ratio, 4) == round(2/3 , 4)
