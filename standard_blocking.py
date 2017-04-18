@@ -4,7 +4,40 @@ from collections import defaultdict
 from itertools import combinations
 from pybloom import ScalableBloomFilter
 
-def standard_blocking(data, blocking_key):
+
+def get_num_blocked_pairs_explicit(blocks):
+    num_pairs_after_blocking = 0
+    itnum = 0
+
+    # False positive matches are possible, but false negatives are not – in other words, a query returns either "possibly in set" or "definitely not in set". 
+    sbf = ScalableBloomFilter(mode=ScalableBloomFilter.SMALL_SET_GROWTH)
+    for blockid, block in blocks.items():
+        itnum += 1
+        #print('processing block {} out of {} ({} references)'.format(itnum, len(blocks), len(block)))
+        for pair in combinations(block,2):
+            if pair not in sbf:
+                sbf.add(pair)
+                num_pairs_after_blocking += 1
+        #print('num_pairs_after_blocking:',num_pairs_after_blocking)
+    print('final number of pairs after blocking (calculated by explicitly evaluating the pairs):', num_pairs_after_blocking)
+    return num_pairs_after_blocking
+
+
+def get_num_blocked_pairs_analytical(blocks):
+    num_blocked_combinations = 0
+    for i in range(len(blocks)):
+        print('processing sets of size {}'.format(i+1))
+        for combo in combinations(blocks.values(), i+1):
+            l = len(set.intersection(*combo))
+            if i%2 == 0:
+                num_blocked_combinations += l*(l-1)/2
+            else:
+                num_blocked_combinations -= l*(l-1)/2
+    print('final number of pairs after blocking (calculated analytically):', num_blocked_combinations)
+    return num_blocked_combinations
+
+
+def standard_blocking_stats(data, blocking_key):
     '''
     data: dict ({
                 <reference_id>: dict ({
@@ -36,25 +69,11 @@ def standard_blocking(data, blocking_key):
     print('\nBlocking on %s\n' % blocking_key)
     
     # calculate num pairs to compare post blocking
-    num_pairs_after_blocking = 0
-    pairs_after_blocking = set()
+    #num_pairs_after_blocking1 = get_num_blocked_pairs_explicit(blocks)
+    num_pairs_after_blocking2 = get_num_blocked_pairs_analytical(blocks)
+    #assert num_pairs_after_blocking1 == num_pairs_after_blocking2
+
     num_pairs_recalled = 0
-    itnum = 0
-
-    # False positive matches are possible, but false negatives are not – in other words, a query returns either "possibly in set" or "definitely not in set". 
-    sbf = ScalableBloomFilter(mode=ScalableBloomFilter.SMALL_SET_GROWTH)
-    for blockid, block in blocks.items():
-        itnum += 1
-        print('processing block {} out of {} ({} references)'.format(itnum, len(blocks), len(block)))
-        for pair in combinations(block,2):
-            if pair not in sbf:
-                sbf.add(pair)
-                num_pairs_after_blocking += 1
-        #pairs_after_blocking.update([pair for pair in combinations(block,2)])
-        print('num_pairs_after_blocking:',num_pairs_after_blocking)
-    #print('upper bound on calculated number of pairs after blocking (because it contained repeats):', sum(num_pairs_after_blocking))
-    print('final number of pairs after blocking:', num_pairs_after_blocking)
-
     for refid1,refid2 in ent_ref_ground_truth:
         for blockid, block in blocks.items():
             if refid1 in block and refid2 in block:
@@ -63,17 +82,17 @@ def standard_blocking(data, blocking_key):
 
     # Calculate reduction ratio
     num_comp_before_blocking = (num_references*(num_references - 1))/2
-    num_comp_after_blocking = num_pairs_after_blocking
+    num_comp_after_blocking = num_pairs_after_blocking2
     print('Num comparisons without blocking: %d' % num_comp_before_blocking)
     print('Num comparisons after blocking: %d' % num_comp_after_blocking)
-    #print('Num comparisons after blocking (upper bound): %d' % num_comp_after_blocking)
-    print('Reduction ratio: %f' % (1 - num_comp_after_blocking/num_comp_before_blocking))
-    #print('Reduction ratio (lower bound): %f' % (1 - num_comp_after_blocking/num_comp_before_blocking))
+    reduction_ratio = (1 - num_comp_after_blocking/num_comp_before_blocking)
+    print('Reduction ratio: %f' % reduction_ratio)
     
     # Calculate recall
     recall = num_pairs_recalled/len(ent_ref_ground_truth)
     print('Recall: %f' % recall)
     print('\n')
+    return recall, reduction_ratio
 
 def test_standard_blocking(blocking_key):
     '''
@@ -103,9 +122,15 @@ def test_standard_blocking(blocking_key):
         }
     }
      
-    standard_blocking(data, blocking_key)
+    return standard_blocking_stats(data, blocking_key)
 
 if __name__  == '__main__':    
-    test_standard_blocking('region')
-    test_standard_blocking('ipaddress')
-    test_standard_blocking('ua')
+    recall, reduction_ratio = test_standard_blocking('region')
+    assert round(recall, 4) == round(1/2 , 4)
+    assert round(reduction_ratio, 4) == round(1/3 , 4)
+    recall, reduction_ratio = test_standard_blocking('ipaddress')
+    assert round(recall, 4) == round(1.0000 , 4)
+    assert round(reduction_ratio, 4) == round(0.0000 , 4)
+    recall, reduction_ratio = test_standard_blocking('ua')
+    assert round(recall, 4) == round(1.0000 , 4)
+    assert round(reduction_ratio, 4) == round(2/3 , 4)
