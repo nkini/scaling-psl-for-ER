@@ -57,7 +57,13 @@ public class PSLMaster {
 		//Nodes store the data as text files again
 		saveAsCSV(partitionedData);
 
-        PSLWorker.main(args);
+        //PSLWorker.main(args);
+		//PSLWorker.run(partitionedData);
+		
+		long numRecords = partitionedData.as("df1")
+			.join(partitionedData.as("df2")).where("df1.DB != df2.DB")
+			.count();
+		
 		// Java vs Groovy: Aim to call the Groovy class from Java
 		// 				   Compile to bytecode, call main
 		//					
@@ -65,6 +71,7 @@ public class PSLMaster {
 		//	Can you say this in spark:
 		//		A particular worker calls a particular function
 		//		
+		System.out.println("Num records"+numRecords);
 	}
 
 	private static void saveAsCSV(Dataset<Row> partitionedData) {

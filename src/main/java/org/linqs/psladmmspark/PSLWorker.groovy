@@ -1,5 +1,7 @@
 package org.linqs.psladmmspark;
 
+import org.apache.spark.sql.Dataset
+import org.apache.spark.sql.Row
 import org.linqs.psl.application.inference.MPEInference;
 import org.linqs.psl.config.ConfigBundle;
 import org.linqs.psl.config.ConfigManager;
@@ -262,5 +264,9 @@ public class PSLWorker {
 		ConfigBundle configBundle = populateConfigBundle(args);
 		PSLWorker worker = new PSLWorker(configBundle);
 		worker.run();
+	}
+	
+	public static void run(Dataset<Row> df){
+		
 	}
 }
