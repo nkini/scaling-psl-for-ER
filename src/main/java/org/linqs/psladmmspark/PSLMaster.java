@@ -60,9 +60,9 @@ public class PSLMaster {
         //PSLWorker.main(args);
 		//PSLWorker.run(partitionedData);
 		
-		long numRecords = partitionedData.as("df1")
-			.join(partitionedData.as("df2")).where("df1.DB != df2.DB")
-			.count();
+		Dataset<Row> crossProduct = PSLWorker.run(partitionedData);
+		
+		long numRecords = crossProduct.count();
 		
 		// Java vs Groovy: Aim to call the Groovy class from Java
 		// 				   Compile to bytecode, call main

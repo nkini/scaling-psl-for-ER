@@ -266,7 +266,9 @@ public class PSLWorker {
 		worker.run();
 	}
 	
-	public static void run(Dataset<Row> df){
-		
+	public static Dataset<Row> run(Dataset<Row> partitionedData){
+		return partitionedData.as("df1")
+							  .join(partitionedData.as("df2"))
+							  .where("df1.DB != df2.DB");
 	}
 }
