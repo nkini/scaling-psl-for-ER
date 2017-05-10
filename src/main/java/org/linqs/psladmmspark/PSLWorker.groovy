@@ -269,6 +269,6 @@ public class PSLWorker {
 	public static Dataset<Row> run(Dataset<Row> partitionedData){
 		return partitionedData.as("df1")
 							  .join(partitionedData.as("df2"))
-							  .where("df1.DB != df2.DB");
+							  .where("df1.DB != df2.DB and df1.DB < df2.DB");
 	}
 }
