@@ -55,27 +55,21 @@ public class PSLMaster {
 		Log.info("Number of partitions: "+ partitionedData.rdd().getNumPartitions());
 		
 		//Nodes store the data as text files again
-		saveAsCSV(partitionedData);
-
-        //PSLWorker.main(args);
-		//PSLWorker.run(partitionedData);
+		//saveAsCSV(partitionedData);
 		
 		Dataset<Row> crossProduct = PSLWorker.run(partitionedData);
 		
 		long numRecords = crossProduct.count();
 		
-		// Java vs Groovy: Aim to call the Groovy class from Java
-		// 				   Compile to bytecode, call main
-		//					
-		//				   Redesign tip: Level of abstraction - MPEInference
+		System.out.println("Num records"+numRecords);
+		
+		//Redesign tip: Level of abstraction - MPEInference
 		//	Can you say this in spark:
 		//		A particular worker calls a particular function
-		//		
-		System.out.println("Num records"+numRecords);
 	}
 
 	private static void saveAsCSV(Dataset<Row> partitionedData) {
-		partitionedData.write().option("header","false").csv("DBLP+ACM.csv");
+		partitionedData.write().option("header","true").csv("DBLP+ACM.csv");
 	}
 
 	private static Dataset<Row> computeBlocks(Dataset<Row> df) {

@@ -270,5 +270,6 @@ public class PSLWorker {
 		return partitionedData.as("df1")
 							  .join(partitionedData.as("df2"))
 							  .where("df1.DB != df2.DB and df1.DB < df2.DB");
+							  //.where("df1.DB != df2.DB and df1.DB < df2.DB and df1.block == df2.block");
 	}
 }
