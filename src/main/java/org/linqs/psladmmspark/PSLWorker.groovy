@@ -1,7 +1,5 @@
 package org.linqs.psladmmspark;
 
-import org.apache.spark.sql.Dataset
-import org.apache.spark.sql.Row
 import org.linqs.psl.application.inference.MPEInference;
 import org.linqs.psl.config.ConfigBundle;
 import org.linqs.psl.config.ConfigManager;
@@ -30,7 +28,21 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import groovy.time.TimeCategory;
+import scala.Tuple2;
+import scala.Tuple3;
+
 import java.nio.file.Paths;
+import java.util.Iterator
+
+import org.apache.spark.sql.functions;
+import org.apache.spark.sql.expressions.UserDefinedFunction;
+import org.apache.spark.sql.Dataset;
+import org.apache.spark.sql.Row;
+import org.apache.spark.sql.SparkSession;
+import org.apache.spark.api.java.JavaPairRDD
+import org.apache.spark.api.java.function.Function2;
+
+
 
 /**
  * A simple transitivity example.
@@ -38,7 +50,11 @@ import java.nio.file.Paths;
  *
  * @author Nikhil Kini <nkini@ucsc.edu>
  */
-public class PSLWorker {
+public class PSLWorker implements Function2<Integer, 
+											Iterator<Tuple2<Integer, Tuple3<Row, Row, Double>>>, 
+											Iterator<Tuple3<String, String, Double>>
+											> {
+
 	private static final String PARTITION_OBSERVATIONS = "observations";
 	private static final String PARTITION_TARGETS = "targets";
 	private static final String PARTITION_TRUTH = "truth";
@@ -86,12 +102,13 @@ public class PSLWorker {
 		}
 	}
 
+	/*
 	public PSLWorker(ConfigBundle cb) {
 		log = LoggerFactory.getLogger(this.class);
 		config = new PSLConfig(cb);
 		ds = new RDBMSDataStore(new H2DatabaseDriver(Type.Disk, Paths.get(config.dbPath, 'transitivity').toString(), true), cb);
 		model = new PSLModel(this, ds);
-	}
+	}*/
 
 	/**
 	 * Defines the logical predicates used in this model
@@ -108,32 +125,32 @@ public class PSLWorker {
 	private void defineRules() {
 		log.info("Defining model rules");
 		model.add(
-			rule: ( Similar(R1,R2) & (R1-R2) ) >> Same(R1,R2),
-			squared: config.sqPotentials,
-			weight : config.weightMap["Similar"]
-		);
+				rule: ( Similar(R1,R2) & (R1-R2) ) >> Same(R1,R2),
+				squared: config.sqPotentials,
+				weight : config.weightMap["Similar"]
+				);
 
 		if (config.useTransitivityRule) {
 			model.add(
-				rule: ( Same(R1,R2) & Same(R2,R3) & (R1-R3) ) >> Same(R1,R3),
-				squared: config.sqPotentials,
-				weight : config.weightMap["Transitivity"]
-			);
+					rule: ( Same(R1,R2) & Same(R2,R3) & (R1-R3) ) >> Same(R1,R3),
+					squared: config.sqPotentials,
+					weight : config.weightMap["Transitivity"]
+					);
 		}
 
 		if (config.useSymmetryRule) {
 			model.add(
-				rule:  Same(R1,R2) >> Same(R2,R1),
-				squared: config.sqPotentials,
-				weight : config.weightMap["Symmetry"]
-			);
+					rule:  Same(R1,R2) >> Same(R2,R1),
+					squared: config.sqPotentials,
+					weight : config.weightMap["Symmetry"]
+					);
 		}
 
 		model.add(
-			rule: ~Same(R1,R2),
-			squared:config.sqPotentials,
-			weight: config.weightMap["Prior"]
-		);
+				rule: ~Same(R1,R2),
+				squared:config.sqPotentials,
+				weight: config.weightMap["Prior"]
+				);
 
 		log.debug("model: {}", model);
 	}
@@ -159,8 +176,8 @@ public class PSLWorker {
 		inserter = ds.getInserter(Same, targetsPartition);
 		InserterUtils.loadDelimitedData(inserter, Paths.get(config.dataPath, "same_targets.txt").toString());
 
-		inserter = ds.getInserter(Same, truthPartition);
-		InserterUtils.loadDelimitedDataTruth(inserter, Paths.get(config.dataPath, "same_truth.txt").toString());
+		//inserter = ds.getInserter(Same, truthPartition);
+		//InserterUtils.loadDelimitedDataTruth(inserter, Paths.get(config.dataPath, "same_truth.txt").toString());
 	}
 
 	/**
@@ -225,7 +242,7 @@ public class PSLWorker {
 		truthDB.close();
 	}
 
-	public void run() {
+	public String run() {
 		log.info("Running experiment {}", config.experimentName);
 
 		Partition obsPartition = ds.getPartition(PARTITION_OBSERVATIONS);
@@ -237,9 +254,11 @@ public class PSLWorker {
 		loadData(obsPartition, targetsPartition, truthPartition);
 		runInference(obsPartition, targetsPartition);
 		writeOutput(targetsPartition);
-		evalResults(targetsPartition, truthPartition);
+		//evalResults(targetsPartition, truthPartition);
 
 		ds.close();
+
+		return Paths.get(config.outputPath, "same_infer.txt").toString();
 	}
 
 	/**
@@ -256,20 +275,9 @@ public class PSLWorker {
 		return cb;
 	}
 
-	/**
-	 * Run this model from the command line
-	 * @param args - the command line arguments
-	 */
-	public static void main(String[] args) {
-		ConfigBundle configBundle = populateConfigBundle(args);
-		PSLWorker worker = new PSLWorker(configBundle);
-		worker.run();
+	public Iterator<Tuple3<String, String, Double>> call(Integer pnum, Iterator<Tuple2<Integer, Tuple3<Row, Row, Double>>> arg0)
+			throws Exception {
+		System.out.println("Inside call of partition "+pnum);
 	}
-	
-	public static Dataset<Row> run(Dataset<Row> partitionedData){
-		return partitionedData.as("df1")
-							  .join(partitionedData.as("df2"))
-							  .where("df1.DB != df2.DB and df1.DB < df2.DB");
-							  //.where("df1.DB != df2.DB and df1.DB < df2.DB and df1.block == df2.block");
-	}
+
 }
