@@ -11,8 +11,8 @@ public class SparkConnection {
 	//A name for the spark instance. Can be any string
 	private static String appName = "PSL-Spark-ADMM";
 	//Pointer / URL to the Spark instance - embedded
-	private static String sparkMaster = "local[4]";
-	//private static String sparkMaster = "spark://128.114.56.119:7077";
+	//private static String sparkMaster = "local[4]";
+	private static String sparkMaster = "spark://128.114.56.119:7077";
 	
 	private static JavaSparkContext spContext = null;
 	private static SparkSession sparkSession = null;

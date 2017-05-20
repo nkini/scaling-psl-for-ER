@@ -114,8 +114,8 @@ public class PSLMaster {
 	}
 
 	private static Dataset<Row> loadData(SparkSession spSession) {
-		Dataset<Row> dfDBLP = spSession.read().option("header", "true").csv("data/DBLP-ACM/DBLP2.csv");
-		Dataset<Row> dfACM = spSession.read().option("header", "true").csv("data/DBLP-ACM/ACM.csv");
+		Dataset<Row> dfDBLP = spSession.read().option("header", "true").csv("/scratch/nikhil/spark-files/DBLP-ACM/DBLP2.csv");
+		Dataset<Row> dfACM = spSession.read().option("header", "true").csv("/scratch/nikhil/spark-files/DBLP-ACM/ACM.csv");
 
 		dfDBLP = dfDBLP.withColumn("DB", functions.lit("DBLP"));
 		dfACM = dfACM.withColumn("DB", functions.lit("ACM"));
