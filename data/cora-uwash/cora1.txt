@@ -1,0 +1,1413 @@
+<meta ref_no="0001" class_no="auer1995a" bib_no="1001"></meta>
+<author>p. auer, n. cesa-bianchi, y. freund, and r. e. schapire</author> <title> 'gambling in a rigged casino: the adversarial multi-armed bandit problem,'</title> <venue> in proc. 36th annual symposium on foundations of computer science,</venue><address> los alamitos, ca:</address><publisher> ieee computer society press,</publisher><year> 1995,</year><pages> pp. 322-331.</pages>   
+
+<meta ref_no="0003" class_no="blum1993" bib_no="1002"></meta>
+<author>a. blum, m. furst, m. j. kearns, and richard j. lipton.</author> <title> cryptographic primitives based on hard learning problems.</title> <venue> in pre-proceedings of crypto '93,</venue>  <year>1993</year><pages> pages 24.1-24.10,</pages>   
+
+<meta ref_no="0004" class_no="blum1993" bib_no="1003"></meta>
+<author>avrim blum, merrick furst, michael kearns, and richard j. lipton.</author> <title> cryptographic primitives based on hard learning problems.</title> <venue> in pre-proceedings of crypto '93,</venue>  <year>1993</year><pages> pages 24.1-24.10,</pages>   
+
+<meta ref_no="0005" class_no="blum1993" bib_no="1004"></meta>
+<author>avrim blum, merrick furst, michael kearns, and richard j. lipton.</author> <title> cryptographic primitives based on hard learning problems.</title> <venue> proc. crypto 93,</venue> <publisher> springer,</publisher><year>1994</year><pages> pages 278-291.</pages><editor> in douglas r. stinson, editor,</editor><note> lecture notes in computer science no. 773.</note> 
+
+<meta ref_no="0006" class_no="blum1993" bib_no="1005"></meta>
+<author>a. blum, m. furst, m. kearns, r. lipton.</author> <title> cryptographic primitives based on hard learning problems.</title> <venue> crypto,</venue>  <year>1993</year>    
+
+<meta ref_no="0017" class_no="cesa" bib_no="1006"></meta>
+<author>nicolo cesa-bianchi, yoav freund, david p. helmbold, david haussler, robert e. schapire, and manfred k. warmuth.</author> <title> how to use expert advice.</title> <venue> in proceedings of the twenty-fifth annual acm symposium on the theory of computing,</venue>  <year>1993</year><pages> pages 382-391,</pages>  <month> may</month>
+
+<meta ref_no="0018" class_no="cesa" bib_no="1007"></meta>
+<author>n. cesa-bianchi, y. freund, d.p. helmbold, d. haussler, r.e. schapire, and m.k. warmuth.</author> <title> how to use expert advice.</title> <venue> in annual acm symposium on theory of computing,</venue>  <year>1993</year><pages> pages 382-391,</pages>   
+
+<meta ref_no="0019" class_no="cesa" bib_no="1008"></meta>
+<author>nicolo cesa-bianchi, yoav freund, david p. helmbold, david haussler, robert e. schapire, and manfred k. warmuth.</author> <title> how to use expert advice.</title> <venue> in proceedings of the twenty-fifth annual acm symposium on the theory of computing,</venue>  <year>1993</year><pages> pages 382-391,</pages>  <month> may</month>
+
+<meta ref_no="0020" class_no="cesa" bib_no="1009"></meta>
+<author>nicolo cesa-bianchi, yoav freund, david p. helmbold, david haussler, robert e. schapire, and manfred k. warmuth.</author> <title> how to use expert advice.</title> <venue> in proceedings of the twenty-fifth annual acm symposium on the theory of computing,</venue>  <year>1993</year><pages> pages 382-391,</pages> <note> to appear, journal of the association for computing machinery.</note> 
+
+<meta ref_no="0021" class_no="cesa" bib_no="1010"></meta>
+<author>n. cesa-bianchi, y. freund, d. helmbold, d. haussler, r. schapire, and m. k. warmuth.</author> <title> how to use expert advice.</title> <venue> in proceedings of the twenty-fifth annual acm symposium on the theory of computing,</venue> <publisher> morgan kaufmann,</publisher><year>1993</year><pages> pages 382-391.</pages> <note> to appear in journal of the association for computing machinery.</note> 
+
+<meta ref_no="0022" class_no="cesa" bib_no="1011"></meta>
+<author>cesa-bianchi n., freund y., helmbold d. p., haussler d., schapire r. e., & warmuth m. k.</author> <title> how to use expert advice.</title> <venue> proceedings of the annual acm symposium on the theory of computing (pp.</venue>  <year> (1993).</year><pages> 382-391).</pages>   
+
+<meta ref_no="0023" class_no="cesa" bib_no="1012"></meta>
+<author>cesa-bianchi n., freund y., helmbold d., & haussler d.</author> <title> how to use expert advice.</title> <venue> in proceedings of the twenty-fifth annual acm symposium on the theory of computing,</venue>  <year> (1993).</year><pages> (pp. 382-391).</pages> <note> morgan kaufmann. to appear in journal of the association for computing machinery, schapire and warmuth also on this article but too long.</note> 
+
+<meta ref_no="0024" class_no="cesa" bib_no="1013"></meta>
+<author>cesa-bianchi n., freund y., helmbold d., haussler d., schapire r., and warmuth m.</author> <title> how to use expert advice.</title> <venue> in proceedings of the annual acm symp. on the theory of computing,</venue>  <year> (1993).</year><pages> pages 382-391.</pages>   
+
+<meta ref_no="0025" class_no="cesa" bib_no="1014"></meta>
+<author>cesa-bianchi n., y. freund, d. p. helmbold, d. haus-sler, and r. e. schapire, and m. k. warmuth.</author> <title> how to use expert advice.</title> <venue> in proceedings of the annual acm symp. on the theory of computing,</venue><address> pages 382-391.</address> <year>1995</year>    
+
+<meta ref_no="0026" class_no="cesa" bib_no="1015"></meta>
+<author>n. cesa-bianchi, y. freund, d. haussler, d. p. helmbold, r. e. schapire, m. k. war-muth.</author> <title> how to use expert advice.</title> <venue> proceedings of the 24th annual acm symposium on theory of computing (stoc).</venue>  <year>1993</year>    
+
+<meta ref_no="0027" class_no="cesa" bib_no="1016"></meta>
+<author>n. cesa-bianchi, y. freund, d. haussler, d.p. helmbold, r.e. schapire, m. k. warmuth.</author> <title> how to use expert advice.</title> <venue> proceedings of the 24th annual acm symposium on theory of computing (stoc).</venue>  <year>1993</year>    
+
+<meta ref_no="0028" class_no="cesa" bib_no="1017"></meta>
+<author>n. cesa-bianchi, y. freund, d. haussler, d.p. helmbold, r.e. schapire, and m. k. warmuth.</author> <title> how to use expert advice.</title> <venue> in proceedings of the 25th annual acm symposium on the theory of computing,</venue>  <year>1993</year><pages> pages 382-391,</pages>   
+
+<meta ref_no="0029" class_no="cesa" bib_no="1018"></meta>
+<author>n. cesa-bianchi, y. freund, d. p. helmbold, d. haus-sler, r. e. schapire, and m. k. warmuth.</author> <title> how to use expert advice.</title> <venue> in acm symp. on the theory of computing,</venue>  <year>1995</year><pages> pages 382-391,</pages>   
+
+<meta ref_no="0030" class_no="cesa" bib_no="1019"></meta>
+<author>n. cesa-bianchi, y. freund, d.p. helmbold, d. haussler, r.e. schapire, and m.k. warmuth.</author> <title> how to use expert advice.</title> <venue> in annual acm symposium on theory of computing,</venue>  <year>1993</year><pages> pages 382-391,</pages>   
+
+<meta ref_no="0031" class_no="cesa" bib_no="1020"></meta>
+<author>n. cesa-bianchi, y. freund, d.p. helmbold, d. haussler, r.e. schapire, and m.k. warmuth.</author> <title> how to use expert advice.</title> <venue> in annual acm symposium on theory of computing,</venue>  <year>1993</year><pages> pages 382-391.</pages>   
+
+<meta ref_no="0032" class_no="cesa" bib_no="1021"></meta>
+<author>nicolo cesa-bianchi, yoav freund, david p. helm-bold, david haussler, robert e. schapire, and man-fred k. warmuth.</author> <title> how to use expert advice.</title> <venue> in proceedings of the twenty-fifth annual acm symposium on the theory of computing,</venue>  <year>1993</year><pages> pages 382-391,</pages> <note> submitted to the journal of the acm.</note><month> may</month>
+
+<meta ref_no="0033" class_no="cesa" bib_no="1022"></meta>
+<author>nicolo cesa-bianchi, yoav freund, david p. helmbold, david haussler, robert e. schapire, and manfred k. warmuth.</author> <title> how to use expert advice.</title> <venue> in proceedings of the twenty-fifth annual acm symposium on the theory of computing,</venue>  <year>1993</year><pages> pages 382-391,</pages> <note> submitted to the journal of the acm.</note><month> may</month>
+
+<meta ref_no="0034" class_no="cesa" bib_no="1023"></meta>
+<author>n. cesa-bianchi, y. freund, d. helmbold, d. haussler, r. schapire, and m. warmuth.</author> <title> how to use expert advice.</title> <venue> in proceedings of the twenty fifth annual acm symposium on theory of computing,</venue><address> san diego, ca, may 1993.</address><publisher> acm press.</publisher><year>1993</year><pages> pages 382-391,</pages>   
+
+<meta ref_no="0035" class_no="cesa" bib_no="1024"></meta>
+<author>nicolo cesa-bianchi, yoav freund, david p. helmbold, david haus-sler, robert e. schapire, and manfred k. warmuth.</author> <title> how to use expert advice.</title> <venue> in proceedings of the twenty-fifth annual acm symposium on the theory of computing,</venue>  <year>1993</year><pages> pages 382-391,</pages> <note> to appear, journal of the association for computing machinery.</note> 
+
+<meta ref_no="0036" class_no="cesa" bib_no="1025"></meta>
+<author>nicolo cesa-bianchi, yoav freund, david p. helmbold, david haussler, robert e. schapire, and manfred k. warmuth.</author> <title> how to use expert advice.</title> <venue> in proceedings of the twenty-fifth annual acm symposium on the theory of computing,</venue>  <year>1993</year><pages> pages 382-391,</pages>   
+
+<meta ref_no="0037" class_no="cesa" bib_no="1026"></meta>
+<author>n. cesa-bianchi, y. freund, d. helmbold, d. haussler, r. schapire, and m.</author> <title> war muth. how to use expert advice.</title> <venue> in proceedings of the eighteenth annual acm symposium on theory of computing,</venue><address> san diego, ca,</address> <year>1993</year><pages> pages 382-391,</pages>  <month> may</month>
+
+<meta ref_no="0038" class_no="cesa" bib_no="1027"></meta>
+<author>n. cesa-bianchi, y. freund, d. p. helmbold, d. haussler, r. e. schapire, and m. k. warmuth.</author> <title> how to use expert advice.</title> <venue> in proc. 25th annu. acm sympos. theory comput.,</venue><address> new york, ny,</address><publisher> acm press,</publisher><year>1993</year><pages> pages 382-391.</pages>   
+
+<meta ref_no="0039" class_no="cesa" bib_no="1028"></meta>
+<author>n. cesa-bianchi, y. freund, d.h. helmbold, d. haussler, r.e. schapire, and m.k. warmuth</author> <title> how to use expert advice,</title> <venue> in 25th annual acm symposium on theory of computing,</venue><address> san diego, ca (1993).</address> <year>1993</year><pages> 382-392,</pages>   
+
+<meta ref_no="0040" class_no="cesa" bib_no="1029"></meta>
+<author>n. cesa-bianchi, y. freund, d.p. helmbold, d. haussler, r.e. schapire, and m.k. warmuth.</author> <title> how to use expert advice.</title> <venue> proceedings of the 25th acm symposium on the theory of computation,</venue>  <year>1993</year>    
+
+<meta ref_no="0041" class_no="cesa" bib_no="1030"></meta>
+<author>nicolo cesa-bianchi, yoav freund, david p. helm-bold, david haussler, robert e. schapire, and manfred k. warmuth.</author> <title> how to use expert advice.</title> <venue> in proceedings of the twenty-fifth annual acm symposium on the theory of computing,</venue>  <year>1993</year><pages> pages 382-391,</pages>   
+
+<meta ref_no="0042" class_no="cesa" bib_no="1031"></meta>
+<author>n. cesa-bianchi, y. freund, d.p. helmbold, d. haussler, r.e. schapire, and m.k. warmuth.</author> <title> how to use expert advice.</title> <venue> in proceedings of the twenty-fifth annual acm symposium on the theory of computing,</venue>  <year>1993</year><pages> pages 382391,</pages> <note> to appear, journal of the association for computing machinery.</note> 
+
+<meta ref_no="0043" class_no="cesa" bib_no="1032"></meta>
+<author>nicolo cesa-bianchi, yoav freund, david p. helmbold, david haussler, robert e. schapire, and manfred k. warmuth.</author> <title> how to use expert advice.</title> <venue> in proceedings of the twenty-fifth annual acm symposium on the theory of computing,</venue>  <year>1993</year><pages> pages 382-391,</pages>   
+
+<meta ref_no="0044" class_no="cesa" bib_no="1033"></meta>
+<author>nicolo cesa-bianchi, yoav freund, david p. helmbold, david haussler, robert e. schapire, and manfred k. warmuth.</author> <title> how to use expert advice.</title> <venue> in proceedings of the twenty-fifth annual acm symposium on the theory of computing,</venue>  <year>1993</year><pages> pages 382-391,</pages> <note> to appear, journal of the association for computing machinery.</note> 
+
+<meta ref_no="0045" class_no="cesa" bib_no="1034"></meta>
+<author>n. cesa-bianchi, y. freund, d.p. helmbold, d. haussler, r.e. schapire, and m.k. warmuth.</author> <title> how to use expert advice.</title> <venue> proceedings of the 25th acm symposium on the theory of computation,</venue>  <year>1993</year>    
+
+<meta ref_no="0046" class_no="cesa" bib_no="1035"></meta>
+<author>n. cesa-bianchi, y. freund, d. helmbold, d. haussler, r. schapire, and m. war-muth.</author> <title> how to use expert advice.</title> <venue> in proceedings of the eighteenth annual acm symposium on theory of computing,</venue><address> san diego, ca,</address> <year>1993</year><pages> pages 382-391,</pages>  <month> may</month>
+
+<meta ref_no="0047" class_no="cesa" bib_no="1036"></meta>
+<author>n. cesa-bianchi, y. freund, d. helmbold, d. haussler, r. schapire, and m. warmuth.</author> <title> how to use expert advice.</title> <venue> in proceedings of the eighteenth annual acm symposium on theory of computing,</venue><address> san diego, ca,</address> <year>1993</year><pages> pages 382-391,</pages>  <month> may</month>
+
+<meta ref_no="0048" class_no="cesa" bib_no="1037"></meta>
+<author>n. cesa-bianchi, y. freund, d. p. helmbold, d. haussler, r. e. schapire, and m. k. warmuth.</author> <title> how to use expert advice.</title> <venue> in proc. 25th symposium on the theory of computing,</venue><address> new york, ny,</address><publisher> acm press,</publisher><year>1993</year><pages> pages 382-391.</pages>   
+
+<meta ref_no="0049" class_no="cesa" bib_no="1038"></meta>
+<author>nicolo cesa-bianchi, yoav freund, david p. helmbold, david haussler, robert e. schapire, and manfred k. warmuth.</author> <title> how to use expert advice.</title> <venue> in proceedings of the 43 twenty-fifth annual acm symposium on the theory of computing,</venue>  <year>1993</year><pages> pages 382-391,</pages>   
+
+<meta ref_no="0050" class_no="cesa" bib_no="1039"></meta>
+<author>nicolo cesa-bianchi, yoav freund, david p. helmbold, david haussler, robert e. schapire, and manfred k. warmuth.</author> <title> how to use expert advice.</title> <venue> in proceedings of the twenty fifth annual acm symposium on theory of computing,</venue>  <year>1993</year><pages> pages 382-391,</pages> <note> references 17</note><month> may</month>
+
+<meta ref_no="0051" class_no="cesa" bib_no="1040"></meta>
+<author>n. cesa-bianchi, y. freund, d.p. helmbold, d. haussler, r.e. schapire, and m.k. warmuth.</author> <title> how to use expert advice.</title> <venue> proceedings of the 25th acm symposium on the theory of computation,</venue>  <year>1993</year>    
+
+<meta ref_no="0052" class_no="cesa" bib_no="1041"></meta>
+<author>nicolo cesa-bianchi, yoav freund, david p. helmbold, david haussler, robert e schapire, and manfred k warmuth.</author> <title> how to use expert advice.</title> <venue> in proceedings of the twenty-fifth annual acm symposium on the theory of computing,</venue>  <year>1993</year><pages> pages 382-391,</pages>   
+
+<meta ref_no="0053" class_no="cesa" bib_no="1042"></meta>
+<author>n. cesa-bianchi, y. freund, d. p. helmbold, d. haussler, r. e. schapire, and m. k. warmuth</author> <title>  'how to use expert advice',</title> <venue> proceedings of stoc93,</venue>  <year>1993</year><pages> pp. 382-391,</pages>   
+
+<meta ref_no="0054" class_no="cesa" bib_no="1043"></meta>
+<author>cesa-bianchi n., freund y., haussler d., helmbold d. p., schapire r. e., & warmuth m. k.</author> <title> how to use expert advice,</title><institution> univ. of calif. computer research lab, santa cruz, ca.</institution><venue> technical report ucsc-crl-94-33,</venue>  <year> (1994),</year>  <note> an extended abstract appeared in stoc '93.</note> 
+
+<meta ref_no="0055" class_no="cesa" bib_no="1044"></meta>
+<author>cesa-bianchi n., freund y., haussler d., helmbold d. p., schapire r. e., and warmuth m. k.</author> <title> 'how to use expert advice,'</title><institution> university of california,</institution><venue> computer research laboratory. an extended abstract appeared in 'proceedings, 25th annual acm symposium on the theory of computing,'</venue><address> new york.</address><publisher> acm press,</publisher><year> (1994),</year><pages> pp. 382-381,</pages>   
+
+<meta ref_no="0056" class_no="cesaR" bib_no="1045"></meta>
+<author>n. cesa-bianchi, y. freund, d. haussler, d. p. helmbold, r. e. schapire, and m. k. warmuth</author> <title> 'how to use expert advice',</title><institution> ucsc-crl-94-33, university of california, santa cruz,</institution><venue> tech. rep.</venue>  <year>1994</year>    
+
+<meta ref_no="0057" class_no="cesa" bib_no="1046"></meta>
+<author>n. cesa-bianchi, y. freund, d. p. helmbold, d. haussler, r. e. schapire, and m. k. warmuth.</author> <title> how to use expert advice.</title><institution> univ. of calif. computer research lab,</institution><venue> technical report ucsc-crl-94-33,</venue><address> santa cruz, ca,</address> <year>1994</year>  <note> an extended abstract appeared in stoc '93.</note> 
+
+<meta ref_no="0058" class_no="cesaR" bib_no="1047"></meta>
+<author>n. cesa-bianchi, y. freund, d. haussler, d. p. helmbold, r. e. schapire, and m. k. warmuth</author> <title> 'how to use expert advice,'</title><institution> ucsc-crl-94-33, university of california, santa cruz,</institution><venue> tech. rep.</venue>  <year>1994</year>    
+
+<meta ref_no="0059" class_no="cesa" bib_no="1048"></meta>
+<author>n. cesa-bianchi, y. freund, d. haussler, d. p. helmbold, r. e. schapire, and m. k. warmuth.</author> <title> how to use expert advice.</title><institution> univ. of calif. computer research lab,</institution><venue> technical report ucsc-crl-94-33,</venue><address> santa cruz, ca,</address> <year>1994</year>  <note> an extended abstract appeared in stoc '93.</note> 
+
+<meta ref_no="0060" class_no="cesa" bib_no="1049"></meta>
+<author>n. cesa-bianchi, y. freund, d. p. helmbold, d. haussler, r. e. schapire, and m. k. war-muth.</author> <title> how to use expert advice.</title><institution> univ. of calif. computer research lab,</institution><venue> technical report ucsc-crl-94-33,</venue><address> santa cruz, ca,</address> <year>1994</year>  <note> an extended abstract appeared in stoc '93.</note> 
+
+<meta ref_no="0061" class_no="cesa" bib_no="1050"></meta>
+<author>n. cesa-bianchi, y. freund, d. p. helmbold, d. haussler, r. e. schapire, and m. k. warmuth.</author> <title> how to use expert advice.</title><institution> univ. of calif. computer research lab,</institution><venue> technical report ucsc-crl-94-33,</venue><address> santa cruz, ca,</address> <year>1994</year>  <note> an extended abstract appeared in stoc '93.</note> 
+
+<meta ref_no="0062" class_no="cesaJ" bib_no="1051"></meta>
+<author>cesa-bianchi n., freund y., haussler d., helmbold d. p., schapire r. e., & warmuth m. k.</author><volume> 44(3),</volume><title> how to use expert advice.</title> <venue> journal of the acm,</venue>  <year> (1997).</year><pages> 427-485.</pages>   
+
+<meta ref_no="0063" class_no="cesaJ" bib_no="1052"></meta>
+<author>nicolo cesa-bianchi, yoav freund, david haussler, david p. helmbold, robert e. schapire, and manfred k. warmuth.</author><volume> 44(3)</volume><title> how to use expert advice.</title> <venue> journal of the association for computing machinery,</venue>  <year>1997</year><pages> 427-485,</pages>  <month> may</month>
+
+<meta ref_no="0064" class_no="cesaJ" bib_no="1053"></meta>
+<author>nicolo cesa-bianchi, yoav freund, david haussler, david p. helmbold, robert e. schapire, and manfred k. warmuth.</author><volume> 44(3)</volume><title> how to use expert advice.</title> <venue> journal of the association for computing machinery,</venue>  <year>1997</year><pages> 427-485,</pages>  <month> may</month>
+
+<meta ref_no="0065" class_no="cesaJ" bib_no="1054"></meta>
+<author>n. cesa-bianchi, y. freund, d. haussler, d. p. helmbold, r. e. schapire, and m. k. warmuth</author><volume> vol. 44,</volume><title> 'how to use expert advice,'</title> <venue> journal of the acm,</venue>  <year>1997</year><pages> pp. 427-485,</pages>   
+
+<meta ref_no="0066" class_no="cesaJ" bib_no="1055"></meta>
+<author>n. cesa-bianchi, y. freund, d. haussler, d. p. helmbold, r. e. schapire, and m. k. warmuth</author><volume> vol. 44,</volume><title> 'how to use expert advice,'</title> <venue> journal of the acm,</venue>  <year>1997</year><pages> pp. 427-485,</pages>   
+
+<meta ref_no="0081" class_no="cohen1998" bib_no="1056"></meta>
+<author>william w. cohen, rob schapire, and yoram singer.</author> <title> learning to order things.</title> <venue> in advances in neural information processing systems 10,</venue>  <year>1997</year>  <note> to appear in nips-97,</note> 
+
+<meta ref_no="0082" class_no="cohen1998" bib_no="1057"></meta>
+<author>william w. cohen, robert e. schapire, and yoram singer.</author> <title> learning ro order things.</title> <venue> in advances in neural information processing systems 10,</venue>  <year>1997</year>    
+
+<meta ref_no="0083" class_no="cohen1998" bib_no="1058"></meta>
+<author>william w. cohen, robert e. schapire, and yoram singer.</author> <title> learning to order things.</title> <venue> in advances in neural information processing systems 10,</venue>  <year>1998</year>    
+
+<meta ref_no="0084" class_no="cohen1998" bib_no="1059"></meta>
+<author>w. w. cohen, r. e. shapire, and y. singer.</author> <title> learning to order things.</title> <venue> in advances in neural information processing systems 10,</venue>  <year>1998</year>    
+
+<meta ref_no="0117" class_no="drucker1992C2" bib_no="1060"></meta>
+<author>h. drucker, r. schapire, and p. simard.</author> <title> boosting performance in neural networks.</title> <venue> international journal of pattern recognition and artificial intelligence,</venue>  <year>1993</year>  <note> [to appear].</note> 
+
+<meta ref_no="0118" class_no="drucker1992C2" bib_no="1061"></meta>
+<author>harris drucker, robert schapire, and patrice simard.</author><volume> 7(4):705719,</volume><title> boosting performance in neural net-works.</title> <venue> international journal of pattern recognition and artificial intelligence,</venue>  <year>1993</year>    
+
+<meta ref_no="0119" class_no="drucker1992C2" bib_no="1062"></meta>
+<author>harris drucker, robert schapire, and patrice simard.</author><volume> 7(4)</volume><title> boosting performance in neural networks.</title> <venue> international journal of pattern recognition and artificial intelligence,</venue>  <year>1993</year><pages> 705-719,</pages>   
+
+<meta ref_no="0120" class_no="drucker1992C2" bib_no="1063"></meta>
+<author>drucker h., schapire r. e., & simard p.</author><volume> 7 (4),</volume><title> boosting performance in neural networks.</title> <venue> international journal of pattern recognition and artificial intelligence,</venue>  <year> (1993).</year><pages> 705-720.</pages>   
+
+<meta ref_no="0121" class_no="drucker1992C2" bib_no="1064"></meta>
+<author>drucker h., schapire r., & simard p.</author><volume> 7,</volume><title> boosting performance in neural networks.</title> <venue> intl. j. pat. recog. art. intel.,</venue>  <year> (1993).</year><pages> 705-719.</pages>   
+
+<meta ref_no="0122" class_no="drucker1992C2" bib_no="1065"></meta>
+<author>drucker h., schapire r., & simard p.</author><volume> 7 (4),</volume><title> boosting performance in neural networks.</title> <venue> international journal of pattern recognition and artificial intelligence,</venue>  <year> (1993a).</year><pages> 705-719.</pages>   
+
+<meta ref_no="0123" class_no="drucker1992C2" bib_no="1066"></meta>
+<author>drucker harris, schapire robert, and simard patrice up .</author> <title> boosting performance in neural networks.</title> <venue> international journal of pattern recognition and artificial intelligence 7(4)</venue>  <year>1993</year><pages> 705-719.</pages>   
+
+<meta ref_no="0124" class_no="drucker1992C2" bib_no="1067"></meta>
+<author>h. drucker, r. schapire, and p. simard.</author><volume> 7(4)</volume><title> boosting performance in neural networks.</title> <venue> international journal of pattern recognition and artificial intelligence,</venue>  <year>1993</year><pages> 705-719,</pages>   
+
+<meta ref_no="0125" class_no="drucker1992C2" bib_no="1068"></meta>
+<author>harris drucker, robert schapire, and patrice simard.</author><volume>4</volume><title> boosting performance in neural networks.</title> <venue> international journal of pattern recognition and artificial intelligence,</venue>  <year>1993</year><pages> 705-719,</pages>   
+
+<meta ref_no="0126" class_no="drucker1992C2" bib_no="1069"></meta>
+<author>h. drucker, r. schapire, and p. simard</author><volume> vol. 7, no. 4,</volume><title> 'boosting performance in neural networks,'</title> <venue> international journal of pattern recognition and artificial intelligence,</venue>  <year>1993</year><pages> pp. 705-719,</pages>   
+
+<meta ref_no="0127" class_no="drucker1992C2" bib_no="1070"></meta>
+<author>harris drucker, robert schapire, and patrice simard.</author><volume> 7(4):705 719,</volume><title> boosting performance in neural networks.</title> <venue> international journal of pattern recognition and artificial intelligence,</venue>  <year>1993</year>    
+
+<meta ref_no="0128" class_no="drucker1992C2" bib_no="1071"></meta>
+<author>harris drucker, robert schapire, and patrice simard.</author><volume> 7(4)</volume><title> boosting performance in neural networks.</title> <venue> international journal of pattern recognition and artificial intelligence,</venue>  <year>1993</year><pages> 705-719,</pages>   
+
+<meta ref_no="0129" class_no="drucker1992C2" bib_no="1072"></meta>
+<author>h. drucker, r. schapire, and p. simard.</author> <title> boosting performance in neural networks.</title> <venue> intl. j. pat. recog. art. intel.,</venue>  <year>1993</year>  <note> to appear.</note> 
+
+<meta ref_no="0130" class_no="drucker1992C2" bib_no="1073"></meta>
+<author>harris drucker, robert schapire, and patrice simard.</author><volume> 7(4)</volume><title> boosting performance in neural networks.</title> <venue> international journal of pattern recognition and artificial intelligence,</venue>  <year>1993</year><pages> 705-719,</pages>   
+
+<meta ref_no="0177" class_no="feder1995" bib_no="1074"></meta>
+<author>m. feder, y. freund, and y. mansour.</author> <title> optimal universal learning and prediction of probabilistic concepts.</title> <venue> in proc. of ieee information theory conference,</venue> <publisher> ieee,</publisher><year>1995</year><pages> page 233.</pages>   
+
+<meta ref_no="0178" class_no="feder1995" bib_no="1075"></meta>
+<author>m. feder, y. freund, and y. mansour.</author> <title> optimal universal learning and prediction of probabilistic concepts.</title> <venue> in proc. of ieee information theory conference,</venue> <publisher> ieee,</publisher><year>1995</year><pages> page 233.</pages>   
+
+<meta ref_no="0179" class_no="feder1995" bib_no="1076"></meta>
+<author>m. feder, yoav freund, and yishay mansour</author> <title> optimal universal learning and prediction of probabilistic concepts,</title> <venue> in proc. of ieee information theory conference,</venue>  <year>1995</year>  <note> to appear in proc. ieee information theory conference, 1995; published by ieee. 13</note> 
+
+<meta ref_no="0180" class_no="feder1995" bib_no="1077"></meta>
+<author>m. feder, y. freund, and y. mansour.</author> <title> optimal universal learning and prediction of probabilistic concepts.</title> <venue> in proc. of ieee information theory conference,</venue> <publisher> ieee,</publisher><year>1995</year><pages> page 233.</pages>   
+
+<meta ref_no="0197" class_no="freund1992b" bib_no="1078"></meta>
+<author>yoav freund.</author> <title> an improved boosting algorithm and its implications on learning complexity.</title> <venue> in proceedings of the fifth annual workshop on computational learning theory,</venue>  <year>1992</year><pages> pages 391-398,</pages>  <month> july</month>
+
+<meta ref_no="0198" class_no="freund1992b" bib_no="1079"></meta>
+<author>freund y.</author> <title> an improved boosting algorithm and its implications on learning complexity.</title> <venue> in proc. 5th annu. workshop on comput. learning theory,</venue><address> new york, ny.</address><publisher> acm press,</publisher><year> (1992).</year><pages> pp. 391-398.</pages>   
+
+<meta ref_no="0199" class_no="freund1992b" bib_no="1080"></meta>
+<author>freund y.</author> <title> an improved boosting algorithm and its implications on learning complexity.</title> <venue> in proceedings of the fifth annual workshop on computational learning theory,</venue><address> pittsburgh, pa.</address><publisher> acm press.</publisher><year> (1992).</year><pages> (pp. 391-398),</pages>   
+
+<meta ref_no="0200" class_no="freund1992b" bib_no="1081"></meta>
+<author>freund y.</author> <title> an improved boosting algorithm and its implications on learning complexity.</title> <venue> proc. 5th work. comp. learning theory (pp.</venue>  <year> (1992).</year><pages> 391-398).</pages>   
+
+<meta ref_no="0201" class_no="freund1992b" bib_no="1082"></meta>
+<author>freund y.</author> <title> an improved boosting algorithm and its implications on learning complexity.</title> <venue> proceedings of the fifth annual acm workshop on computational learning theory (pp.</venue>  <year> (1992).</year><pages> 391-398).</pages>   
+
+<meta ref_no="0202" class_no="freund1992b" bib_no="1083"></meta>
+<author>freund y.</author> <title> an improved boosting algorithm and its implications on learning complexity.</title> <venue> proceedings of the fifth annual acm workshop on computational learning theory (pp.</venue> <publisher> acm press.</publisher><year> (1992).</year><pages> 391-398).</pages>   
+
+<meta ref_no="0203" class_no="freund1992b" bib_no="1084"></meta>
+<author>freund y.</author><volume> 391398).</volume><title> an improved boosting algorithm and its implications on learning complexity.</title> <venue> proceedings of the fifth annual acm workshop on computational learning theory (pp.</venue> <publisher> acm press.</publisher><year> (1992).</year>    
+
+<meta ref_no="0204" class_no="freund1992b" bib_no="1085"></meta>
+<author>freund y.</author> <title> an improved boosting algorithm and its implications on learning complexity.</title> <venue> in proceedings of the fifth workshop on computational learning theory,</venue><address> san mateo, ca.</address><publisher> morgan kauf-mann.</publisher><year>1992</year><pages> 391-398.</pages>   
+
+<meta ref_no="0205" class_no="freund1992b" bib_no="1086"></meta>
+<author>yoav freund.</author> <title> an improved boosting algorithm and its implications on learning complexity.</title> <venue> in proceedings of the fifth annual acm workshop on computational learning theory,</venue> <publisher> acm press,</publisher><year>1992</year><pages> pages 391-398.</pages>   
+
+<meta ref_no="0206" class_no="freund1992b" bib_no="1087"></meta>
+<author>yoav freund.</author> <title> an improved boosting algorithm and its implications on learning complexity.</title> <venue> in proceedings of the fifth annual acm workshop on computational learning theory,</venue>  <year>1992</year><pages> pages 391-398,</pages>  <month> july</month>
+
+<meta ref_no="0207" class_no="freund1992b" bib_no="1088"></meta>
+<author>yoav freund.</author> <title> an improved boosting algorithm and its implications on learning complexity.</title> <venue> in proceedings of the fifth annual acm workshop on computational learning theory,</venue> <publisher> acm press,</publisher><year>1992</year><pages> pages 391-398.</pages>   
+
+<meta ref_no="0208" class_no="freund1992b" bib_no="1089"></meta>
+<author>yoav freund.</author> <title> an improved boosting algorithm and its implications on learning complexity.</title> <venue> in proc. of the 5th ann. workshop on comput. learning theory,</venue>  <year>1992</year><pages> pages 391-398,</pages>  <month> july</month>
+
+<meta ref_no="0209" class_no="freund1992b" bib_no="1090"></meta>
+<author>yoav freund.</author> <title> an improved boosting algorithm and its implications on learning complexity.</title> <venue> in proceedings of the 5th workshop on computational learning theory,</venue> <publisher> morgan kaufman,</publisher><year>1992</year><pages> pages 391-398.</pages>   
+
+<meta ref_no="0210" class_no="freund1992b" bib_no="1091"></meta>
+<author>yoav freund.</author> <title> an improved boosting algorithm and its implications on learning complexity.</title> <venue> in proceedings of the fifth annual acm workshop on computational learning theory,</venue> <publisher> acm press,</publisher><year>1992</year><pages> pages 391-398.</pages>   
+
+<meta ref_no="0211" class_no="freund1992b" bib_no="1092"></meta>
+<author>y. freund.</author> <title> an improved boosting algorithm and its implications on learning complexity.</title> <venue> in proceedings of colt '92,</venue> <publisher> morgan kaufmann,</publisher><year>1992</year><pages> pages 391-398.</pages>   
+
+<meta ref_no="0212" class_no="freund1992b" bib_no="1093"></meta>
+<author>yoav freund.</author> <title> an improved boosting algorithm and its implications on learning complex-ity.</title> <venue> in proceedings of the fifth annual workshop on computational learning theory,</venue>  <year>1992</year><pages> pages 391-398,</pages>  <month> july</month>
+
+<meta ref_no="0213" class_no="freund1992b" bib_no="1094"></meta>
+<author>freund y.</author> <title> an improved boosting algorithm and its implications on learning complexity,</title> <venue> proceedings of the 5rd annual workshop on computational learning theory,</venue>  <year>1992</year><pages> pp. 391-98,</pages>   
+
+<meta ref_no="0214" class_no="freund1992b" bib_no="1095"></meta>
+<author>y. freund.</author> <title> an improved boosting algorithm and its implications on learning complexity.</title> <venue> in proceedings of the fifth annual acm workshop on computational learning theory,</venue> <publisher> acm press,</publisher><year>1992</year><pages> pages 391-398.</pages>   
+
+<meta ref_no="0215" class_no="freund1992b" bib_no="1096"></meta>
+<author>y. freund.</author> <title> an improved boosting algorithm and its implications on learning complexity.</title> <venue> in proceedings of the fifth workshop on computational learning theory,</venue><address> san mateo, ca, 1992.</address><publisher> morgan kaufmann.</publisher><year>1992</year><pages> pages 391-398,</pages>   
+
+<meta ref_no="0223" class_no="freund1993a" bib_no="1097"></meta>
+<author>y. freund, m. j. kearns, d. ron, r. rubinfeld, r. e. schapire, and l. sellie.</author> <title> efficient learning of typical finite automata from random walks.</title><institution> the association for computing machinery.</institution><venue> proceedings of the 25th annual acm symposium on theory of computing (pp.</venue><address> san-diego, ca:</address> <year> (1993).</year><pages> 315-324).</pages>   
+
+<meta ref_no="0224" class_no="freund1993a" bib_no="1098"></meta>
+<author>y. freund, m. kearns, d. ron, r. rubinfeld, r.e. schapire, and l. sellie.</author> <title> efficient learning of typical finite automata from random walks.</title> <venue> in proceedings of the 24th annual acm symposium on theory of computing,</venue>  <year>1993</year><pages> pages 315-324,</pages>   
+
+<meta ref_no="0225" class_no="freund1993a" bib_no="1099"></meta>
+<author>yoav freund, michael kearns, dana ron, ronitt rubinfeld, robert schapire, and linda sellie.</author> <title> efficient learning of typical finite automata from random walks,</title> <venue> stoc-93,</venue>  <year>1993</year><pages> pp. 315-324.</pages>   
+
+<meta ref_no="0226" class_no="freund1993a" bib_no="1100"></meta>
+<author>y. freund, m. kearns, d. ron, r. rubinfeld, r.e. schapire, and l. sellie.</author> <title> efficient learning of typical finite automata from random walks.</title> <venue> in proceedings of the 24th annual acm symposium on theory of computing,</venue>  <year>1993</year><pages> pages 315-324,</pages>   
+
+<meta ref_no="0227" class_no="freund1993a" bib_no="1101"></meta>
+<author>y. freund, m. kearns, d. ron, r. rubinfeld, r. schapire, l. sellie.</author> <title> efficient learning of typical finite automata from random walks.</title> <venue> proc. 25 th annual acm symposium on the theory of computing,</venue><address> pp.315-324,</address> <year>1993</year>    
+
+<meta ref_no="0228" class_no="freund1993a" bib_no="1102"></meta>
+<author>yoav freund, michael kearns, dana ron, ronitt rubinfeld, robert schapire, and linda sellie.</author> <title> efficient learning of typical finite automata from random walks,</title> <venue> stoc-93,</venue>  <year>1993</year><pages> pp. 315-324.</pages>   
+
+<meta ref_no="0229" class_no="freund1993a" bib_no="1103"></meta>
+<author>y. freund, m. kearns, d. ron, r. rubinfeld, r. schapire, and l. sellie.</author> <title> efficient learning of typical finite automata from random walks.</title> <venue> in proceedings of the 24th annual acm symposium on theory of computing,</venue>  <year>1993</year>    
+
+<meta ref_no="0230" class_no="freund1993a" bib_no="1104"></meta>
+<author>yoav freund, michael j. kearns, dana ron, ronitt rubinfeld, robert e. schapire, and linda sellie.</author> <title> efficient learning of typical finite automata from random walks.</title> <venue> in proceedings of the 24th annual acm symposium on theory of computing,</venue>  <year>1993</year>    
+
+<meta ref_no="0231" class_no="freund1993a" bib_no="1105"></meta>
+<author>y. freund, m. kearns, d. ron, r. rubinfeld, r. schapire, and l. sellie.</author> <title> efficient learning of typical finite automata from random walks.</title> <venue> in proceedings of the 24th annual acm symposium on theory of computing,</venue>  <year>1993</year>    
+
+<meta ref_no="0232" class_no="freund1993a" bib_no="1106"></meta>
+<author>y. freund, m. kearns, d. ron, r. rubinfeld, r. schapire, and l. sellie.</author> <title> efficient learning of typical finite automata from random walks.</title> <venue> in proceedings of the 24th annual acm symposium on theory of computing,</venue>  <year>1993</year><pages> pages 315-324,</pages>   
+
+<meta ref_no="0233" class_no="freund1993a" bib_no="1107"></meta>
+<author>y. freund, m. kearns, d. ron, r. rubinfeld, r.e. schapire, and l. sellie</author> <title> efficient learning of typical finite automata from random walks,</title> <venue> in proceedings of the 24th annual acm symposium on theory of computing,</venue> <publisher> stoc-93.</publisher><year>1993</year>    
+
+<meta ref_no="0234" class_no="freund1993a" bib_no="1108"></meta>
+<author>yoav freund, michael kearns, dana ron, ronitt rubinfeld, robert schapire, and linda sellie.</author> <title> efficient learning of typical finite automata from random walks.</title> <venue> in proceedings of the twenty-fifth annual acm symposium on theory of computing,</venue>  <year>1993</year><pages> pages 315-324,</pages>  <month> may</month>
+
+<meta ref_no="0235" class_no="freund1993a" bib_no="1109"></meta>
+<author>yoav freund, michael kearns, dana ron, ronitt rubenfeld, robert schapire, and linda sellie.</author> <title> efficient learning of typical finite automata from random walks.</title> <venue> in proceedings of the twenty-fifth annual acm symposium on theory of computing,</venue>  <year>1993</year><pages> pages 315-324,</pages>  <month> may</month>
+
+<meta ref_no="0236" class_no="freund1993a" bib_no="1110"></meta>
+<author>y. freund, m. j. kearns, d. ron, r. rubinfeld, r. e. schapire, and l. sellie.</author> <title> efficient learning of typical finite automata from random walks.</title> <venue> 13 in proceedings of the 25th annual acm symposium on theory of com--puting,</venue><address> san-diego, ca, 1993.</address><publisher> acm press.</publisher><year>1993</year><pages> pages 315-324,</pages>   
+
+<meta ref_no="0237" class_no="freund1993a" bib_no="1111"></meta>
+<author>y. freund, m. kearns, d. ron, r. rubinfeld, r.e. schapire, and l. sellie.</author> <title> efficient learning of typical finite automata from random walks.</title> <venue> in proceedings of the 24th annual acm symposium on theory of computing,</venue>  <year>1993</year><pages> pages 315-324,</pages>   
+
+<meta ref_no="0238" class_no="freund1993a" bib_no="1112"></meta>
+<author>y. freund, m. kearns, d. ron, r. rubinfeld, r. e. schapire, and l. sellie.</author> <title> efficient learning of typical finite automata from random walks.</title> <venue> in proceedings of the 24th annual acm symp. on theory of computing,</venue>  <year>1993</year><pages> pages 315-324,</pages>   
+
+<meta ref_no="0239" class_no="freund1993a" bib_no="1113"></meta>
+<author>y. freund, m. kearns, d. ron, r. rubinfeld, r.e. schapire, and l. sellie.</author> <title> efficient learning of typical finite automata from random walks.</title> <venue> in proceedings of the 24th annual acm symp. on theory of computing,</venue>  <year>1993</year><pages> pages 315-324,</pages>   
+
+<meta ref_no="0240" class_no="freund1993a" bib_no="1114"></meta>
+<author>y. freund, m. kearns, d. ron, r. rubinfeld, r. schapire, and l. sellie.</author> <title> efficient learning of typical finite automata from random walks.</title> <venue> in proc. 25th stoc,</venue> <publisher> acm,</publisher><year>1993</year><pages> pages 315-324.</pages>   
+
+<meta ref_no="0241" class_no="freund1993a" bib_no="1115"></meta>
+<author>yoav freund, michael kearns, dana ron, ronitt rubinfeld, robert schapire, and linda sellie.</author> <title> efficient learning of typical finite automata from random walks.</title> <venue> in proceedings of the eighteenth annual acm symposium on theory of computing,</venue><address> san diego, ca,</address> <year>1993</year><pages> pages 315-324,</pages>  <month> may</month>
+
+<meta ref_no="0242" class_no="freund1993a" bib_no="1116"></meta>
+<author>y. freund, m. kearns, d. ron, r. rubinfeld, r. e. schapire, and l. sellie.</author> <title> efficient learning of typical finite automata from random walks.</title> <venue> in acm symposium on the theory of computing,</venue>  <year>1993</year><pages> pages 315-324,</pages>   
+
+<meta ref_no="0243" class_no="freund1993a" bib_no="1117"></meta>
+<author>freund y., kearns m. j., ron d., rubinfeld r., schapire r. e., and sellie l.</author> <title> efficient learning of typical finite automata from random walks.</title> <venue> in proceedings of the 25th annual acm symposium on theory of computing,</venue><address> 82 references</address><publisher> acm press.</publisher><year>1993</year><pages> 315-324.</pages>   
+
+<meta ref_no="0244" class_no="freund1993a" bib_no="1118"></meta>
+<author>m. kearns, y. mansour, d. ron, r. rubinfeld, r. schapire, and l. sellie.</author> <title> efficient learning of typical finite automata from random walks.</title> <venue> in proc. 26th stoc,</venue> <publisher> acm,</publisher><year>1994</year><pages> pages 273-282.</pages>   
+
+<meta ref_no="0245" class_no="freund1993b" bib_no="1119"></meta>
+<author>yoav freund.</author> <title> data filtering and distribution modeling algorithms for machine learning.</title><institution> university of california at santa cruz,</institution><venue> phd thesis,</venue>  <year>1993</year>  <note> retrievable from: ftp.cse.ucsc.edu/pub/tr/ucsc-crl-93-37.ps.z.</note> 
+
+<meta ref_no="0246" class_no="freund1993b" bib_no="1120"></meta>
+<author>freund y.</author> <title> data filtering and distribution modeling algorithms for machine learning.</title><institution> university of california at santa cruz.</institution><venue> phd thesis,</venue>  <year> (1993).</year>    
+
+<meta ref_no="0247" class_no="freund1993b" bib_no="1121"></meta>
+<author>freund y.</author> <title> data filtering and distribution modeling algorithms for machine learning.</title><institution> university of california at santa cruz.</institution><venue> phd thesis,</venue>  <year> (1993).</year>  <note> available as technical report ucsc-crl-93-37.</note> 
+
+<meta ref_no="0248" class_no="freund1993b" bib_no="1122"></meta>
+<author>yoav freund.</author> <title> data filtering and distribution modeling algorithms for machine learning.</title><institution> university of california at santa cruz,</institution><venue> phd thesis,</venue>  <year>1993</year>  <note> retrievable from: ftp.cse.ucsc.edu/pub/tr/ucsc-crl-93-37.ps.z.</note> 
+
+<meta ref_no="0249" class_no="freund1993c" bib_no="1123"></meta>
+<author>yoav freund, h. sebastian seung, eli shamir, and naftali tishby.</author> <title> selective sampling using the query by committee algorithm.</title> <venue> in advances in neural information processing systems,</venue><address> cambridge, ma, 1993.</address><publisher> mit press.</publisher><year>1993</year>    
+
+<meta ref_no="0271" class_no="freund1995aC" bib_no="1124"></meta>
+<author>y. freund.</author><volume> 121(2)</volume><title> boosting a weak learning algorithm by majority.</title> <venue> information and computation,</venue>  <year>1995</year><pages> 256-285,</pages> <note> also appeared in colt90.</note><month> september</month>
+
+<meta ref_no="0272" class_no="freund1995aC" bib_no="1125"></meta>
+<author>y. freund.</author><volume> 121(2)</volume><title> boosting a weak learning algorithm by majority.</title> <venue> information and computation,</venue>  <year>1995</year><pages> 256-285,</pages> <note> also appeared in colt90.</note><month> september</month>
+
+<meta ref_no="0273" class_no="freund1995aC" bib_no="1126"></meta>
+<author>yoav freund.</author> <title> boosting a weak learning algorithm by majority.</title> <venue> information and computation,</venue>  <year>1995</year>  <note> to appear.</note> 
+
+<meta ref_no="0274" class_no="freund1995aC" bib_no="1127"></meta>
+<author>freund y.</author> <title> `boosting a weak learning algorithm by majority',</title> <venue> information and computation 121(2),</venue>  <year> (1995),</year><pages> 256-285.</pages>   
+
+<meta ref_no="0275" class_no="freund1995aC" bib_no="1128"></meta>
+<author>freund y.</author><volume> 121 (2),</volume><title> boosting a weak learning algorithm by majority.</title> <venue> information and computation,</venue>  <year> (1995).</year><pages> 256-285.</pages> <note> also appeared in colt90.</note> 
+
+<meta ref_no="0276" class_no="freund1995aC" bib_no="1129"></meta>
+<author>freund y.</author> <title> `boosting a weak learning algorithm by majority',</title> <venue> information and computation 121(2),</venue>  <year> (1996),</year><pages> 256-285.</pages>   
+
+<meta ref_no="0277" class_no="freund1995aC" bib_no="1130"></meta>
+<author>freund y.</author> <title> boosting a weak learning algorithm by majority.</title> <venue> information and computation 121(2):</venue>  <year>1996</year><pages> 256-285.</pages>   
+
+<meta ref_no="0278" class_no="freund1995aC" bib_no="1131"></meta>
+<author>freund y.</author> <title> boosting a weak learning algorithm by majority.</title> <venue> information and computation 121(2):</venue>  <year>1995</year>  <note> information and compu tation 121 (1996) 256-285.</note> 
+
+<meta ref_no="0279" class_no="freund1995aC" bib_no="1132"></meta>
+<author>freund y.</author> <title> boosting a weak learning algorithm by majority.</title> <venue> information and computation 121(2):</venue>  <year>1995</year>  <note> information and computation 121 (1996) 256-285.</note> 
+
+<meta ref_no="0280" class_no="freund1995aC" bib_no="1133"></meta>
+<author>yoav freund.</author> <title> boosting a weak learning algorithm by majority.</title> <venue> information and computation,</venue>  <year>1990</year>  <note> to appear. an extended abstract appeared in proceedings of the third annual workshop on computational learning theory,</note> 
+
+<meta ref_no="0281" class_no="freund1995aC" bib_no="1134"></meta>
+<author>yoav freund.</author><volume> 121(2)</volume><title> boosting a weak learning algorithm by majority.</title> <venue> information and computation,</venue>  <year>1995</year><pages> 256-285,</pages>   
+
+<meta ref_no="0282" class_no="freund1995aC" bib_no="1135"></meta>
+<author>yoav freund.</author><volume> 121(2)</volume><title> boosting a weak learning algorithm by majority.</title> <venue> information and computation,</venue>  <year>1995</year><pages> 256-285,</pages>   
+
+<meta ref_no="0283" class_no="freund1995aC" bib_no="1136"></meta>
+<author>yoav freund.</author><volume> 121(2)</volume><title> boosting a weak learning algorithm by majority.</title> <venue> information and computation,</venue>  <year>1995</year><pages> 256-285,</pages>   
+
+<meta ref_no="0284" class_no="freund1995aC" bib_no="1137"></meta>
+<author>yoav freund.</author><volume> 121(2)</volume><title> boosting a weak learning algorithm by major ity.</title> <venue> information and computation,</venue>  <year>1995</year><pages> 256-285,</pages>  <month> september</month>
+
+<meta ref_no="0285" class_no="freund1995aC" bib_no="1138"></meta>
+<author>yoav freund.</author><volume> 121(2)</volume><title> boosting a weak learning algorithm by majority.</title> <venue> information and computation,</venue>  <year>1995</year><pages> 256-285,</pages>  <month> september</month>
+
+<meta ref_no="0286" class_no="freund1995aC" bib_no="1139"></meta>
+<author>yoav freund.</author><volume> 121(2)</volume><title> boosting a weak learning algorithm by majority.</title> <venue> information and computation,</venue>  <year>1995</year><pages> 256-285,</pages>   
+
+<meta ref_no="0287" class_no="freund1995aC" bib_no="1140"></meta>
+<author>freund y.</author> <title> boosting a weak learning algorithm by majority.</title> <venue> information and computation 121(2):</venue>  <year>1995</year><pages> 256-285.</pages>   
+
+<meta ref_no="0320" class_no="freund1995d" bib_no="1141"></meta>
+<author>freund y., & schapire r. e.</author> <title> a decision-theoretic generalization of on-line learning and an application to boosting.</title><institution> at&t bell laboratories,</institution><venue> tech. rep.,</venue><address> murray hill, nj.</address> <year> (1995).</year>    
+
+<meta ref_no="0326" class_no="freund1995f" bib_no="1142"></meta>
+<author>freud y., kearns m., mansour y., ron d., rubinfeld r., and shapire r. e.</author> <title> efficient algorithms for learning to play repeated games against computationally bounded adversaries.</title> <venue> proceedings of the 36 th annual symposium on foundations of computer science.</venue>  <year>1995</year>    
+
+<meta ref_no="0327" class_no="freund1995f" bib_no="1143"></meta>
+<author>y. freund, m. kearns, y. mansour, d. ron, r. rubinfeld, and r. schapire.</author> <title> efficient algorithms for learning to play repeated games against computationally bounded adversaries.</title> <venue> to appear in proceedings of the thirty sixth annual symposium on foundations of computer science,</venue>  <year>1995</year>    
+
+<meta ref_no="0328" class_no="freund1995f" bib_no="1144"></meta>
+<author>yoav freund, michael j. kearns, yishay mansour, dana ron, ronitt rubinfeld, and robert e. schapire.</author> <title> efficient algorithms for learning to play repeated games against computationally bounded adversaries.</title> <venue> to appear in proceedings of the thirty sixth annual symposium on foundations of computer science,</venue>  <year>1995</year>    
+
+<meta ref_no="0329" class_no="freund1995f" bib_no="1145"></meta>
+<author>y. freund, m. kearns, y. mansour, d. ron, r. rubinfeld, and r. schapire.</author> <title> efficient algorithms for learning to play repeated games against computationally bounded adversaries.</title> <venue> in proceedings of the thirty seventh annual symposium on foundations of computer science,</venue>  <year>1996</year><pages> pages 332-341,</pages>   
+
+<meta ref_no="0330" class_no="freund1995f" bib_no="1146"></meta>
+<author>y. freund, m. kearns, y. mansour, d. ron, r. rubinfeld, and r. e. schapire.</author> <title> efficient algorithms for learning to play repeated games against computationally bounded adversaries.</title> <venue> in proceedings of the thirty sixth annual symposium on foundations of computer science,</venue>  <year>1995</year><pages> pages 332-341,</pages>   
+
+<meta ref_no="0331" class_no="freund1995f" bib_no="1147"></meta>
+<author>freund y., m. kearns et al.</author> <year> (1995)</year> <title> efficient algorithms for learning to play repeated games against computationally bounded adversaries.</title> <venue> focs 36.</venue>  <year>1995</year>    
+
+<meta ref_no="0332" class_no="freund1995f" bib_no="1148"></meta>
+<author>y. freund, m. kearns, y. mansour, d. ron, r. rubinfeld, and r. e. schapire.</author> <title> efficient algorithms for learning to play repeated games against computationally bounded adversaries.</title> <venue> in ieee symposium on the foundations of computer science,</venue>  <year>1995</year>    
+
+<meta ref_no="0333" class_no="freund1996a" bib_no="1149"></meta>
+<author>y. freund.</author> <title> predicting a binary sequence almost as well as the optimal biased coin.</title> <venue> in proceedings of the 9th annual conference on computational learning theory,</venue>  <year>1996</year><pages> pages 89-98,</pages>   
+
+<meta ref_no="0334" class_no="freund1996a" bib_no="1150"></meta>
+<author>y. freund</author> <title> 'predicting bits almost as well as the optimal biased coin,'</title> <venue> in proc. 9th annual conference on computational learning theory,</venue><address> new york:</address><publisher> acm press,</publisher><year> 1996,</year><pages> pp. 89-98.</pages>   
+
+<meta ref_no="0335" class_no="freund1996a" bib_no="1151"></meta>
+<author>y. freund</author> <title> predicting a binary sequence as well as the optimal biased coin,</title> <venue> proceedings of the ninth annual conference on computational learning theory,</venue> <publisher> acm press,</publisher><year> (1996).</year>    
+
+<meta ref_no="0336" class_no="freund1996a" bib_no="1152"></meta>
+<author>yoav freund.</author> <title> predicting a binary sequence almost as well as the optimal biased coin.</title> <venue> in proceedings of the ninth annual conference on computational learning theory,</venue>  <year>1996</year>    
+
+<meta ref_no="0404" class_no="freund1996e" bib_no="1153"></meta>
+<author>freund y., and schapire r. e.</author> <title> experiments with a new boosting algorithm.</title> <venue> unpublished manuscript.</venue>  <year> 1996b.</year>    
+
+<meta ref_no="0405" class_no="freund1996e" bib_no="1154"></meta>
+<author>y. freund, and r. schapire.</author> <title> some experiments with a new boosting algorithm.</title> <venue> unpublished manuscript,</venue>  <year>1996</year>    
+
+<meta ref_no="0480" class_no="goldman1993aC" bib_no="1155"></meta>
+<author>s. a. goldman, m. j. kearns, and r. e. schapire.</author> <title> exact identification of read-once formulas using fixed points of amplification functions.</title> <venue> siam journal on computing,</venue>  <year> (1993).</year><pages> 22 , 705-726.</pages>   
+
+<meta ref_no="0481" class_no="goldman1993aC" bib_no="1156"></meta>
+<author>s. a. goldman, m. j. kearns, and r. e. schapire.</author><volume> 22(4)</volume><title> exact identification of circuits using fixed points of amplification functions.</title> <venue> siam j. comput.,</venue>  <year>1993</year><pages> 705-726,</pages>  <month> august</month>
+
+<meta ref_no="0482" class_no="goldman1993aC" bib_no="1157"></meta>
+<author>s. a. goldman, m. j. kearns, and r. e. schapire.</author><volume> 22 (1993),</volume><title> exact identification of read-once formulas using fixed points of amplification functions.</title> <venue> siam journal on computing,</venue>  <year>1993</year><pages> 705-726.</pages>   
+
+<meta ref_no="0483" class_no="goldman1993aC" bib_no="1158"></meta>
+<author>s. a. goldman, m. j. kearns, and r. e. schapire.</author><volume> 22 (1993),</volume><title> exact identification of read-once formulas using fixed points of amplification functions.</title> <venue> siam journal on computing,</venue>  <year>1993</year><pages> 705-726.</pages>   
+
+<meta ref_no="0484" class_no="goldman1993aC" bib_no="1159"></meta>
+<author>s. a. goldman, m. j. kearns, and r. e. schapire.</author><volume> 22(4)</volume><title> exact identification of circuits using fixed points of amplification functions.</title> <venue> siam j. comput.,</venue>  <year>1993</year><pages> 705-726,</pages>  <month> august</month>
+
+<meta ref_no="0485" class_no="goldman1993aC" bib_no="1160"></meta>
+<author>s. a. goldman, m. j. kearns, and r. e. schapire.</author><volume> 22(4)</volume><title> exact identification of read-once formulas using fixed points of amplification functions.</title> <venue> siam j. comput.,</venue>  <year>1993</year><pages> 705-726,</pages>   
+
+<meta ref_no="0486" class_no="goldman1993aC" bib_no="1161"></meta>
+<author>sally a. goldman, michael j. kearns, and robert e. schapire.</author><volume> 22(4)</volume><title> exact identifi-cation of circuits using fixed points of amplification functions.</title> <venue> siam journal on computing,</venue>  <year>1993</year><pages> 705-726,</pages>  <month> august</month>
+
+<meta ref_no="0487" class_no="goldman1993aC" bib_no="1162"></meta>
+<author>sally a. goldman, michael j. kearns, and robert e. schapire.</author><volume> 22(4)</volume><title> exact identifi cation of circuits using fixed points of amplification functions.</title> <venue> siam journal on computing,</venue>  <year>1993</year><pages> 705-726,</pages>  <month> august</month>
+
+<meta ref_no="0488" class_no="goldman1993aC" bib_no="1163"></meta>
+<author>s. a. goldman, m. j. kearns, and r. e. schapire.</author><volume> 22(4)</volume><title> exact identification of read-once formulas using fixed points of amplification functions.</title> <venue> siam j. comput.,</venue>  <year>1993</year><pages> 705-726,</pages>   
+
+<meta ref_no="0489" class_no="goldman1993aC" bib_no="1164"></meta>
+<author>s. goldman, m. kearns, and r. schapire.</author><volume> 22(4)</volume><title> exact identification of circuits using fixed points of amplification functions.</title> <venue> siam j. comput.,</venue>  <year>1993</year><pages> 705-726,</pages>  <month> august</month>
+
+<meta ref_no="0495" class_no="haussler1988" bib_no="1165"></meta>
+<author>david haussler, michael kearns, nick littlestone, and manfred k. war-muth.</author> <title> equivalence of models for polynomial learnability.</title> <venue> in proceedings of the 1988 workshop on computational learning theory,</venue><address> cambridge, ma,</address> <year>1988</year><pages> morgan-kaufmann.</pages>  <month> august</month>
+
+<meta ref_no="0496" class_no="haussler1988" bib_no="1166"></meta>
+<author>david haussler, michael kearns, nick littlestone, and manfred k. warmuth.</author> <title> equivalence of models for polynomial learnability.</title> <venue> in proceedings of the 1988 workshop on computational learning theory,</venue> <publisher> morgan kaufmann,</publisher><year>1988</year><pages> pages 42-55.</pages>  <month> august</month>
+
+<meta ref_no="0527" class_no="haussler1991p" bib_no="1167"></meta>
+<author>d. haussler, m. kearns, and r. schapire</author> <year> (1991).</year> <title> `bounds on the sample complexity of bayesian learning using information theory and the vc dimension',</title> <venue> preprint.</venue>  <year>1991</year>    
+
+<meta ref_no="0528" class_no="haussler1991p" bib_no="1168"></meta>
+<author>d. haussler, m. kearns, and r. schapire</author> <year> (1991).</year> <title> bounds on the sample complexity of bayesian learning using information theory and the v-c dimension,</title> <venue> preprint.</venue>  <year>1991</year>    
+
+<meta ref_no="0529" class_no="haussler1992" bib_no="1169"></meta>
+<author>haussler d., kearns m., and schapire r.</author> <title> bounds on the sample complexity of bayesian learning using information theory and the vc dimension.</title><institution> ucsc-crl-91-44, university of california at santa cruz.</institution><venue> proceedings of the seventh annual acm conference on computational learning theory,</venue>  <year> (1992).</year>    
+
+<meta ref_no="0530" class_no="haussler1992" bib_no="1170"></meta>
+<author>haussler d., kearns m., and schapire r.</author> <title> bounds on the sample complexity of bayesian learning using information theory and the vc dimension.</title><institution> ucsc-crl-91-44, university of california at santa cruz.</institution><venue> proceedings of the seventh annual acm conference on computational learning theory,</venue>  <year> (1992).</year>    
+
+<meta ref_no="0531" class_no="haussler1992" bib_no="1171"></meta>
+<author>haussler d., kearns m., and schapire r.</author> <title> bounds on the sample complexity of bayesian learning using information theory and the vc dimension.</title><institution> ucsc-crl-91-44, university of california at santa cruz.</institution><venue> proceedings of the seventh annual acm conference on computational learning theory,</venue>  <year> (1992).</year>   <month>12</month>
+
+<meta ref_no="0532" class_no="haussler1994" bib_no="1172"></meta>
+<author>d. haussler, m. kearns, h. s. seung, and n. tishby.</author> <title> rigorous learning curve bounds from statistical mechanics.</title> <venue> proceedings of the seventh annual acm conference on computational learning theory,</venue><address> new york, 1994.</address><publisher> acm.</publisher><year>1994</year><pages> pages 76-87,</pages><editor> in m. k. warmuth, editor,</editor>  
+
+<meta ref_no="0533" class_no="haussler1994" bib_no="1173"></meta>
+<author>haussler d., kearns m. j., seung h. s., and tishby n.</author> <title> rigorous learning curve bounds from statistical mechanics.</title> <venue> in proceedings of the seventh annual conference on computational learning theory (colt-94),</venue>  <year>1994</year><pages> pages 76-87.</pages>   
+
+<meta ref_no="0534" class_no="haussler1994" bib_no="1174"></meta>
+<author>haussler d., kearns m., seung h. s., & tishby n.</author> <title> rigorous learning curve bounds from statistical mechanics,</title> <venue> in 'proceedings of the seventh annual acm conference on computational learning theory',</venue> <publisher> acm press,</publisher><year> (1994),</year><pages> pp. 76-87.</pages>   
+
+<meta ref_no="0535" class_no="haussler1994" bib_no="1175"></meta>
+<author>haussler d., kearns m., seung h. s., & tishby n.</author> <title> rigorous learning curve bounds from statistical mechanics.</title> <venue> in proc. 7th annu. acm workshop on comput. learning theory,</venue><address> new york, ny.</address><publisher> acm press,</publisher><year> (1994).</year><pages> pp. 76-87.</pages>   
+
+<meta ref_no="0536" class_no="haussler1994" bib_no="1176"></meta>
+<author>haussler d., kearns m., seung h. s., and tishby n.</author> <title> rigorous learning curve bounds from statistical mechanics..</title> <venue> in colt (1994),</venue>  <year> (1994).</year><pages> pp. 67-75.</pages>   
+
+<meta ref_no="0537" class_no="haussler1994" bib_no="1177"></meta>
+<author>haussler d., kearns m., seung h. s., and tishby n.</author> <title> rigorous learning curve bounds from statistical mechanics.</title> <venue> in proceedings of the 7th annual acm workshop on computational learning theory,</venue><address> san mateo, ca.</address><publisher> morgan kauffman.</publisher><year> (1994).</year><pages> pages 76-87,</pages>   
+
+<meta ref_no="0538" class_no="haussler1994" bib_no="1178"></meta>
+<author>d. haussler, m. kearns, h. s. seung, and n. tishby.</author> <title> rigorous learning curve bounds from statistical mechanics.</title> <venue> in proceedings of the seventh annual acm workshop on computational learning theory,</venue>  <year>1994</year>    
+
+<meta ref_no="0539" class_no="haussler1994" bib_no="1179"></meta>
+<author>d. haussler, m. kearns, h. s. seung, and n. tishby.</author> <title> rigorous learning curve bounds from statistical mechanics.</title> <venue> in proceedings of the seventh annual acm conference on computational learning theory,</venue><address> new york, 1994.</address><publisher> acm.</publisher><year>1994</year><pages> pages 76-87,</pages>   
+
+<meta ref_no="0540" class_no="haussler1994" bib_no="1180"></meta>
+<author>d. haussler, m. kearns, h.s. seung, and n. tishby.</author> <title> rigourous learning curve bounds from statistical mechanics.</title> <venue> in proceedings of the seventh annual acm confernce on computational learning theory,</venue>  <year>1994</year><pages> pages 76-87,</pages>   
+
+<meta ref_no="0541" class_no="haussler1994" bib_no="1181"></meta>
+<author>d. haussler, m. kearns, h.s. seung, and n. tishby.</author> <title> rigourous learning curve bounds from statistical mechanics.</title> <venue> in proceedings of the seventh annual acm confernce on computational learning theory,</venue>  <year>1994</year><pages> pages 76-87,</pages>   
+
+<meta ref_no="0542" class_no="haussler1994" bib_no="1182"></meta>
+<author>d. haussler, m. kearns, h. s. seung, and n. tishby.</author> <title> rigorous learning curve bounds from statistical mechanics.</title> <venue> in proc. 7th annual workshop on comput. learning theory,</venue><address> san mateo, ca,</address><publisher> morgan kaufmann,</publisher><year>1994</year><pages> pages 76-87.</pages>   
+
+<meta ref_no="0543" class_no="haussler1994" bib_no="1183"></meta>
+<author>d. haussler, m. kearns, h. s. seung, and n. tishby.</author> <title> rigorous learning curve bounds from statistical mechanics.</title> <venue> in proceedings of the 7th annual acm workshop on computational learning theory,</venue><address> san mateo, ca,</address><publisher> morgan kauffman,</publisher><year>1994</year><pages> pages 76-87.</pages>   
+
+<meta ref_no="0544" class_no="haussler1994" bib_no="1184"></meta>
+<author>haussler d., m. kearns, h. s. seung, and n. tishby</author> <title> 'rigorous learning curve bounds from statistical mechanics' </title> <venue>proceedings of colt-94, in proceedings of the 7th annual acm workshop on computational learning theory,</venue><address> ny, pp.76-87,</address><publisher> acm,</publisher><year>1994</year>    
+
+<meta ref_no="0545" class_no="haussler1994" bib_no="1185"></meta>
+<author>haussler d., m. kearns, h. s. seung, and n. tishby.</author> <title> 'rigorous learning curve bounds from statistical mechanics' </title> <venue>proceedings of colt-94, in proceedings of the 7th annual acm workshop on computational learning theory,</venue><address> ny, pp.76-87,</address><publisher> acm,</publisher><year>1994</year>    
+
+<meta ref_no="0546" class_no="haussler1994" bib_no="1186"></meta>
+<author>d. haussler, m. kearns, h.s. seung, and n. tishby</author> <title> 'rigorous learning curve bounds from statistical mechanics',</title> <venue> in proceedings of the seventh acm conference on computational learning theory,</venue> <publisher> morgan kaufmann.</publisher><year> 1994,</year><pages> pp. 76-87,</pages><editor> m. warmuth, ed.</editor>  
+
+<meta ref_no="0547" class_no="haussler1994" bib_no="1187"></meta>
+<author>d. haussler, m. kearns, h.s. seung, and n. tishby</author> <title> 'rigorous learning curve bounds from statistical mechanics',</title> <venue> in proceedings of the seventh workshop on computational learning theory',</venue> <publisher> acm press,</publisher><year>1994</year>    
+
+<meta ref_no="0548" class_no="haussler1994" bib_no="1188"></meta>
+<author>d. haussler, m. kearns, s. seung, n tishby</author> <title> 'rigorous learning curve bounds from statistical mechanics',</title> <venue> proceedings of colt 1994,</venue>  <year>1994</year><pages> pp. 76-85.</pages>   
+
+<meta ref_no="0549" class_no="haussler1994" bib_no="1189"></meta>
+<author>d. haussler, m. kearns, h. s. seung, n. tishby</author><volume> 76 - 87.</volume><title> rigorous learning curve bounds from statistical mechanics,</title> <venue> proc. of the 7th annual acm conference on computational learning theory 1994, acm-press (1994),</venue>  <year>1994</year>    
+
+<meta ref_no="0550" class_no="haussler1994" bib_no="1190"></meta>
+<author>d. haussler, m. kearns, h. s. seung, and n. tishby.</author> <title> rigorous learning curve bounds from statistical mechanics.</title> <venue> in proceedings of the seventh annual workshop on computational learning theory (colt-94),</venue>  <year>1994</year><pages> pages 76-87,</pages>   
+
+<meta ref_no="0573" class_no="haussler1994aC1" bib_no="1191"></meta>
+<author>david haussler, michael kearns, and robert e. schapire.</author><volume>14</volume><title> bounds on the sample complexity of bayesian learning using information theory and the vc dimension.</title> <venue> machine learning,</venue>  <year>1994</year><pages> 83-113,</pages>   
+
+<meta ref_no="0574" class_no="haussler1994aC1" bib_no="1192"></meta>
+<author>david haussler, michael kearns, and robert e. schapire.</author><volume>14</volume><title> bounds on the sample complexity of bayesian learning using information theory and the vc dimension.</title> <venue> machine learning,</venue>  <year>1994</year><pages> 83-113,</pages>   
+
+<meta ref_no="0575" class_no="haussler1994aC1" bib_no="1193"></meta>
+<author>haussler david, kearns michael, and schapire robert </author> <year>1994.</year> <title> bounds on the sample complexity of bayesian learning using information theory and the vc dimension.</title> <venue> machine learning 14(1)</venue>  <year>1994</year><pages> 83-113.</pages>   
+
+<meta ref_no="0576" class_no="haussler1994aC1" bib_no="1194"></meta>
+<author>haussler d., kearns m., and schapire r.e.</author> <title> bounds on the sample complexity of bayesian learning using informations theory and the vc dimension.</title> <venue> machine learning 14</venue>  <year>1994</year><pages> 83-113.</pages>   
+
+<meta ref_no="0577" class_no="haussler1994aC1" bib_no="1195"></meta>
+<author>david haussler, michael kearns, and robert schapire.</author><volume>14</volume><title> bounds on the sample complexity of bayesian learning using information theory and the vc dimension.</title> <venue> machine learning,</venue>  <year>1994</year><pages> 83-113,</pages>   
+
+<meta ref_no="0578" class_no="haussler1994aC1" bib_no="1196"></meta>
+<author>d. haussler, m. kearns, and r. e. schapire.</author><volume> 14(1)</volume><title> bounds on the sample complexity of bayesian learning using information theory and the vc dimension.</title> <venue> machine learning,</venue>  <year>1994</year><pages> 83-113,</pages>   
+
+<meta ref_no="0579" class_no="haussler1994aC1" bib_no="1197"></meta>
+<author>d. haussler, m. kearns, and r. schapire.</author> <title> bounds on the sample complexity of bayesian learning using information theory and the vc dimension.</title> <venue> machine learning,</venue>  <year>1994</year>  <note> to appear.</note> 
+
+<meta ref_no="0580" class_no="haussler1994aC1" bib_no="1198"></meta>
+<author>d. haussler, m. kearns, and r. schapire.</author><volume>14</volume><title> bounds on the sample complexity of bayesian learning using information theory and the vc dimension.</title> <venue> machine learning,</venue>  <year>1994</year><pages> 84-114,</pages>   
+
+<meta ref_no="0581" class_no="haussler1994aC1" bib_no="1199"></meta>
+<author>d. haussler, m. kearns, and r. e. schapire.</author><volume> 14(1)</volume><title> bounds on the sample complexity of bayesian learning using information theory and the vc dimension.</title> <venue> machine learning,</venue>  <year>1994</year><pages> 83-113,</pages>   
+
+<meta ref_no="0582" class_no="haussler1994aC1" bib_no="1200"></meta>
+<author>d. haussler, m. kearns, and r. e. schapire.</author><volume> 14(1)</volume><title> bounds on the sample complexity of bayesian learning using information theory and the vc dimension.</title> <venue> machine learning,</venue>  <year>1994</year><pages> 83-113,</pages>   
+
+<meta ref_no="0583" class_no="haussler1994aC1" bib_no="1201"></meta>
+<author>d. haussler, m. kearns, and r. schapire.</author><volume> 14(1)</volume><title> bounds on the sample complexity of bayesian learning using information thjeory and the vc dimension.</title> <venue> machine learning,</venue>  <year>1994</year><pages> 83-113,</pages>   
+
+<meta ref_no="0584" class_no="haussler1994aC1" bib_no="1202"></meta>
+<author>d. haussler, m kearns, and r. shapire.</author><volume> 14(1)</volume><title> bounds on the sample complexity of bayesian learning using information theory and the vc dimension.</title> <venue> machine learning journal,</venue>  <year>1994</year><pages> 83-113,</pages>   
+
+<meta ref_no="0585" class_no="haussler1994aC1" bib_no="1203"></meta>
+<author>d. haussler, m. kearns, and r. schapire.</author><volume>14</volume><title> bounds on the sample complexity of bayesian learning using information theory and the vc dimension.</title> <venue> machine learning,</venue>  <year>1994</year><pages> 84-114,</pages>   
+
+<meta ref_no="0586" class_no="haussler1994aC1" bib_no="1204"></meta>
+<author>david haussler, michael kearns, and robert e. schapire.</author><volume>14</volume><title> bounds on the sample complexity of bayesian learning using information theory and the vc dimension.</title> <venue> machine learning,</venue>  <year>1994</year><pages> 83-113,</pages>   
+
+<meta ref_no="0587" class_no="haussler1994aC1" bib_no="1205"></meta>
+<author>d. haussler, m. kearns, and r. schapire.</author> <title> bounds on the sample complexity of bayesian learning using information theory and the vc dimension.</title> <venue> machine learning.</venue>  <year>1994</year>  <note> to appear.</note> 
+
+<meta ref_no="0588" class_no="haussler1994aC1" bib_no="1206"></meta>
+<author>d. haussler, m. kearns, and r. schapire.</author> <title> bounds on the sample complexity of bayesian learning using information theory and the vc dimension.</title> <venue> machine learning,</venue>  <year>1994</year>  <note> to appear.</note> 
+
+<meta ref_no="0590" class_no="haussler1996" bib_no="1207"></meta>
+<author>d. haussler, m. kearns, h.s. seung, and n. tishby.</author><volume>25</volume><title> rigourous learning curve bounds from statistical mechanics.</title> <venue> machine learning,</venue>  <year>1996</year><pages> 195-236,</pages>   
+
+<meta ref_no="0591" class_no="haussler1996" bib_no="1208"></meta>
+<author>david haussler, michael kearns, h. sebastian seung, and naftali tishby.</author> <title> rigorous learning curve bounds from statistical mechanics.</title> <venue> machine learning,</venue><address> 25:195--236,</address> <year>1996</year>    
+
+<meta ref_no="0592" class_no="haussler1996" bib_no="1209"></meta>
+<author>d. haussler, m. kearns, h.s. seung, and n. tishby.</author><volume>25</volume><title> rigorous learning curve bounds from statistical mechanics.</title> <venue> machine learning,</venue>  <year>1996</year><pages> 195-236,</pages>   
+
+<meta ref_no="0593" class_no="helmbold1995" bib_no="1210"></meta>
+<author>d.p. helmbold, and r.e. schapire.</author> <title> predicting nearly as well as the best pruning of a decision tree.</title> <venue> in proceedings of the eighth annual conference on computational learning theory,</venue>  <year>1995</year><pages> pages 61-68,</pages>   
+
+<meta ref_no="0594" class_no="helmbold1995" bib_no="1211"></meta>
+<author>david p. helmbold, and robert e. schapire.</author> <title> predicting nearly as well as the best pruning of a decision tree.</title> <venue> in proceedings of the eighth annual conference on computational learning theory,</venue>  <year>1995</year><pages> pages 61-68,</pages>   
+
+<meta ref_no="0595" class_no="helmbold1995" bib_no="1212"></meta>
+<author>david p. helmhold, and robert e. schapire.</author> <title> predicting nearly as well as the best pruning of a decision tree.</title> <venue> in proceedings of the 8th annual conference on computational learning theory,</venue><address> new york, ny, 1995.</address><publisher> acm press.</publisher><year>1995</year><pages> pages 61-68,</pages>   
+
+<meta ref_no="0596" class_no="helmbold1995" bib_no="1213"></meta>
+<author>david p. helmbold, and robert e. schapire.</author> <title> predicting nearly as well as the best pruning of a decision tree.</title> <venue> proceedings of the eighth annual conference on computational learning theory,</venue> <publisher> acm press,</publisher><year>1995</year><pages> pages 61 - 68,</pages>   
+
+<meta ref_no="0597" class_no="helmbold1995" bib_no="1214"></meta>
+<author>d. p. helmbold, and r. e. schapire.</author> <title> predicting nearly as well as the best pruning of a decision tree.</title> <venue> in proc. 6th annu. conf. on comput. learning theory,</venue><address> new york, ny,</address><publisher> acm press,</publisher><year>1995</year><pages> pages 61-68.</pages>  <month> july</month>
+
+<meta ref_no="0598" class_no="helmbold1995" bib_no="1215"></meta>
+<author>d. p. helmbold, and r. e. schapire.</author> <title> predicting nearly as well as the best pruning of a decision tree.</title> <venue> to appear in the proceedings of the eighth annual conference on computational learning theory,</venue><address> santa cruz,</address> <year>1995</year>   <month> july</month>
+
+<meta ref_no="0599" class_no="helmbold1995a" bib_no="1216"></meta>
+<author>david p. helmbold, robert e. schapire, yoram singer, and manfred k. warmuth.</author> <title> a comparison of new and old algorithms for a mixture estimation problem.</title> <venue> in proceedings of the eighth annual conference on computational learning theory,</venue>  <year>1995</year><pages> pages 69-78,</pages>   
+
+<meta ref_no="0600" class_no="helmbold1995a" bib_no="1217"></meta>
+<author>d. p. helmbold, r. e. schapire, y. singer, and m. k. warmuth.</author> <title> a comparison of new and old algorithms for a mixture estimation problem.</title> <venue> in proceedings of the eighth annual workshop on computational learning theory,</venue>  <year>1995</year><pages> pages 69-78,</pages>   
+
+<meta ref_no="0601" class_no="helmbold1995a" bib_no="1218"></meta>
+<author>d.p. helmbold, r.e. schapire, y. singer m.k. warmuth,</author> <title> a comparison of new and old algorithms for a mixture estimation problem,</title> <venue> appearing in proc. of the eighth annual conf. on computational learning theory,</venue>  <year>1995</year>   <month> july</month>
+
+<meta ref_no="0602" class_no="helmbold1995a" bib_no="1219"></meta>
+<author>d. p. helmbold, r. e. schapire, y. singer, and m. k. warmuth.</author> <title> a comparison of new and old algorithms for a mixture estimation problem.</title> <venue> in proceedingsof the eighth annual workshop on computationallearning theory,</venue>  <year>1995</year><pages> pages 69-78,</pages>   
+
+<meta ref_no="0603" class_no="helmbold1995aC" bib_no="1220"></meta>
+<author>d. helmbold, r. e. schapire, y. singer, and m. k. warmuth.</author> <title> a comparison of new and old algorithms for a mixture estimation problem.</title><institution> university of california, santa cruz, computer research laboratory,</institution><venue> technical report ucsc-crl-95-50,</venue>  <year>1995</year>  <note> an extended abstract appeared in colt '95.</note><month> october</month>
+
+<meta ref_no="0614" class_no="helmbold1997" bib_no="1221"></meta>
+<author>helmbold d. p., & schapire r. e.</author><volume> 27,</volume><title> predicting nearly as well as the best pruning of a decision tree.</title> <venue> machine learning,</venue>  <year> (1997).</year><pages> 51-68.</pages>   
+
+<meta ref_no="0615" class_no="helmbold1997" bib_no="1222"></meta>
+<author>d.p. helmbold, and r.e. schapire.</author><volume> 27(1)</volume><title> predicting nearly as well as the best pruning of a decision tree.</title> <venue> machine learning,</venue>  <year>1997</year><pages> 51-68,</pages>   
+
+<meta ref_no="0629" class_no="kautz1993C" bib_no="1223"></meta>
+<author>kautz henry, kearns michael, and selman bart</author> <year> 1993. </year><title>reasoning with characteristic models.</title><institution> at&t bell laboratories,</institution><venue> technical report,</venue><address> murray hill, nj.</address> <year>1993</year>    
+
+<meta ref_no="0646" class_no="kearns1987" bib_no="1224"></meta>
+<author>m. kearns, m. li, l. pitt, and l. g. valiant.</author> <title> on the learnability of boolean formulae.</title> <venue> in proceedings of the nineteenth annual acm symposium on theory of computing,</venue><address> new york, new york,</address> <year>1987</year><pages> pages 285-295,</pages>  <month> may</month>
+
+<meta ref_no="0647" class_no="kearns1987" bib_no="1225"></meta>
+<author>m. kearns, m. li, l. pitt, and l. valiant.</author> <title> on the learnability of boolean formu lae.</title> <venue> in proceedings of the nineteenth annual acm symposium on the theory of computing,</venue><address> new york, new york,</address> <year>1987</year><pages> pages 285-295,</pages>  <month> may</month>
+
+<meta ref_no="0648" class_no="kearns1987" bib_no="1226"></meta>
+<author>m. kearns, m. li, l. pitt, and l. valiant.</author> <title> on the learnability of boolean formulae.</title> <venue> in proceedings of the nineteenth annual acm symposium on the theory of computing,</venue><address> new york, new york,</address> <year>1987</year><pages> pages 285-295,</pages>  <month> may</month>
+
+<meta ref_no="0649" class_no="kearns1987" bib_no="1227"></meta>
+<author>kearns m. j., li m., pitt l., and valiant l.</author> <title> on the learnability of boolean formulae.</title> <venue> in proceedings of the nineteenth annual acm symposium on theory of computing (stoc-87),</venue>  <year> 1987a.</year><pages> pages 285-295.</pages>   
+
+<meta ref_no="0650" class_no="kearns1987" bib_no="1228"></meta>
+<author>kearns m., li m., pitt l., & valiant l.</author> <title> on the learnability of boolean formulae.</title> <venue> proceedings of the nineteenth annual acm symposium on theory of computing (pp.</venue>  <year> (1987).</year><pages> 285-295).</pages>   
+
+<meta ref_no="0651" class_no="kearns1987" bib_no="1229"></meta>
+<author>kearns m., li m., pitt l., & valiant l.g.</author> <title> on the learnability of boolean formulae.</title> <venue> in proceedings of the nineteenth annual acm symposium on theory of computing,</venue><address> new york, ny:</address><publisher> acm press.</publisher><year> (1987).</year><pages> (pp. 285-295).</pages>   
+
+<meta ref_no="0652" class_no="kearns1987" bib_no="1230"></meta>
+<author>kearns m., li m., pitt l., and valiant l.</author> <title> on the learnability of boolean formula.</title> <venue> in proceedings of the nineteenth annual acm symposium on the theory of computing (pp.</venue><address> new york city: ny:</address><publisher> acm press.</publisher><year>1987</year><pages> 285-295).</pages>   
+
+<meta ref_no="0653" class_no="kearns1987" bib_no="1231"></meta>
+<author>m. kearns, m. li, l. pitt, and l. valiant </author> <year>[1987].</year> <title> 'on the learnability of boolean formul,'</title> <venue> proceedings of the 19th annual acm symposium on theory of computing,</venue><address> new york (1987),</address> <year>1987</year><pages> 285-295.</pages>   
+
+<meta ref_no="0654" class_no="kearns1987" bib_no="1232"></meta>
+<author>m. kearns, m. li, l. pitt, and l.g. valiant</author> <title> on the learnability of boolean formulae.</title> <venue> proceedings of the 19th annual symposium on the theory of computation,</venue>  <year> 1987,</year><pages> 285-295.</pages>   
+
+<meta ref_no="0655" class_no="kearns1987" bib_no="1233"></meta>
+<author>michael kearns, ming li, leonard pitt, and leslie valiant.</author> <title> on the learnability of boolean formulae.</title> <venue> in proceedings of the 19th symposium on the theory of computations,</venue><address> new york,</address> <year>1987</year><pages> pages 285-295,</pages>  <month> may</month>
+
+<meta ref_no="0656" class_no="kearns1987" bib_no="1234"></meta>
+<author>m. kearns, m. li, l. pitt, and l. valiant</author> <title> on the learnability of boolean formulae.</title> <venue> proc. 19th acm symposium on theory of computing (1987) 285-295.</venue>  <year>1987</year>    
+
+<meta ref_no="0657" class_no="kearns1987" bib_no="1235"></meta>
+<author>m. kearns, m. li, l. pitt, and l. valiant.</author> <title> on the learn-ability of boolean formulae.</title> <venue> in proc. 19th stoc,</venue> <publisher> acm,</publisher><year>1987</year><pages> pages 285-295.</pages>   
+
+<meta ref_no="0658" class_no="kearns1987" bib_no="1236"></meta>
+<author>michael kearns, ming li, lenny pitt, and leslie g. valiant.</author> <title> on the learnability of boolean formulae.</title> <venue> in proceedings of the 19th annual acm symposium on theory of computing,</venue>  <year>1987</year><pages> pages 285-295,</pages>   
+
+<meta ref_no="0659" class_no="kearns1987" bib_no="1237"></meta>
+<author>michael kearns, ming li, leonard pitt, and leslie valiant.</author> <title> on the learnability of boolean formulae.</title> <venue> in proceedings of the nineteenth annual acm symposium on theory of computing,</venue>  <year>1987</year><pages> pages 285-295,</pages>  <month> may</month>
+
+<meta ref_no="0660" class_no="kearns1987" bib_no="1238"></meta>
+<author>m. kearns, m. li, l. pitt, l.g. valiant.</author> <title> on the learnability of boolean formulae.</title> <venue> proceedings of the 19th a.c.m. symposium on the theory of computing,</venue>  <year> 1987,</year><pages> pp. 285-295.</pages>   
+
+<meta ref_no="0661" class_no="kearns1987" bib_no="1239"></meta>
+<author>m. kearns, m. li, l. pitt, and l. g. valiant.</author> <title> on the learnability of boolean formulae.</title> <venue> in proceedings of the nineteenth annual acm symposium on theory of computing,</venue><address> new york, new york,</address> <year>1987</year><pages> pages 285-295,</pages>  <month> may</month>
+
+<meta ref_no="0662" class_no="kearns1987" bib_no="1240"></meta>
+<author>kearns m., li m., pitt l., & valiant, l. g.</author> <title> on the learnability of boolean formulae.</title> <venue> in proceedings of the nineteenth annual acm symposium on theory of computing (pp.</venue><address> new york, ny:</address><publisher> acm press.</publisher><year> (1987).</year><pages> 285-295).</pages>   
+
+<meta ref_no="0663" class_no="kearns1987" bib_no="1241"></meta>
+<author>kearns m., li m., pitt l., and valiant l.</author> <title> 'on the learnability of boolean formulae,'</title> <venue> proc. of the 19th acm symp. theory of computing,</venue>  <year> 1987,</year><pages> pp. 285-295.</pages>   
+
+<meta ref_no="0664" class_no="kearns1987" bib_no="1242"></meta>
+<author>m. kearns, m. li, l. pitt, and l. g. valiant.</author> <title> on the learnability of boolean formulae.</title> <venue> in proc. of the 19 th annual acm stoc,</venue>  <year>1987</year>    
+
+<meta ref_no="0665" class_no="kearns1987" bib_no="1243"></meta>
+<author>michael kearns, ming li, leonard pitt, and leslie valiant.</author> <title> on the learnability of boolean formulae.</title> <venue> in proceedings of the nineteenth annual acm symposium on theory of computing,</venue>  <year>1987</year><pages> pages 285-295,</pages>  <month> may</month>
+
+<meta ref_no="0666" class_no="kearns1987" bib_no="1244"></meta>
+<author>m. j. kearns, m. li, l. pitt, and l. valiant</author> <title> on the learnability of boolean formula,</title> <venue> in 'proceedings, 19th acm symposium on theory of computing,</venue>  <year> 1987,'</year><pages> pp. 285-295.</pages>   
+
+<meta ref_no="0667" class_no="kearns1987" bib_no="1245"></meta>
+<author>m. kearns, m. li, l. pitt, and l. valiant.</author> <title> on the learnability of boolean formulae.</title> <venue> in proc. 19th acm symposium on theory of computing,</venue> <publisher> acm press,</publisher><year>1987</year><pages> pages 285-295.</pages>   
+
+<meta ref_no="0668" class_no="kearns1987" bib_no="1246"></meta>
+<author>m. kearns, m. li, l. pitt, and l.g. valiant.</author> <title> on the learn-ability of boolean formulae.</title> <venue> proceedings of the 19th annual symposium on the theory of computation,</venue>  <year>1987</year><pages> pages 285295,</pages>   
+
+<meta ref_no="0669" class_no="kearns1987" bib_no="1247"></meta>
+<author>m. kearns, m. li, l. pitt, l.g. valiant.</author> <title> on the learnability of boolean formulae.</title> <venue> proceedings of the 19th a.c.m. symposium on the theory of computing,</venue>  <year> 1987,</year><pages> pp. 285-295.</pages>   
+
+<meta ref_no="0670" class_no="kearns1987" bib_no="1248"></meta>
+<author>michael kearns, ming li, leonard pitt, and leslie valiant.</author> <title> on the learnability of boolean formulae.</title> <venue> in proceedings of the nineteenth annual acm symposium on theory of computing,</venue><address> new york, new york,</address> <year>1987</year><pages> pages 285-295,</pages>  <month> may</month>
+
+<meta ref_no="0671" class_no="kearns1987" bib_no="1249"></meta>
+<author>m. kearns, m. li, l. pitt, and l. valiant.</author> <title> on the learnability of boolean formulae.</title> <venue> in proc. 19th annu. acm sympos. theory comput.,</venue><address> new york, ny,</address><publisher> acm press,</publisher><year>1987</year><pages> pages 285-294.</pages>   
+
+<meta ref_no="0672" class_no="kearns1987" bib_no="1250"></meta>
+<author>michael kearns, ming li, leonard pitt, and leslie valiant.</author> <title> on the learnability of boolean formulae.</title> <venue> in proceedings of the nineteenth annual acm symposium on theory of computing,</venue><address> new york, new york,</address> <year>1987</year><pages> pages 285-295,</pages>  <month> may</month>
+
+<meta ref_no="0673" class_no="kearns1987" bib_no="1251"></meta>
+<author>m. kearns, m. li, l. pitt, and l. valiant</author> <title> on the learnability of boolean formulae,</title> <venue> in proc. 19 th acm symposium on theory of computing,</venue> <publisher> acm,</publisher><year>1987</year><pages> pages 285-295.</pages>   
+
+<meta ref_no="0674" class_no="kearns1987" bib_no="1252"></meta>
+<author>kearns m., m. li, l. pitt, l. valiant</author> <title> 'on the learnability of boolean formulae',</title> <venue> 19th acm symposium on the theory of computing,</venue><address> new york, ny,</address> <year> 1987,</year><pages> pp. 285-295.</pages>   
+
+<meta ref_no="0675" class_no="kearns1987" bib_no="1253"></meta>
+<author>m. kearns, m. li, l. pitt, and l. g. valiant.</author> <title> on the learnability of boolean formulae.</title> <venue> in stoc-87,</venue>  <year>1987</year><pages> pages 285-295,</pages>   
+
+<meta ref_no="0676" class_no="kearns1987" bib_no="1254"></meta>
+<author>m. kearns, m. li, l. pitt, and l. valiant.</author> <title> on the learnability of boolean formulae.</title> <venue> in proc. 19th annu. acm sympos. theory comput.,</venue><address> new york, ny,</address><publisher> acm press,</publisher><year>1987</year><pages> pages 285-294.</pages>   
+
+<meta ref_no="0677" class_no="kearns1987" bib_no="1255"></meta>
+<author>m. kearns, m. li, l. pitt, and l. valiant.</author> <title> on the learnability of boolean formulae.</title> <venue> in proceedings of the nineteenth annual acm symposium on theory of computing,</venue> <publisher> acm press,</publisher><year> 1987,</year><pages> pp. 285-295.</pages>   
+
+<meta ref_no="0678" class_no="kearns1987" bib_no="1256"></meta>
+<author>m. kearns, m. li, l. pitt, and l. valiant.</author> <title> on the learnability of boolean formulae.</title> <venue> in stoc-87, p.</venue>  <year>1987</year><pages> 285-295,</pages>   
+
+<meta ref_no="0679" class_no="kearns1987" bib_no="1257"></meta>
+<author>michael kearns, ming li, leonard pitt, and leslie valiant.</author> <title> on the learnability of boolean formulae.</title> <venue> in proceedings of the nineteenth annual acm symposium on theory of computing,</venue><address> new york, new york,</address> <year>1987</year><pages> pages 285-295,</pages>  <month> may</month>
+
+<meta ref_no="0680" class_no="kearns1987" bib_no="1258"></meta>
+<author>michael kearns, ming li, leonard pitt, and leslie valiant.</author> <title> on the learnability of boolean formulae.</title> <venue> in proceedings of the 19th symposium on the theory of computations,</venue><address> new york,</address> <year>1987</year><pages> pages 285-295,</pages>  <month> may</month>
+
+<meta ref_no="0681" class_no="kearns1987" bib_no="1259"></meta>
+<author>m. kearns, m. li, l. pitt, l.g. valiant.</author> <title> on the learnability of boolean formulae.</title> <venue> proceedings of the 19th a.c.m. symposium on the theory of computing,</venue>  <year> 1987,</year><pages> pp. 285-295.</pages>   
+
+<meta ref_no="0682" class_no="kearns1987" bib_no="1260"></meta>
+<author>kearns m., m. li, l. pitt, and l. valiant</author> <title> on the learnability of boolean formula,</title> <venue> proceedings of the 19th annual acm symposium on theory of computing,</venue>  <year>1987</year><pages> pp. 285-95,</pages>   
+
+<meta ref_no="0689" class_no="kearns1988" bib_no="1261"></meta>
+<author>kearns m. j., and li m.</author> <title> learning in the presence of malicious errors.</title> <venue> in proceedings stoc-88.</venue>  <year> (1988).</year>    
+
+<meta ref_no="0690" class_no="kearns1988" bib_no="1262"></meta>
+<author>kearns m. j., and li m.</author> <title> learning in the presence of malicious errors.</title> <venue> in proceedings of the twentieth annual acm symposium on theory of computing (stoc-88),</venue>  <year>1988</year><pages> pages 267-280.</pages>   
+
+<meta ref_no="0691" class_no="kearns1988" bib_no="1263"></meta>
+<author>kearns m., and li m.</author> <title> learning in the presence of malicious errors.</title> <venue> in proceedings of the twentieth annual acm symposium on theory of computing (chicago,</venue><address> illinois,</address> <year> 1988),</year><pages> pp. 267-280.</pages>  <month> may</month>
+
+<meta ref_no="0692" class_no="kearns1988" bib_no="1264"></meta>
+<author>m. kearns, and m.</author> <title> 'learning in the presence of malicious errors,'</title> <venue> proceedings of the 20th annual acm symposium on theory of computing, chicago (1988),</venue>  <year> [1988].</year><pages> 267-280.</pages>  <month> li</month>
+
+<meta ref_no="0693" class_no="kearns1988" bib_no="1265"></meta>
+<author>m. kearns, and m. li</author> <title> learning in the presence of malicious errors.</title> <venue> proceedings of the 20th acm symposium on the theory of computation,</venue>  <year> (1988).</year><pages> pages 267-279.</pages>   
+
+<meta ref_no="0694" class_no="kearns1988" bib_no="1266"></meta>
+<author>m. kearns, and m. li.</author> <title> learning in the presence of malicious errors.</title> <venue> in proc. 20th annu. acm sympos. theory comput.,</venue><address> new york, ny,</address><publisher> acm press,</publisher><year>1988</year><pages> pages 267-280.</pages>   
+
+<meta ref_no="0695" class_no="kearns1988" bib_no="1267"></meta>
+<author>m. kearns, m. li</author> <title> learning in the presence of malicious errors,</title> <venue> proceedings of the 20th acm symposium on the theory of computation,</venue>  <year>1988</year>  <note> stoc 1988</note> 
+
+<meta ref_no="0696" class_no="kearns1988" bib_no="1268"></meta>
+<author>m. kearns, m. li.</author> <title> learning in the presence of malicious errors.</title> <venue> proceedings of the 20th a.c.m. symposium on the theory of computing,</venue>  <year> 1988,</year><pages> pp. 267-280.</pages>   
+
+<meta ref_no="0697" class_no="kearns1988" bib_no="1269"></meta>
+<author>m. kearns, and m. li</author> <title> learning in the presence of malicious errors,</title> <venue> in: proceedings of the 20th annual acm symposium on the theory of computation,</venue><address> chicago, illinois (1988) 267-279.</address> <year>1988</year>    
+
+<meta ref_no="0698" class_no="kearns1988" bib_no="1270"></meta>
+<author>michael kearns, and ming li.</author> <title> learning in the presence of malicious errors.</title> <venue> in proceedings of the 20 th annual acm symposium on theory of computing,</venue><address> chicago, illinois,</address> <year>1988</year>   <month> may</month>
+
+<meta ref_no="0699" class_no="kearns1988" bib_no="1271"></meta>
+<author>michael kearns, and ming li.</author> <title> learning in the presence of malicious errors.</title> <venue> in proceedings of the twentieth annual acm symposium on theory of computing,</venue>  <year>1988</year><pages> pages 267-280,</pages>  <month> may</month>
+
+<meta ref_no="0700" class_no="kearns1988" bib_no="1272"></meta>
+<author>michael kearns, and ming li.</author> <title> learning in the presence of malicious errors.</title> <venue> in proceedings of the twentieth annual acm symposium on theory of computing,</venue><address> chicago, illinois,</address> <year>1988</year>   <month> may</month>
+
+<meta ref_no="0701" class_no="kearns1988" bib_no="1273"></meta>
+<author>michael kearns, and ming li.</author> <title> learning in the presence of malicious errors.</title> <venue> in proceedings of the twentieth annual acm symposium on theory of computing,</venue>  <year>1988</year><pages> pages 267-280,</pages> <note> to appear, siam journal on computing.</note><month> may</month>
+
+<meta ref_no="0702" class_no="kearns1988" bib_no="1274"></meta>
+<author>michael kearns, and ming li.</author> <title> learning in the presence of malicious errors.</title> <venue> in proceedings of the twentieth annual acm symposium on theory of computing,</venue><address> chicago, illinois,</address> <year>1988</year><pages> pages 267-280,</pages>  <month> may</month>
+
+<meta ref_no="0703" class_no="kearns1988" bib_no="1275"></meta>
+<author>michael kearns, and ming li.</author> <title> learning in the presence of malicious errors.</title> <venue> in proceedings of the twentieth annual acm symposium on theory of computing,</venue>  <year>1988</year>   <month>168</month>
+
+<meta ref_no="0704" class_no="kearns1988" bib_no="1276"></meta>
+<author>michael kearns, and ming li.</author> <title> learning in the presence of malicious errors.</title> <venue> in proceedings of the twentieth annual acm symposium on theory of computing,</venue>  <year>1988</year>   <month>33</month>
+
+<meta ref_no="0705" class_no="kearns1988" bib_no="1277"></meta>
+<author>michael kearns, and ming li.</author> <title> learning in the presence of malicious errors.</title> <venue> in proceedings of the twentieth annual acm symposium on theory of computing,</venue>  <year>1988</year>    
+
+<meta ref_no="0706" class_no="kearns1988" bib_no="1278"></meta>
+<author>michael kearns, and ming li.</author> <title> learning in the presence of malicious errors.</title> <venue> in proceedings of the twentieth annual acm symposium on theory of computing,</venue><address> chicago, illinois,</address> <year>1988</year>   <month> may</month>
+
+<meta ref_no="0707" class_no="kearns1988" bib_no="1279"></meta>
+<author>kearns m., m. li</author> <title> 'learning in the presence of malicious errors',</title> <venue> 20th acm symposium on the theory of computing,</venue><address> chicago, il,</address> <year> 1988,</year><pages> pp. 267-280.</pages>   
+
+<meta ref_no="0708" class_no="kearns1988" bib_no="1280"></meta>
+<author>m. kearns, and m. li.</author> <title> learning in the presence of malicious errors.</title> <venue> in proc. 20th annu. acm sympos. theory comput.,</venue><address> new york, ny,</address><publisher> acm press,</publisher><year>1988</year><pages> pages 267-280.</pages>   
+
+<meta ref_no="0709" class_no="kearns1988" bib_no="1281"></meta>
+<author>m. kearns, and m. li.</author> <title> learning in the presence of malicious errors.</title> <venue> proceedings of the 20th acm symposium on the theory of computation,</venue>  <year>1988</year><pages> pages 267-279,</pages>  <month>15</month>
+
+<meta ref_no="0710" class_no="kearns1988" bib_no="1282"></meta>
+<author>michael kearns, and ming li.</author> <title> learning in the presence of malicious errors.</title> <venue> in proceedings of the 20 th annual acm symposium on theory of computing,</venue><address> chicago, illinois,</address> <year>1988</year>   <month> may</month>
+
+<meta ref_no="0711" class_no="kearns1988" bib_no="1283"></meta>
+<author>michael kearns, and ming li.</author> <title> learning in the presence of malicious errors.</title> <venue> in proceedings of the twentieth annual acm symposium on theory of computing,</venue><address> chicago, illinois,</address> <year>1988</year>   <month> may</month>
+
+<meta ref_no="0712" class_no="kearns1988" bib_no="1284"></meta>
+<author>michael kearns, and ming li.</author> <title> learning in the presence of malicious errors.</title> <venue> in proceedings of the twentieth annual acm symposium on theory of computing,</venue><address> chicago, illinois,</address> <year>1988</year><pages> pages 267-280,</pages>  <month> may</month>
+
+<meta ref_no="0713" class_no="kearns1988bC" bib_no="1285"></meta>
+<author>michael kearns.</author> <title> thoughts on hypothesis boosting.</title> <venue> (unpublished),</venue>  <year>1988</year>   <month> december</month>
+
+<meta ref_no="0718" class_no="kearns1989" bib_no="1286"></meta>
+<author>m. kearns, and l. g. valiant.</author> <title> cryptographic limitations on learning boolean formulae and finite automata.</title> <venue> in proceedings of the 21 st annual acm symposium on theory of computing,</venue><address> new york,</address> <year>1989</year><pages> pages 433444,</pages>   
+
+<meta ref_no="0719" class_no="kearns1989" bib_no="1287"></meta>
+<author>m. kearns, and l. valiant.</author> <year> (1989)</year> <title> cryptographic limitations on learning boolean formulae and finite automata.</title> <venue> in proceedings of the 21 st annual acm symposium on theory of computing,</venue> <publisher> stoc-89.</publisher><year>1989</year>    
+
+<meta ref_no="0720" class_no="kearns1989" bib_no="1288"></meta>
+<author>kearns m., & valiant l.</author> <title> cryptographic limitations on learning boolean for mulae and finite automata.</title> <venue> in proceedings of the 21st annual acm symposium on theory of computing.</venue> <publisher> acm press.</publisher><year> (1989).</year>    
+
+<meta ref_no="0721" class_no="kearns1989" bib_no="1289"></meta>
+<author>kearns m. j., and valiant l. g.</author> <title> cryptographic limitations on learning boolean formulae and finite automata.</title> <venue> in proceedings of the twenty first annual acm symposium on theory of computing (stoc-89),</venue>  <year>1989</year><pages> pages 433-444.</pages>   
+
+<meta ref_no="0722" class_no="kearns1989" bib_no="1290"></meta>
+<author>kearns m., and valiant l. g.</author> <title> cryptographic limitations on learning boolean formulae and finite automata,</title> <venue> in proceedings of 21 st annual acm symposium on theory of computing,</venue> <publisher> assoc. com-put. mach.,</publisher><year>1989</year>    
+
+<meta ref_no="0723" class_no="kearns1989" bib_no="1291"></meta>
+<author>kearns m., & valiant l.</author> <title> cryptographic limitations on learning boolean formulae and finite automata.</title> <venue> in proceedings of the twenty-first annual acm symposium on theory of computing,</venue><address> seattle, wa:</address><publisher> acm press.</publisher><year> (1989).</year><pages> (pp. 433-444).</pages>   
+
+<meta ref_no="0724" class_no="kearns1989" bib_no="1292"></meta>
+<author>kearns m., & valiant l. g.</author> <title> cryptographic limitations on learning boolean formulae and finite automata.</title> <venue> pages 433-444 of: proceedings of the 21 st annual acm symposium on theory of computing. acm,</venue><address> new york.</address> <year> 1989).</year>   <month> (may</month>
+
+<meta ref_no="0725" class_no="kearns1989" bib_no="1293"></meta>
+<author>kearns m., and valiant l. g.</author> <title> cryptographic limitations on learning boolean formulae and finite automata.</title> <venue> in proceedings of the 21 st annual acm symposium on theory of computing,</venue><address> new york:</address><publisher> acm.</publisher><year>1989</year><pages> 433-444.</pages>   
+
+<meta ref_no="0726" class_no="kearns1989" bib_no="1294"></meta>
+<author>m. kearns, and l. valiant.</author> <year> (1989)</year> <title> cryptographic limitations on learning boolean formulae and finite automata.</title> <venue> in proceedings of the 21 st annual acm symposium on theory of computing,</venue> <publisher> stoc-89.</publisher><year>1989</year>    
+
+<meta ref_no="0727" class_no="kearns1989" bib_no="1295"></meta>
+<author>m. kearns, and l. valiant.</author> <title> cryptographic limitations on learning boolean formulae and finite automata.</title> <venue> in proceedings of the 21 st annual acm symposium on theory of computing,</venue>  <year>1989</year>    
+
+<meta ref_no="0728" class_no="kearns1989" bib_no="1296"></meta>
+<author>kearns m., and valiant l.</author> <title> 'cryptographic limitations on learning boolean formulae and finite automata',</title> <venue> in: proc. 21st ann. acm symp. on theory of computing (1989) 433-444.</venue>  <year>1989</year>    
+
+<meta ref_no="0729" class_no="kearns1989" bib_no="1297"></meta>
+<author>m. kearns, and l. valiant</author> <title> cryptographic limitations on learning boolean formulae and finite automata.</title> <venue> proc. 21st acm symposium on theory of computing (1989) 433-444.</venue>  <year>1989</year>    
+
+<meta ref_no="0730" class_no="kearns1989" bib_no="1298"></meta>
+<author>m. kearns, l. valiant</author> <title> cryptographic limitations on learning boolean formulae and finite automata,</title> <venue> proc. 21st acm symposium on theory of computing (1989) 433-444.</venue>  <year>1989</year>  <note> stoc 1989.</note> 
+
+<meta ref_no="0731" class_no="kearns1989" bib_no="1299"></meta>
+<author>michael kearns, and leslie valiant.</author> <title> cryptographic limitations on learning boolean formulae and finite automata.</title> <venue> in proceedings of the twenty first annual acm symposium on theory of computing,</venue>  <year>1989</year><pages> pages 433-444,</pages> <note> to appear in jacm.</note><month> may</month>
+
+<meta ref_no="0732" class_no="kearns1989" bib_no="1300"></meta>
+<author>m. kearns, and l. valiant.</author> <title> cryptographic limitations on learning boolean formulae and finite automata.</title> <venue> in proc. 21st stoc,</venue> <publisher> acm.</publisher><year>1989</year><pages> pages 433-444.</pages>   
+
+<meta ref_no="0733" class_no="kearns1989" bib_no="1301"></meta>
+<author>michael kearns, and leslie g. valiant.</author> <title> cryptographic limitations on learning boolean formulae and finite automata.</title> <venue> in proceedings of the twenty first annual acm symposium on theory of computing,</venue>  <year>1989</year><pages> pages 433-444,</pages>  <month> may</month>
+
+<meta ref_no="0734" class_no="kearns1989" bib_no="1302"></meta>
+<author>michael kearns, and leslie g. valiant.</author> <title> cryptographic limitations on learning boolean formulae and finite automata.</title> <venue> in proceedings of the twenty first annual acm symposium on theory of computing,</venue>  <year>1989</year><pages> pages 433-444,</pages> <note> to appear, journal of the association for computing machinery.</note><month> may</month>
+
+<meta ref_no="0735" class_no="kearns1989" bib_no="1303"></meta>
+<author>kearns m., & valiant l. g.</author> <title> cryptographic limitations on learning boolean formulae and finite automata.</title> <venue> in proceedings of the twenty first annual acm symposium on theory of computing (pp.</venue><address> seattle, wa:</address><publisher> acm press.</publisher><year> (1989).</year><pages> 433-444).</pages>   
+
+<meta ref_no="0736" class_no="kearns1989" bib_no="1304"></meta>
+<author>michael kearns, and leslie g. valiant.</author> <title> cryptographic limitations on learning boolean formulae and finite automata.</title> <venue> in proceedings of the twenty first annual acm symposium on theory of computing,</venue>  <year>1989</year><pages> pages 433-444,</pages>  <month> may</month>
+
+<meta ref_no="0737" class_no="kearns1989" bib_no="1305"></meta>
+<author>michael kearns, and leslie g. valiant.</author> <title> cryptographic limitations on learning boolean formulae and finite automata.</title> <venue> in proceedings of the twenty first annual acm symposium on theory of computing,</venue>  <year>1989</year><pages> pages 433-444,</pages> <note> to appear, journal of the association for computing machinery.</note><month> may</month>
+
+<meta ref_no="0738" class_no="kearns1989" bib_no="1306"></meta>
+<author>m. kearns, and l. valiant.</author> <title> cryptographic limitations on learning boolean formulae and finite automata.</title> <venue> in proceedings of the 21st acm symposium on theory of computing,</venue> <publisher> acm,</publisher><year>1989</year><pages> pages 433444.</pages>   
+
+<meta ref_no="0739" class_no="kearns1989" bib_no="1307"></meta>
+<author>m. kearns, and l. valiant.</author> <title> cryptographic limitations on learning boolean formulae and finite automata.</title> <venue> in proc. 21st acm symposium on theory of computing,</venue> <publisher> acm press,</publisher><year>1989</year><pages> pages 433-444.</pages>   
+
+<meta ref_no="0740" class_no="kearns1989" bib_no="1308"></meta>
+<author>michael kearns, and leslie g. valiant.</author> <title> cryptographic limitations on learning boolean formulae and finite automata.</title> <venue> in proceedings of the twenty first annual acm symposium on theory of computing,</venue>  <year>1989</year><pages> pages 433-444,</pages> <note> to appear, journal of the association for computing machinery.</note><month> may</month>
+
+<meta ref_no="0741" class_no="kearns1989" bib_no="1309"></meta>
+<author>michael kearns, and leslie valiant.</author> <title> cryptographic limitations on learning boolean for-mulae and finite automata.</title> <venue> in proceedings of the twenty-first annual acm symposium on theory of computing,</venue>  <year>1989</year><pages> pages 433-444,</pages>  <month> may</month>
+
+<meta ref_no="0742" class_no="kearns1989" bib_no="1310"></meta>
+<author>michael kearns, and leslie valiant.</author> <title> cryptographic limitations on learning boolean formulae and finite automata.</title> <venue> in proceedings of the twenty first annual acm symposium on theory of computing,</venue>  <year>1989</year><pages> pages 433-444,</pages> <note> to appear in jacm.</note><month> may</month>
+
+<meta ref_no="0743" class_no="kearns1989" bib_no="1311"></meta>
+<author>m. kearns, and l. g. valiant.</author> <title> cryptographic limitations on learning boolean formulae and finite automata.</title> <venue> in proceedings of the 21 st annual acm symposium on theory of computing,</venue><address> new york, 1989.</address><publisher> acm.</publisher><year>1989</year><pages> pages 433-444,</pages>   
+
+<meta ref_no="0744" class_no="kearns1989" bib_no="1312"></meta>
+<author>m. j. kearns, and l. g. valiant.</author> <title> cryptographic limitations on learning boolean formulae and finite automata.</title><institution> association for computing machinery,</institution><venue> in proceedings of the twenty first annual acm symposium on theory of computing,</venue>  <year>1989</year><pages> pages 433-444.</pages>   
+
+<meta ref_no="0745" class_no="kearns1989" bib_no="1313"></meta>
+<author>michael kearns, and leslie g. valiant.</author> <title> cryptographic limitations on learning boolean formulae and finite automata.</title> <venue> in proceedings of the twenty first annual acm symposium on theory of computing,</venue>  <year>1989</year><pages> pages 433-444,</pages> <note> to appear, journal of the association for computing machinery.</note><month> may</month>
+
+<meta ref_no="0746" class_no="kearns1989" bib_no="1314"></meta>
+<author>kearns m., and l. valiant</author> <title> 'cryptographic limitations on learning boolean formulae and finite automata'.</title> <venue> proc. 21st stpc,</venue>  <year> (1989).</year><pages> 433-444,</pages>   
+
+<meta ref_no="0747" class_no="kearns1989" bib_no="1315"></meta>
+<author>kearns m., valiant l.g.</author> <title> cryptographic limitations on learning boolean for--mulae and finite automata,</title> <venue> proc. 21 st acm stoc (1989),</venue>  <year>1989</year><pages> pp. 433-444.</pages>   
+
+<meta ref_no="0748" class_no="kearns1989" bib_no="1316"></meta>
+<author>m. kearns, and l. valiant</author> <title> cryptographic limitations on learning boolean formulae and finite automata,</title> <venue> in proc 21 st acm symposium on theory of computing,</venue> <publisher> acm,</publisher><year>1989</year><pages> pages 433-444.</pages>   
+
+<meta ref_no="0749" class_no="kearns1989" bib_no="1317"></meta>
+<author>m. j. kearns, and l. g. valiant.</author> <title> cryptographic limitations on learning boolean formulae and fi nite automata.</title> <venue> in proceedings stoc-89,</venue>  <year>1989</year><pages> pages 433-444,</pages>   
+
+<meta ref_no="0750" class_no="kearns1989" bib_no="1318"></meta>
+<author>m. j. kearns, and l. g. valiant.</author> <title> cryptographic limitations on learning boolean formulae and finite automata.</title> <venue> in proceedings stoc-89,</venue>  <year>1989</year><pages> pages 433-444,</pages>   
+
+<meta ref_no="0751" class_no="kearns1989" bib_no="1319"></meta>
+<author>m. kearns, and l. g. valiant.</author> <title> criptographic limitations on learning boolean formulae and finite automata.</title> <venue> in proceedings of the 21th acm symposium on theory and computing,</venue>  <year>1989</year><pages> pages 433-444,</pages>   
+
+<meta ref_no="0752" class_no="kearns1989" bib_no="1320"></meta>
+<author>m. kearns, and l. g. valiant.</author> <title> cryptographic limitations on learning boolean formulae and finite automata.</title> <venue> in proceedings of the 21st annual acm symposium on theory of computing,</venue><address> new york,</address> <year>1989</year><pages> pages 433-444,</pages> <note> acm. to appear in journal of the acm.</note><month> may</month>
+
+<meta ref_no="0753" class_no="kearns1989" bib_no="1321"></meta>
+<author>m. kearns, and l. g. valiant.</author> <title> cryptographic limitations on learning boolean formulae and finite automata.</title> <venue> in acm symposium on the theory of computing,</venue>  <year>1989</year><pages> pages 433-444,</pages>   
+
+<meta ref_no="0754" class_no="kearns1989" bib_no="1322"></meta>
+<author>m. kearns, and l. g. valiant.</author> <title> cryptographic limitations on learning boolean formulae and finite automata.</title> <venue> in proceedings of the 21 st annual acm symposium on theory of computing,</venue>  <year>1989</year><pages> pages 433-444,</pages>   
+
+<meta ref_no="0755" class_no="kearns1989" bib_no="1323"></meta>
+<author>m. kearns, l.g. valiant.</author> <title> cryptographic limitations on learning boolean formulae and finite automata.</title> <venue> 34 proceedings of the 21st a.c.m. symposium on the theory of computing,</venue>  <year> 1989,</year><pages> pp. 433-444.</pages>   
+
+<meta ref_no="0756" class_no="kearns1989" bib_no="1324"></meta>
+<author>michael kearns, and leslie valient.</author> <title> cryptographic limitations on learning boolean formulae and finite automata.</title> <venue> in proceedings of the twenty-first annual acm symposium on theory of computing,</venue><address> seat-tle,washington,</address> <year>1989</year><pages> pages 433-444,</pages>  <month> may</month>
+
+<meta ref_no="0757" class_no="kearns1989" bib_no="1325"></meta>
+<author>m. kearns, and l. valiant.</author> <title> cryptographic limitations on learning boolean formulae and finite automata.</title> <venue> in 21st acm symposium on theory of computing,</venue><address> seattle, wa,</address> <year>1989</year><pages> pages 433-444,</pages>   
+
+<meta ref_no="0808" class_no="kearns1992a" bib_no="1326"></meta>
+<author>kearns m.</author> <title> oblivious pac learning of concepts hierarchies.</title> <venue> in proc. of the national conference on artificial intelligence (1992),</venue>  <year>1992</year><pages> pp. 215-222.</pages>   
+
+<meta ref_no="0809" class_no="kearns1992a" bib_no="1327"></meta>
+<author>kearns m.</author> <title> oblivious pac learning of concepts hierarchies.</title> <venue> in proceedings of the national conference on artificial intelligence,</venue>  <year>1992</year><pages> 215-222.</pages>   
+
+<meta ref_no="0810" class_no="kearns1992a" bib_no="1328"></meta>
+<author>kearns m.</author> <title> oblivious pac learning of concepts hierarchies.</title> <venue> in proceedings of the national conference on artificial intelligence,</venue>  <year>1992</year><pages> pages 215-222.</pages>   
+
+<meta ref_no="0811" class_no="kearns1992c" bib_no="1329"></meta>
+<author>kearns m. j., r. e. schapire, and l. m. sellie.</author> <title> toward efficient agnostic learning.</title> <venue> in proc. 5th annu. workshop on comput. learning theory,</venue><address> new york, ny.</address><publisher> acm press,</publisher><year>1992</year><pages> pages 341-352.</pages>   
+
+<meta ref_no="0812" class_no="kearns1992c" bib_no="1330"></meta>
+<author>kearns m. j., schapire r. e., & sellie l. m.</author> <title> toward efficient agnostic learning.</title> <venue> in proceedings of the fifth acm workshop on computational learning theory,</venue><address> pittsburgh, pa.</address><publisher> acm press.</publisher><year> (1992).</year><pages> (pp. 341-352),</pages>   
+
+<meta ref_no="0813" class_no="kearns1992c" bib_no="1331"></meta>
+<author>kearns m. j., schapire r. e., and sellie l. m.</author> <title> toward efficient agnostic learning.</title> <venue> in proceedings of the fifth annual acm workshop on computational learning theory (1992),</venue>  <year>1992</year><pages> pp. 341-352.</pages>   
+
+<meta ref_no="0814" class_no="kearns1992c" bib_no="1332"></meta>
+<author>kearns m.j., schapire r.e., and sellie l.m.</author> <title> toward efficient agnostic learning.</title> <venue> in proc. 5th annu. workshop on comput. learning theory.</venue>  <year> (1992).</year>    
+
+<meta ref_no="0815" class_no="kearns1992c" bib_no="1333"></meta>
+<author>m. kearns, r. schapire, and l. sellie.</author> <title> toward efficient agnostic learning.</title> <venue> in proceedings of the fifth annual acm workshop on computational learning theory (colt-92),</venue><address> pittsburgh, pennsylvania, july 1992.</address><publisher> acm press.</publisher><year>1992</year>    
+
+<meta ref_no="0816" class_no="kearns1992c" bib_no="1334"></meta>
+<author>m. j. kearns, r. e. schapire, and l. m. sellie.</author> <title> toward efficient agnostic learning.</title> <venue> proceedings of the fifth annual acm workshop on computational learning theory,</venue><address> new york,</address><publisher> acm press,</publisher><year> 1992,</year><pages> pp. 341-352.</pages>   
+
+<meta ref_no="0817" class_no="kearns1992c" bib_no="1335"></meta>
+<author>kearns m., schapire r., and sellie l.</author> <year> (1992)</year> <title> toward efficient agnostic learning.</title> <venue> in proc. 5th ann. workshop on computational learning theory.</venue><address> pittsburgh, pa:</address><publisher> morgan kaufmann.</publisher><year>1992</year>    
+
+<meta ref_no="0818" class_no="kearns1992c" bib_no="1336"></meta>
+<author>michael j. kearns, robert e. schapire, and linda m. sellie.</author> <title> toward efficient agnostic learning.</title> <venue> in fifth annual workshop on computational learning theory,</venue>  <year>1992</year><pages> pages 341-352,</pages>   
+
+<meta ref_no="0819" class_no="kearns1992c" bib_no="1337"></meta>
+<author>m. j. kearns, r. e. schapire, and l. m. sallie</author> <title> toward efficient agnostic learning,</title> <venue> in 'proceedings of the 5th annual workshop on computational learning theory,</venue>  <year> 1992,'</year><pages> pp. 341-353.</pages>   
+
+<meta ref_no="0820" class_no="kearns1992c" bib_no="1338"></meta>
+<author>michael j. kearns, robert e. schapire, and linda m. sellie.</author> <title> toward efficient agnostic learning.</title> <venue> in proceedings of the fifth annual acm workshop on computational learning theory,</venue>  <year>1992</year><pages> pages 341-352,</pages>  <month> july</month>
+
+<meta ref_no="0821" class_no="kearns1992c" bib_no="1339"></meta>
+<author>m. j. kearns, r. e. schapire, and l. m. sellie.</author> <title> toward efficient agnostic learning.</title> <venue> in proceedings of the fifth annual acm workshop on computational learning theory,</venue>  <year>1992</year><pages> pages 341-352,</pages>   
+
+<meta ref_no="0822" class_no="kearns1992c" bib_no="1340"></meta>
+<author>m. kearns, r. schapire, and l. sellie</author> <title> towards efficient agnostic learning.</title> <venue> in proceedings of the fifth annual acm workshop on computational learning theory,</venue><address> colt,</address> <year>1992</year>    
+
+<meta ref_no="0823" class_no="kearns1992c" bib_no="1341"></meta>
+<author>m. kearns, r. schapire, and l. sellie</author> <title> towards efficient agnostic learning.</title> <venue> in proceedings of the fifth annual acm workshop on computational learning theory,</venue><address> colt,</address> <year>1992</year>    
+
+<meta ref_no="0824" class_no="kearns1992c" bib_no="1342"></meta>
+<author>m. j. kearns, r. e. schapire, and l. m. sellie.</author> <title> toward efficient agnostic learning.</title> <venue> in 5th colt,</venue>  <year>1992</year><pages> pages 341-352,</pages>   
+
+<meta ref_no="0825" class_no="kearns1992c" bib_no="1343"></meta>
+<author>m. j. kearns, r. e. schapire, and l. m. sellie.</author> <title> toward efficient agnostic leaning.</title> <venue> in proceedings colt-92,</venue> <publisher> acm press,</publisher><year>1992</year><pages> pages 341-352.</pages>   
+
+<meta ref_no="0826" class_no="kearns1992c" bib_no="1344"></meta>
+<author>m.j. kearns, r.e. schapire, and l.m. sellie</author> <title> 'toward agnostic learning'.</title> <venue> proc. 5th ann. workshop on computational learning theory,</venue> <publisher> acm press (1992) 341-352.</publisher><year>1992</year>    
+
+<meta ref_no="0827" class_no="kearns1992c" bib_no="1345"></meta>
+<author>m. j. kearns, r. e. schapire, and l. m. sellie.</author> <title> toward efficient agnostic learning.</title> <venue> in proc. 5th annu. workshop on comput. learning theory,</venue><address> new york, ny,</address><publisher> acm press,</publisher><year>1992</year><pages> pages 341-352.</pages>   
+
+<meta ref_no="0828" class_no="kearns1992c" bib_no="1346"></meta>
+<author>m. j. kearns, r. e. schapire, and l. m. sellie.</author> <title> toward efficient agnostic learning.</title> <venue> in proceedings of the 5th annual workshop on computational learning theory,</venue><address> new york, ny,</address><publisher> acm press,</publisher><year>1992</year><pages> pages 341-352.</pages>   
+
+<meta ref_no="0829" class_no="kearns1992c" bib_no="1347"></meta>
+<author>m. j. kearns, r. e. schapire, l. m. sellie</author><volume> 341 - 352.</volume><title> toward efficient agnostic learning,</title> <venue> proc. of the 5th acm workshop on computational learning theory, 1992,</venue>  <year>1992</year>    
+
+<meta ref_no="0830" class_no="kearns1992c" bib_no="1348"></meta>
+<author>m. j. kearns, r. e. schapire, and l. m. sellie.</author> <title> toward efficient agnostic leaning.</title> <venue> in proceedings colt-92,</venue> <publisher> acm press,</publisher><year>1992</year><pages> pages 341-352.</pages>   
+
+<meta ref_no="0831" class_no="kearns1992c" bib_no="1349"></meta>
+<author>m. j. kearns, r. e. schapire, and l. m. sellie.</author> <title> toward efficient agnostic learning.</title> <venue> in proc. 5th annu. workshop on comput. learning theory,</venue> <publisher> acm press,</publisher><year>1992</year><pages> pages 341-352.</pages>   
+
+<meta ref_no="0832" class_no="kearns1992c" bib_no="1350"></meta>
+<author>m. j. kearns, r. e. schapire, and l. m. sellie.</author> <title> toward efficient agnostic learning.</title> <venue> in proc. 5th workshop on computational learning theory,</venue><address> new york, ny,</address><publisher> acm press,</publisher><year>1992</year><pages> pages 341-352.</pages>  <month>53</month>
+
+<meta ref_no="0833" class_no="kearns1992c" bib_no="1351"></meta>
+<author>m. j. kearns, r. e. schapire, and l. m. sellie.</author> <title> toward efficient agnostic learning.</title> <venue> in proceedings of the fifth annual acm workshop on computational learning theory,</venue>  <year>1992</year><pages> pages 341-352,</pages>  <month>86</month>
+
+<meta ref_no="0834" class_no="kearns1992c" bib_no="1352"></meta>
+<author>m. kearns, e. schapire, and l. sellie</author> <title> toward efficient agnostic learning.</title> <venue> proc. of 5th annual acm conference on computational learning theory (1992) 341-352.</venue>  <year>1992</year>    
+
+<meta ref_no="0835" class_no="kearns1992c" bib_no="1353"></meta>
+<author>m. kearns, r.e. schapire, and l.m. sellie.</author> <title> toward efficient agnostic learning.</title> <venue> in acm workshop on computational learning theory,</venue>  <year>1992</year><pages> pages 341-352,</pages>   
+
+<meta ref_no="0836" class_no="kearns1992c" bib_no="1354"></meta>
+<author>m. j. kearns, r. e. schapire, and l. m. sel-lie.</author> <title> toward efficient agnostic learning.</title> <venue> in proc. 5th annual workshop on computational learning theory.</venue>  <year>1992</year>    
+
+<meta ref_no="0837" class_no="kearns1992c" bib_no="1355"></meta>
+<author>m. kearns, r.e. schapire, and l.m. sellie</author> <title> toward efficient agnostic learning.</title> <venue> 5th acm workshop on computational learning theory (1992) 341-352.</venue>  <year>1992</year>    
+
+<meta ref_no="0838" class_no="kearns1993a" bib_no="1356"></meta>
+<author>m. kearns, and m. li.</author><volume>22</volume><title> learning in the presence of malicious errors.</title> <venue> siam j. comput.,</venue>  <year>1993</year><pages> 807-837,</pages>   
+
+<meta ref_no="0839" class_no="kearns1993a" bib_no="1357"></meta>
+<author>m. kearns, and m. li.</author><volume> 22(4)</volume><title> learning in the presence of malicious errors.</title> <venue> siam journal on computing,</venue>  <year>1993</year><pages> 807-837,</pages>   
+
+<meta ref_no="0840" class_no="kearns1993a" bib_no="1358"></meta>
+<author>m. kearns, and m. li.</author><volume> 22(4),</volume><title> learning in the precence of malicious error.</title> <venue> siam journal of computing,</venue>  <year>1993</year>    
+
+<meta ref_no="0841" class_no="kearns1993a" bib_no="1359"></meta>
+<author>m. kearns, and m. li.</author> <title> learning in the presence of malicious errors.</title> <venue> siam journal on computing,</venue>  <year> (1993).</year><pages> 22 , 807-837.</pages>   
+
+<meta ref_no="0842" class_no="kearns1993a" bib_no="1360"></meta>
+<author>kearns m., & li m.</author><volume> 22,</volume><title> learning in the presence of malicious errors.</title> <venue> siam journal on computing,</venue>  <year> (1993).</year><pages> 807-837.</pages>   
+
+<meta ref_no="0843" class_no="kearns1993a" bib_no="1361"></meta>
+<author>m. kearns, and m. li.</author><volume>22</volume><title> learning in the presence of malicious errors.</title> <venue> siam j. comput.,</venue>  <year>1993</year><pages> 807-837,</pages>   
+
+<meta ref_no="0844" class_no="kearns1993a" bib_no="1362"></meta>
+<author>m. kearns, and m. li.</author><volume>22</volume><title> learning in the presence of malicious errors.</title> <venue> siam j. comput.,</venue>  <year>1993</year><pages> 807-837,</pages>   
+
+<meta ref_no="0845" class_no="kearns1993a" bib_no="1363"></meta>
+<author>michael kearns, and ming li.</author><volume> 22(4)</volume><title> learning in the presence of malicious errors.</title> <venue> siam journal on computing,</venue>  <year>1993</year><pages> 807-837,</pages>  <month> august</month>
+
+<meta ref_no="0846" class_no="kearns1993a" bib_no="1364"></meta>
+<author>m. kearns, and m. li.</author><volume>22</volume><title> learning in the presence of malicious errors.</title> <venue> siam j. comput.,</venue>  <year>1993</year><pages> 807-837,</pages>   
+
+<meta ref_no="0847" class_no="kearns1993a" bib_no="1365"></meta>
+<author>m. kearns, and m. li.</author><volume> 22 (1993),</volume><title> learning in the presence of malicious errors.</title> <venue> siam journal on computing,</venue>  <year>1993</year><pages> 807-837.</pages>   
+
+<meta ref_no="0848" class_no="kearns1993a" bib_no="1366"></meta>
+<author>m. kearns, and m. li.</author><volume> 22 (1993),</volume><title> learning in the presence of malicious errors.</title> <venue> siam journal on computing,</venue>  <year>1993</year><pages> 807-837.</pages>   
+
+<meta ref_no="0849" class_no="kearns1993a" bib_no="1367"></meta>
+<author>michael kearns, and ming li.</author><volume> 22(4)</volume><title> learning in the presence of malicious errors.</title> <venue> siam journal on computing,</venue>  <year>1993</year><pages> 807-837,</pages>  <month> august</month>
+
+<meta ref_no="0850" class_no="kearns1993a" bib_no="1368"></meta>
+<author>michael kearns, and ming li.</author><volume> 22(4)</volume><title> learning in the presence of malicious errors.</title> <venue> siam journal on computing,</venue>  <year>1993</year><pages> 807-837,</pages>  <month> august</month>
+
+<meta ref_no="0851" class_no="kearns1993a" bib_no="1369"></meta>
+<author>m. kearns, and m. li.</author><volume>22</volume><title> learning in the presence of malicious errors.</title> <venue> siam j. comput.,</venue>  <year>1993</year><pages> 807-837,</pages>   
+
+<meta ref_no="0852" class_no="kearns1993a" bib_no="1370"></meta>
+<author>m. kearns, and m. li.</author><volume>22</volume><title> learning in the presence of malicious errors.</title> <venue> siam j. comput.,</venue>  <year>1993</year><pages> 807-837,</pages>   
+
+<meta ref_no="0853" class_no="kearns1993a" bib_no="1371"></meta>
+<author>michael kearns, and ming li.</author><volume> 22(4)</volume><title> learning in the presence of malicious errors.</title> <venue> siam journal on computing,</venue>  <year>1993</year><pages> 807-837,</pages>  <month> august</month>
+
+<meta ref_no="0854" class_no="kearns1993a" bib_no="1372"></meta>
+<author>michael kearns, and ming li.</author><volume> 22(4)</volume><title> learning in the presence of malicious errors.</title> <venue> siam journal on computing,</venue>  <year>1993</year><pages> 807-837,</pages>  <month> august</month>
+
+<meta ref_no="0855" class_no="kearns1993a" bib_no="1373"></meta>
+<author>michael kearns, and ming li.</author><volume>22</volume><title> learning in the presence of malicious errors.</title> <venue> siam journal on computing,</venue>  <year>1993</year><pages> 807-837,</pages>   
+
+<meta ref_no="0856" class_no="kearns1993a" bib_no="1374"></meta>
+<author>m. kearns, and m. li.</author><volume>22</volume><title> learning in the presence of malicious errors.</title> <venue> siam j. comput.,</venue>  <year>1993</year><pages> 807-837,</pages>   
+
+<meta ref_no="0857" class_no="kearns1993a" bib_no="1375"></meta>
+<author>m. kearns, m. li</author><volume> vol. 22,</volume><title> learning in the presence of malicious errors,</title> <venue> siam j. comput.,</venue>  <year> 1993,</year><pages> 807 - 837.</pages>   
+
+<meta ref_no="0858" class_no="kearns1993a" bib_no="1376"></meta>
+<author>michael kearns, and ming li.</author><volume>22</volume><title> learning in the presence of malicious errors.</title> <venue> siam j. comput.,</venue>  <year>1993</year><pages> 807-837,</pages>   
+
+<meta ref_no="0859" class_no="kearns1993b" bib_no="1377"></meta>
+<author>m. kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proc. 25th annu. acm sympos. theory comput.,</venue><address> new york, ny,</address><publisher> acm press,</publisher><year>1993</year><pages>1993</pages><editor>1993</editor><note>1993</note><month>1993</month>
+
+<meta ref_no="0860" class_no="kearns1993b" bib_no="1378"></meta>
+<author>m.j. kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proc. 25th acm symp. on theory of computing,</venue><address> new york, 392-401 1993.</address><publisher> acm press.</publisher><year>1993</year>    
+
+<meta ref_no="0861" class_no="kearns1993b" bib_no="1379"></meta>
+<author>m. kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proceedings of the twenty-fifth annual acm symposium on theory of computing,</venue>  <year>1993</year><pages> pages 392-401,</pages>   
+
+<meta ref_no="0862" class_no="kearns1993b" bib_no="1380"></meta>
+<author>m. kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proceedings of the twenty-fifth annual acm symposium on theory of computing,</venue>  <year>1993</year><pages> pages 392-401,</pages>   
+
+<meta ref_no="0863" class_no="kearns1993b" bib_no="1381"></meta>
+<author>m. kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title><institution> san-diego: the association for computing machinery.</institution><venue> proceedings of the 25th annual acm symposium on theory of computing (pp.</venue>  <year> (1993).</year><pages> 392-401).</pages>   
+
+<meta ref_no="0864" class_no="kearns1993b" bib_no="1382"></meta>
+<author>m.j. kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> proceedings of the 25th acm symposium on the theory of computing,</venue>  <year>1993</year>    
+
+<meta ref_no="0865" class_no="kearns1993b" bib_no="1383"></meta>
+<author>kearns m.</author> <title> efficient noise-tolerant learning from statistical queries,</title> <venue> in proceedings of the twenty-fifth annual acm symposium on the theory of computing, acm,</venue><address> new york,</address> <year> (1993),</year><pages> pp. 392-401.</pages>   
+
+<meta ref_no="0866" class_no="kearns1993b" bib_no="1384"></meta>
+<author>kearns m.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proceedings of the twenty-fifth annual acm symposium on theory of computing,</venue>  <year> (1993).</year><pages> pages 392-401.</pages>   
+
+<meta ref_no="0867" class_no="kearns1993b" bib_no="1385"></meta>
+<author>kearns m.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> proceedings of the 25th annual acm symposium on theory of computing (pp.</venue><address> new york, ny:</address><publisher> acm press.</publisher><year> (1993).</year><pages> 392-401).</pages>   
+
+<meta ref_no="0868" class_no="kearns1993b" bib_no="1386"></meta>
+<author>kearns m.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proc. 25th annu. acm sympos. theory comput. (1993).</venue><address> new york, ny,</address><publisher> acm press,</publisher><year>1993</year><pages> pp. 392-401.</pages>   
+
+<meta ref_no="0869" class_no="kearns1993b" bib_no="1387"></meta>
+<author>kearns m. j.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proceedings of the twenty fifth annual acm symposium on theory of computing (stoc-93),</venue>  <year>1993</year><pages> pages 392-401.</pages>   
+
+<meta ref_no="0870" class_no="kearns1993b" bib_no="1388"></meta>
+<author>m. kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proc. 25th annu. acm sympos. theory comput.,</venue>  <year>1993</year><pages> pp 392-401,</pages>   
+
+<meta ref_no="0871" class_no="kearns1993b" bib_no="1389"></meta>
+<author>m. kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proceedings of the twenty-fifth annual acm symposium on theory of computing,</venue>  <year>1993</year><pages> pages 392-401,</pages>   
+
+<meta ref_no="0872" class_no="kearns1993b" bib_no="1390"></meta>
+<author>m. kearns</author> <title> efficient noise-tolerant learning from statistical queries,</title> <venue> in proceedings of the twenty-fifth annual acm symposium on theory of computing,</venue>  <year>1993</year>  <note> stoc 1993.</note> 
+
+<meta ref_no="0873" class_no="kearns1993b" bib_no="1391"></meta>
+<author>michael kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proceedings of the twenty-fifth annual acm symposium on the theory of computing,</venue>  <year>1993</year><pages> pages 392-401,</pages>   
+
+<meta ref_no="0874" class_no="kearns1993b" bib_no="1392"></meta>
+<author>m. kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proceedings of the twenty-fifth annual acm symposium on theory of computing,</venue>  <year>1993</year><pages> pages 392-401,</pages>   
+
+<meta ref_no="0875" class_no="kearns1993b" bib_no="1393"></meta>
+<author>michael j. kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proceedings of the twenty-fifth annual acm symposium on theory of computing,</venue>  <year>1993</year><pages> pages 392-401,</pages>   
+
+<meta ref_no="0876" class_no="kearns1993b" bib_no="1394"></meta>
+<author>m. kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in 25th stoc,</venue><address> san diego,</address> <year>1993</year>  <note> to appear.</note> 
+
+<meta ref_no="0877" class_no="kearns1993b" bib_no="1395"></meta>
+<author>m. kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proc. 25th annu. acm sym-pos. theory comput.,</venue><address> new york, ny,</address><publisher> acm press,</publisher><year>1993</year><pages> pages 392-401.</pages>   
+
+<meta ref_no="0878" class_no="kearns1993b" bib_no="1396"></meta>
+<author>michael kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proceedings of the 25 th annual acm symposium on the theory of computing,</venue><address> san diego,</address> <year>1993</year><pages> pages 392-401,</pages>   
+
+<meta ref_no="0879" class_no="kearns1993b" bib_no="1397"></meta>
+<author>michael kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proceedings of the twenty-fifth annual acm symposium on theory of computing,</venue>  <year>1993</year>    
+
+<meta ref_no="0880" class_no="kearns1993b" bib_no="1398"></meta>
+<author>m. kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proceedings of the twenty-fifth annual acm symposium on theory of computing,</venue>  <year>1993</year><pages> pages 392-401,</pages>   
+
+<meta ref_no="0881" class_no="kearns1993b" bib_no="1399"></meta>
+<author>m. kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proc. 25th annu. acm sympos. theory comput.,</venue><address> new york, ny,</address><publisher> acm press,</publisher><year>1993</year><pages> pages 392-401.</pages>   
+
+<meta ref_no="0882" class_no="kearns1993b" bib_no="1400"></meta>
+<author>m. kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> stoc,</venue>  <year>1993</year>    
+
+<meta ref_no="0883" class_no="kearns1993b" bib_no="1401"></meta>
+<author>m. kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proc. 25th annu. acm sympos. theory comput.,</venue><address> new york, ny,</address><publisher> acm press,</publisher><year>1993</year><pages> pages 392-401.</pages>   
+
+<meta ref_no="0884" class_no="kearns1993b" bib_no="1402"></meta>
+<author>m. kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> stoc,</venue>  <year>1993</year>    
+
+<meta ref_no="0885" class_no="kearns1993b" bib_no="1403"></meta>
+<author>michael kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proceedings of the twenty-fifth annual acm symposium on the theory of computing,</venue>  <year>1993</year><pages> pages 392-401,</pages>   
+
+<meta ref_no="0886" class_no="kearns1993b" bib_no="1404"></meta>
+<author>michael kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proceedings of the twenty-fifth annual acm symposium on theory of computing,</venue>  <year>1993</year><pages> pages 392-401,</pages>   
+
+<meta ref_no="0887" class_no="kearns1993b" bib_no="1405"></meta>
+<author>m.j. kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proc. acm symposium on the theory of computing,</venue>  <year>1993</year><pages> pages 392401,</pages>   
+
+<meta ref_no="0888" class_no="kearns1993b" bib_no="1406"></meta>
+<author>m. kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proc. 25th annu. acm sympos. theory comput.,</venue><address> new york, ny,</address><publisher> acm press,</publisher><year>1993</year><pages> pages 392-401.</pages>   
+
+<meta ref_no="0889" class_no="kearns1993b" bib_no="1407"></meta>
+<author>m. kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proc. 25th annu. acm sympos. theory comput.,</venue><address> new york, ny,</address><publisher> acm press,</publisher><year>1993</year><pages> pages 392-401.</pages>   
+
+<meta ref_no="0890" class_no="kearns1993b" bib_no="1408"></meta>
+<author>micahel kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proc. 25th annu. acm sympos. theory comput.,</venue><address> new york, ny,</address><publisher> acm press,</publisher><year>1993</year><pages> pages 392-401.</pages>   
+
+<meta ref_no="0891" class_no="kearns1993bC" bib_no="1409"></meta>
+<author>michael j. kearns, and h. sebastian seung.</author> <title> learning from a population of hy potheses.</title> <venue> in proceedings of colt '93,</venue>  <year>1993</year><pages> pages 101-110,</pages>   
+
+<meta ref_no="0892" class_no="kearns1993b" bib_no="1410"></meta>
+<author>michael kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proceedings of the twenty-fifth annual acm symposium on theory of computing,</venue>  <year>1993</year><pages> pages 392-401,</pages>  <month> may</month>
+
+<meta ref_no="0893" class_no="kearns1993b" bib_no="1411"></meta>
+<author>m. j. kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proceedings of the twenty-fifth annual acm symposium on the theory of computing,</venue>  <year>1993</year><pages> pages 392-401,</pages>   
+
+<meta ref_no="0894" class_no="kearns1993b" bib_no="1412"></meta>
+<author>michael kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proceedings of the twenty-fifth annual acm symposium on the theory of computing,</venue>  <year>1993</year>   <month> may</month>
+
+<meta ref_no="0895" class_no="kearns1993b" bib_no="1413"></meta>
+<author>michael kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proceedings of the 25 th annual acm symposium on the theory of computing,</venue><address> san diego,</address> <year>1993</year><pages> pages 392-401,</pages>   
+
+<meta ref_no="0896" class_no="kearns1993b" bib_no="1414"></meta>
+<author>m. j. kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proceedings of the twenty-fifth annual acm symposium on the theory of computing,</venue>  <year>1993</year><pages> pages 392-401,</pages>   
+
+<meta ref_no="0897" class_no="kearns1993b" bib_no="1415"></meta>
+<author>m. kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proc. 25th annu. acm sympos. theory comput.,</venue><address> new york, ny,</address><publisher> acm press,</publisher><year>1993</year><pages> pages 392-401.</pages>   
+
+<meta ref_no="0898" class_no="kearns1993b" bib_no="1416"></meta>
+<author>m. kearns</author><volume> 392 - 401.</volume><title> efficient noise-tolerant learning from statistical queries,</title> <venue> proc. of the 25th acm symp. on the theory of computing, 1993,</venue>  <year>1993</year>    
+
+<meta ref_no="0899" class_no="kearns1993b" bib_no="1417"></meta>
+<author>m. kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proc. 25th annu. acm sympos. theory comput.,</venue><address> new york, ny,</address><publisher> acm press,</publisher><year>1993</year><pages> pages 392-401,</pages>   
+
+<meta ref_no="0900" class_no="kearns1993b" bib_no="1418"></meta>
+<author>m. kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proc. 25th annu. acm sympos. theory comput.,</venue><address> new york, ny,</address><publisher> acm press,</publisher><year>1993</year><pages> pages 392-401.</pages>   
+
+<meta ref_no="0901" class_no="kearns1993b" bib_no="1419"></meta>
+<author>m. kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proc. stoc-93,</venue>  <year>1993</year><pages> pages 392-401,</pages>   
+
+<meta ref_no="0902" class_no="kearns1993b" bib_no="1420"></meta>
+<author>m. kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proceedings of the twenty-fifth annual acm symposium on theory of computing,</venue>  <year>1993</year><pages> pages 392-401,</pages>   
+
+<meta ref_no="0903" class_no="kearns1993b" bib_no="1421"></meta>
+<author>michael kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proceedings of the 25 th annual acm symposium on the theory of computing,</venue><address> san diego,</address> <year>1993</year><pages> pages 392-401,</pages>   
+
+<meta ref_no="0904" class_no="kearns1993b" bib_no="1422"></meta>
+<author>michael kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proceedings of the 25th annual acm symposium on theory of computing,</venue>  <year>1993</year><pages> pages 392 - 352,</pages>   
+
+<meta ref_no="0905" class_no="kearns1993b" bib_no="1423"></meta>
+<author>kearns m.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proc. 25th annual acm symp. theory of computing,</venue>  <year>1993</year><pages> pages 392-401,</pages>   
+
+<meta ref_no="0906" class_no="kearns1993b" bib_no="1424"></meta>
+<author>m. kearns.</author> <title> efficient noise-tolerant learning from statistical queries.</title> <venue> in proceedings of the 25th acm symp. on theory of computing,</venue> <publisher> acm,</publisher><year>1993</year><pages> pages 392-401.</pages>   
+
+<meta ref_no="0907" class_no="kearns1993bC" bib_no="1425"></meta>
+<author>kearns m., & h.s.</author><volume> 18,</volume><author> seung </author> <year>(1995),</year> <title> learning from a population of hypotheses,</title> <venue> machine learning,</venue> <publisher> kluwer academic publishers.</publisher><year>1993</year><pages> pp. 255-276,</pages>   
+
+<meta ref_no="0908" class_no="kearns1993bC" bib_no="1426"></meta>
+<author>m. kearns, and h. s.</author><volume>18</volume><author> seung </author><year>(1995).</year><title> learning from a population of hypotheses,</title> <venue> machine learning,</venue>  <year>1993</year><pages> 255-276.</pages>   
+
+<meta ref_no="0909" class_no="kearns1993bC" bib_no="1427"></meta>
+<author>m. kearns, and h. seung.</author><volume>18</volume><title> learning from a population of hypotheses.</title> <venue> machine learning,</venue>  <year>1995</year><pages> 255-276,</pages>   
+
+<meta ref_no="0910" class_no="kearns1993c" bib_no="1428"></meta>
+<author>michael j. kearns, and h. sebastian seung.</author> <title> learning from a population of hypotheses.</title> <venue> in proceedings of colt '93,</venue>  <year>1993</year><pages> pages 101-110,</pages>   
+
+<meta ref_no="0930" class_no="kearns1994b" bib_no="1429"></meta>
+<author>m. j. kearns, and u. v. vazirani.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue><address> cambridge, massachusetts,</address><publisher> the mit press,</publisher><year>1994</year>    
+
+<meta ref_no="0931" class_no="kearns1994b" bib_no="1430"></meta>
+<author>m.j. kearns, and u.v. vazirani.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue> <publisher> mit press,</publisher><year>1994</year>    
+
+<meta ref_no="0932" class_no="kearns1994b" bib_no="1431"></meta>
+<author>kearns m., & vazirani u.</author> <title> an introduction to computational learning theory,</title> <venue> in the 25th annual acm symposium on theory of computing,</venue> <publisher> mit press.</publisher><year> (1994),</year>    
+
+<meta ref_no="0933" class_no="kearns1994b" bib_no="1432"></meta>
+<author>kearns m., & vazirani u.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue><address> cam-bridge, ma:</address><publisher> mit press.</publisher><year> (1994).</year>    
+
+<meta ref_no="0934" class_no="kearns1994b" bib_no="1433"></meta>
+<author>kearns m., & vazirani u.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue><address> cambridge, ma.</address><publisher> the mit press,</publisher><year> (1994).</year>    
+
+<meta ref_no="0935" class_no="kearns1994b" bib_no="1434"></meta>
+<author>kearns m. j., & vazirani u. v.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue><address> cambridge, massachusetts:</address><publisher> mit press.</publisher><year> (1994).</year>    
+
+<meta ref_no="0936" class_no="kearns1994b" bib_no="1435"></meta>
+<author>kearns m. j., & vazirani u. v.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue><address> cambridge, ma.</address><publisher> mit press,</publisher><year> (1994).</year>    
+
+<meta ref_no="0937" class_no="kearns1994b" bib_no="1436"></meta>
+<author>kearns m. j., & vazirani u. v.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue>  <year> (1994).</year>    
+
+<meta ref_no="0938" class_no="kearns1994b" bib_no="1437"></meta>
+<author>kearns m. j., & vazirani u. v.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue><address> cam-bridge, ma:</address><publisher> mit press.</publisher><year> (1994).</year>    
+
+<meta ref_no="0939" class_no="kearns1994b" bib_no="1438"></meta>
+<author>kearns m. j., & vazirani u. v.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue><address> cam-bridge, ma:</address><publisher> mit press.</publisher><year> (1994).</year>    
+
+<meta ref_no="0940" class_no="kearns1994b" bib_no="1439"></meta>
+<author>kearns m. j., & vazirani u. v.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue><address> cambridge, ma:</address><publisher> mit press.</publisher><year> (1994).</year>    
+
+<meta ref_no="0941" class_no="kearns1994b" bib_no="1440"></meta>
+<author>kearns m., & vazirani u.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue> <publisher> mit press.</publisher><year> (1994).</year>    
+
+<meta ref_no="0942" class_no="kearns1994b" bib_no="1441"></meta>
+<author>kearns m., and vazirani u.</author> <title> introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue> <publisher> mit press.</publisher><year>1992</year>    
+
+<meta ref_no="0943" class_no="kearns1994b" bib_no="1442"></meta>
+<author>kearns michael, and umesh vazirani.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue><address> cambridge, ma:</address><publisher> mit press.</publisher><year>1994</year>    
+
+<meta ref_no="0944" class_no="kearns1994b" bib_no="1443"></meta>
+<author>m. kearns, & u. vazirani.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue><address> cambridge, ma,</address><publisher> the mit press,</publisher><year>1994</year>    
+
+<meta ref_no="0945" class_no="kearns1994b" bib_no="1444"></meta>
+<author>michael kearns, and umesh vazarani.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue><address> com-bridge, massachusetts,</address><publisher> the mit press,</publisher><year>1994</year>    
+
+<meta ref_no="0946" class_no="kearns1994b" bib_no="1445"></meta>
+<author>m. kearns, & u. vazirani.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue> <publisher> mit,</publisher><year>1994</year>    
+
+<meta ref_no="0947" class_no="kearns1994b" bib_no="1446"></meta>
+<author>michael j. kearns, and umesh v. vazirani.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue><address> cambridge, ma,</address><publisher> mit press,</publisher><year>1994</year>    
+
+<meta ref_no="0948" class_no="kearns1994b" bib_no="1447"></meta>
+<author>michael j. kearns, and umesh v. vazirani.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue><address> cambridge, mas-sachusetts,</address><publisher> mit press,</publisher><year>1994</year>    
+
+<meta ref_no="0949" class_no="kearns1994b" bib_no="1448"></meta>
+<author>m.j. kearns, and u.v. vazirani.</author> <title> an introduction to computational learning theory,</title> <venue> in the 25th annual acm symposium on theory of computing,</venue><address> cambridge, ma,</address><publisher> mit press,</publisher><year>1994</year>    
+
+<meta ref_no="0950" class_no="kearns1994b" bib_no="1449"></meta>
+<author>m. j. kearns, and u. v. vazirani.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue> <publisher> mit press,</publisher><year>1994</year>    
+
+<meta ref_no="0951" class_no="kearns1994b" bib_no="1450"></meta>
+<author>m. j. kearns, and u. v. vazirani.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue> <publisher> mit press,</publisher><year>1994</year>    
+
+<meta ref_no="0952" class_no="kearns1994b" bib_no="1451"></meta>
+<author>michael j. kearns, and umesh v. vazirani.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue> <publisher> mit press,</publisher><year>1994</year>    
+
+<meta ref_no="0953" class_no="kearns1994b" bib_no="1452"></meta>
+<author>michael j. kearns, and umesh virkumar vazirani.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue><address> cambridge, ma,</address><publisher> mit press,</publisher><year>1994</year>    
+
+<meta ref_no="0954" class_no="kearns1994b" bib_no="1453"></meta>
+<author>kearns m., and vazirani u.</author> <title> introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue><address> cambridge, ma,</address><publisher> mit press,</publisher><year>1994</year>    
+
+<meta ref_no="0955" class_no="kearns1994b" bib_no="1454"></meta>
+<author>m. j. kearns, and u. v. vazirani.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue> <publisher> mit press,</publisher><year>1994</year>    
+
+<meta ref_no="0956" class_no="kearns1994b" bib_no="1455"></meta>
+<author>michael j. kearns, and umesh v. vazirani.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue> <publisher> the mit press,</publisher><year>1994</year>    
+
+<meta ref_no="0957" class_no="kearns1994b" bib_no="1456"></meta>
+<author>m. kearns, and u. vazirani.</author> <title> an introduction to computational learning theory.</title> <venue> 57-62.</venue>  <year>1994</year>    
+
+<meta ref_no="0958" class_no="kearns1994b" bib_no="1457"></meta>
+<author>m. kearns, and u. vazirani.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue> <publisher> mit press,</publisher><year>1994</year>    
+
+<meta ref_no="0959" class_no="kearns1994b" bib_no="1458"></meta>
+<author>m. kearns, and u. vazirani.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue><address> cambridge, ma,</address><publisher> mit press,</publisher><year>1994</year>    
+
+<meta ref_no="0960" class_no="kearns1994b" bib_no="1459"></meta>
+<author>michael j. kearns, and umesh v. vazirani.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue><address> cambridge, massachusetts,</address><publisher> mit press,</publisher><year>1994</year>    
+
+<meta ref_no="0961" class_no="kearns1994b" bib_no="1460"></meta>
+<author>m.j. kearns, and u.v. vazirani.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue> <publisher> mit press,</publisher><year>1994</year>    
+
+<meta ref_no="0962" class_no="kearns1994b" bib_no="1461"></meta>
+<author>m.j. kearns, and u. vazirani </author> <year>(1995).</year> <title> introduction to computational learning theory,</title> <venue> in the 25th annual acm symposium on theory of computing,</venue> <publisher> mit press 1995.</publisher><year>1994</year>    
+
+<meta ref_no="0963" class_no="kearns1994b" bib_no="1462"></meta>
+<author>m. j. kearns, and u. v. vazirani.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue><address> cambridge, ma,</address><publisher> mit press,</publisher><year>1994</year>    
+
+<meta ref_no="0964" class_no="kearns1994b" bib_no="1463"></meta>
+<author>m. j. kearns, and u.v. vazirani.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue> <publisher> mit press,</publisher><year>1994</year>    
+
+<meta ref_no="0965" class_no="kearns1994b" bib_no="1464"></meta>
+<author>m j kearns, and u v varizani.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue> <publisher> mit press,</publisher><year>1994</year>    
+
+<meta ref_no="0966" class_no="kearns1994b" bib_no="1465"></meta>
+<author>m. j. kearns, and u. v. vazirani.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue><address> cambridge massachusetts,</address><publisher> mit press,</publisher><year>1994</year>  <note> references 15</note> 
+
+<meta ref_no="0967" class_no="kearns1994b" bib_no="1466"></meta>
+<author>m. j. kearns, and u. v. vazirani.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue> <publisher> mit press,</publisher><year>1994</year>    
+
+<meta ref_no="0968" class_no="kearns1994b" bib_no="1467"></meta>
+<author>m. kearns, and u. vazirani.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue><address> cambridge, ma,</address><publisher> mit press,</publisher><year>1994</year>    
+
+<meta ref_no="0969" class_no="kearns1994b" bib_no="1468"></meta>
+<author>m. kearns, and u. vazirani.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue> <publisher> mit press,</publisher><year>1994</year>    
+
+<meta ref_no="0970" class_no="kearns1994b" bib_no="1469"></meta>
+<author>kearns m. j., and vazirani u. v.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue><address> cambridge, mas-sachusetts:</address><publisher> mit press.</publisher><year>1994</year>    
+
+<meta ref_no="0971" class_no="kearns1994b" bib_no="1470"></meta>
+<author>kearns m.j., & vazirani u.v.</author> <title> an introduction to computational learning theory,</title> <venue> chp.</venue><address> cambridge, mass.</address><publisher> mit press,</publisher><year> (1994).</year><pages> 1-2.</pages>   
+
+<meta ref_no="0972" class_no="kearns1994b" bib_no="1471"></meta>
+<author>kearns m., and vazirani u.</author> <title> an introduction to computational learning theory.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue> <publisher> mit,</publisher><year>1994</year>    
+

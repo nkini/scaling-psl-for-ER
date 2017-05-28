@@ -1,0 +1,26 @@
+grep 'SameAuthor' coraSepFixedhwng.* > SameAuthor.txt
+:g/!/d
+:%s/coraSepFixedhwng.*SameAuthor(//
+:%s/)//
+:%s/Author_//g
+
+grep 'SameVenue' coraSepFixedhwng.* > SameVenue.txt
+:g/!/d
+:%s/coraSepFixedhwng.*SameVenue(//
+:%s/)//
+:%s/Venue_//g
+
+
+Validation:
+
+grep 'SameAuthor' coraSepFixedhwng.* > SameAuthor.txt	(886 lines)
+:g/!/d 					(74 fewer lines)
+:%s/coraSepFixedhwng.*SameAuthor(//	(812 substitutions on 812 lines)
+:%s/)//					(812 substitutions on 812 lines)
+:%s/Author_//g				(1624 substitutions on 812 lines)
+
+grep 'SameVenue' coraSepFixedhwng.* > SameVenue.txt	(8039 lines)
+:g/!/d					(5022 fewer lines)
+:%s/coraSepFixedhwng.*SameVenue(//	(3017 substitutions on 3017 lines)
+:%s/)//					(3017 substitutions on 3017 lines)
+:%s/Venue_//g				(6034 substitutions on 3017 lines)

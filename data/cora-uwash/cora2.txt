@@ -1,0 +1,1341 @@
+<meta ref_no="0002" class_no="bauer1992" bib_no="2001"></meta>
+<author>eric bauer, ron kohavi, and wolpert d. h.</author> <title> `stacked generalization',</title> <venue> neural networks 5,</venue>  <year> (1992),</year><pages> 241-259.</pages>   
+
+<meta ref_no="0007" class_no="blum1994" bib_no="2002"></meta>
+<author>blum a., furst m., jackson j., kearns m., mansour y., & rudich s.</author> <title> weakly learning dnf and characterizing statistical query learning using fourier analysis.</title> <venue> proceedings of the 26th annual acm symposium on theory of computing,</venue>  <year> (1994).</year><pages> pp. 253-262.</pages>   
+
+<meta ref_no="0008" class_no="blum1994" bib_no="2003"></meta>
+<author>blum a., furst m., jackson j., kearns m., mansour y., & rudich s.</author> <title> weakly learning dnf and characterizing statistical query learning using fourier analysis.</title> <venue> in proceedings of the twenty-sixth annual acm symposium on theory of computing,</venue><address> montreal, canada.</address><publisher> acm press.</publisher><year> (1994).</year><pages> (pp. 253-262),</pages>   
+
+<meta ref_no="0009" class_no="blum1994" bib_no="2004"></meta>
+<author>blum a., furst m., jackson j., kearns m., mansour y., and rudich s.</author> <title> weakly learning dnf 10 and characterizing statistical query learning using fourier analysis.</title> <venue> in proc. 26th annu. acm sympos. theory comput.</venue><address> new york, ny,</address><publisher> acm press,</publisher><year>1994</year>    
+
+<meta ref_no="0010" class_no="blum1994" bib_no="2005"></meta>
+<author>a. blum, m. furst, j. jackson, m. kearns, y. mansour, and s. rudich.</author> <title> weakly learning dnf and characterizing statistical query learning using fourier analysis.</title> <venue> in proceedings of the 26th acm symposium on the theory of computing.</venue><address> new york, ny,</address><publisher> acm press,</publisher><year>1994</year>    
+
+<meta ref_no="0011" class_no="blum1994" bib_no="2006"></meta>
+<author>avrim blum, merrick furst, jeffrey jackson, michael kearns, yishay mansour, and steven rudich.</author> <title> weakly learning dnf and characterizing statistical query learning using fourier analysis.</title> <venue> in t he 26 th annual acm symposium on t heory of computing,</venue>  <year>1994</year><pages> pages 253 - 262,</pages>   
+
+<meta ref_no="0012" class_no="blum1994" bib_no="2007"></meta>
+<author>avrim blum, merrick furst, jeffery jackson, michael kearns, yishay mansour, and steven rudich.</author> <title> weakly 8 learning dnf and characterizing statistical query learn-ing using fourier analysis.</title> <venue> in proceedings of the 26 th annual acm symposium on the theory of computing,</venue>  <year>1994</year>   <month> may</month>
+
+<meta ref_no="0013" class_no="blum1994" bib_no="2008"></meta>
+<author>avrim blum, merrick furst, jeffery jackson, michael kearns, yishay mansour, and steven rudich.</author> <title> weakly learning dnf and characterizing statistical query learning using fourier analysis.</title> <venue> in proceedings of the 26 th annual acm symposium on the theory of computing,</venue>  <year>1994</year>   <month> may</month>
+
+<meta ref_no="0014" class_no="blum1994" bib_no="2009"></meta>
+<author>avrim blum, merrick furst, jeffery jackson, michael kearns, yishay mansour, and steven rudich.</author> <title> weakly learning dnf and characterizing statistical query learning using fourier analysis.</title> <venue> in proceedings of the twenty-sixth annual acm symposium on the theory of computing,</venue>  <year>1994</year>  <note> to appear.</note> 
+
+<meta ref_no="0015" class_no="blum1994" bib_no="2010"></meta>
+<author>a. blum, m. furst, j. jackson, m. kearns, y. mansour, and s. rudich.</author> <title> weakly learning dnf and characterizing statistical query learning using fourier analysis.</title> <venue> in proceedings of twenty-sixth acm symposium on theory of computing,</venue>  <year>1994</year>    
+
+<meta ref_no="0016" class_no="blum1994" bib_no="2011"></meta>
+<author>blum a., m. furst, j. jackson, m. kearns, y. mansour, and s. rudich</author> <title> weakly learning dnf and characterizing statistical query learning using fourier analysis,</title> <venue> proceedings of the 26th annual acm symposium on theory of computing,</venue>  <year>1994</year><pages> pp. 253-62,</pages>   
+
+<meta ref_no="0067" class_no="cesaC" bib_no="2012"></meta>
+<author>n. cesa-bianchi, y. freund, d. p. helmbold, and m. warmuth.</author> <title> on-line predic tion and conversion strategies.</title> <venue> in computational learning theory: eurocolt '93, volume new series number 53 of the institute of mathematics and its applications conference series,</venue><address> oxford, 1994.</address><publisher> oxford university press.</publisher><year>1993</year><pages> pages 205-216,</pages>   
+
+<meta ref_no="0068" class_no="cesaC" bib_no="2013"></meta>
+<author>n. cesa-bianchi, y. freund, d. p. helmbold, and m. warmuth.</author> <title> on-line prediction and conversion strategies.</title> <venue> in computational learning theory: eurocolt '93, volume new series number 53 of the institute of mathematics and its applications conference series,</venue><address> oxford, 1994.</address><publisher> oxford university press.</publisher><year>1993</year><pages> pages 205-216,</pages>   
+
+<meta ref_no="0069" class_no="cesaC" bib_no="2014"></meta>
+<author>cesa-bianchi n., freund y., helmbold</author> <title> on-line prediction and conversion strategies. </title> <venue>in proceedings of the first euro-colt workshop. the institute of mathematics and its applications,</venue> <publisher> m.k.</publisher><year> (1994).</year>  <note> to appear.</note> 
+
+<meta ref_no="0070" class_no="cesaC" bib_no="2015"></meta>
+<author>cesa-bianchi n., freund y., helmbold d. p., and warmuth m.</author><volume> eurocolt '93,</volume><title> on-line prediction and conversion strategies.</title> <venue> in computational learning theory:</venue> <publisher> oxford. oxford university press.</publisher><year> (1994).</year><pages> pages 205-216,</pages>   
+
+<meta ref_no="0071" class_no="cesaC" bib_no="2016"></meta>
+<author>cesa-bianchi n., freund y., helmbold d. p., and warmuth, m.</author><volume> eurocolt '93,</volume><title> on-line prediction and conversion strategies.</title> <venue> in computational learning theory:</venue> <publisher> oxford university press.</publisher><year> (1994).</year><pages> pages 205-216.</pages>   
+
+<meta ref_no="0072" class_no="cesaC" bib_no="2017"></meta>
+<author>cesa-bianchi n., y. freund, d. p. helmbold, and m. warmuth.</author> <title> on-line prediction and conversion strategies.</title> <venue> in computational learning theory: eurocolt '93, volume new series number 53 of the institute of mathematics and its applications conference series,</venue> <publisher> oxford. oxford university press.</publisher><year>1994</year><pages> pages 205-216,</pages>   
+
+<meta ref_no="0073" class_no="cesaC" bib_no="2018"></meta>
+<author>n. cesa-bianchi, y. freund, d. p. helmbold, and m. warmuth.</author><volume> eu-rocolt '93,</volume><title> on-line prediction and conversion strategies.</title> <venue> in computational learning theory:</venue><address> oxford, 1994.</address><publisher> oxford university press.</publisher><year>1993</year><pages> pages 205-216,</pages>   
+
+<meta ref_no="0074" class_no="cesaC" bib_no="2019"></meta>
+<author>n. cesa-bianchi, y. freund, d.p. helmbold, and m. warmuth.</author> <title> on-line prediction and conversion strategies.</title> <venue> in eurocolt,</venue> <publisher> clarendon press,</publisher><year>1993</year><pages> pages 205-216.</pages>   
+
+<meta ref_no="0075" class_no="cesaC" bib_no="2020"></meta>
+<author>n. cesa-bianchi, y. freund, d. p. helmbold, and m. warmuth.</author> <title> on-line prediction and conversion strategies.</title> <venue> in computational learning theory: eurocolt '93, volume new series number 53 of the institute of mathematics and its applications conference series,</venue><address> oxford, 1994.</address><publisher> oxford university press.</publisher><year>1993</year><pages> pages 205-216,</pages>   
+
+<meta ref_no="0076" class_no="cesaC" bib_no="2021"></meta>
+<author>n. cesa-bianchi, y. freund, d. helmbold, and m.k. warmuth.</author> <title> on-line prediction and conversion strategies.</title> <venue> the 1993 ima european conference on computational learning theory,</venue>  <year>1993</year>    
+
+<meta ref_no="0077" class_no="cesaC" bib_no="2022"></meta>
+<author>n. cesa-bianchi, y. freund, d. p. helm-bold, and m. warmuth.</author> <title> on-line prediction and conversion strategies.</title> <venue> in computational learning theory: eurocolt '93, volume new series number 53 of the institute of mathematics and its applications confer--ence series,</venue><address> oxford, 1994.</address><publisher> oxford university press.</publisher><year>1993</year><pages> pages 205-216,</pages>   
+
+<meta ref_no="0078" class_no="cesaC" bib_no="2023"></meta>
+<author>n. cesa-bianchi, y. freund, d. p. helmbold, and m. k. warmuth</author><volume> vol. 25,</volume><title> 'on-line prediction and conversion strategies,'</title> <venue> machine learning,</venue>  <year>1996</year><pages> pp. 71-110,</pages>   
+
+<meta ref_no="0079" class_no="cesaC" bib_no="2024"></meta>
+<author>n. cesa-bianchi, y. freund, d. p. helmbold, and m. k. warmuth.</author> <title> on--line prediction and conversion strategies.</title> <venue> machine learning,</venue>  <year>1995</year>  <note> to appear, an extended abstract appeared in eurocolt `93.</note> 
+
+<meta ref_no="0080" class_no="cesaC" bib_no="2025"></meta>
+<author>n. cesa-bianchi, y. freund</author> <title> d.p. helmbold, and m.k. warmuth. on-line prediction and conversion strategies.</title> <venue> machine learning,</venue>  <year>1996</year>  <note> to appear.</note> 
+
+<meta ref_no="0085" class_no="dietterich1996" bib_no="2026"></meta>
+<author>t. g. dietterich, m. kearns, and y. mansour.</author> <title> applying the weak learning framework to understand and improve c4.5.</title> <venue> in proceedings of the 13th international conference on machine learning,</venue> <publisher> morgan kaufmann,</publisher><year>1996</year><pages> pages 96-104.</pages>   
+
+<meta ref_no="0086" class_no="dietterich1996" bib_no="2027"></meta>
+<author>dietterich t. g., kearns m., & mansour y.</author> <title> applying the weak learning framework to understand and improve c4.5.</title> <venue> in proceedings of the 13th international conference on machine learning,</venue> <publisher> morgan kaufmann.</publisher><year> (1996).</year><pages> (pp. 96-104).</pages>   
+
+<meta ref_no="0087" class_no="dietterich1996" bib_no="2028"></meta>
+<author>dietterich t., kearns m., & mansour y.</author> <title> applying the weak learning framework to understand and improve c4.5.</title> <venue> in proceedings of the thirteenth international conference on machine learning,</venue><address> bari, italy.</address> <year> (1996).</year>    
+
+<meta ref_no="0088" class_no="dietterich1996" bib_no="2029"></meta>
+<author>dietterich t., kearns m., & mansour y.</author> <title> applying the weak learning framework to understand and improve c4.5.</title> <venue> proc. thirteenth intl. conf. machine learning (pp.</venue>  <year> (1996).</year><pages> 96-104).</pages>   
+
+<meta ref_no="0089" class_no="dietterich1996" bib_no="2030"></meta>
+<author>dietterich t., m. kearns, and y. mansour </author> <year>(1996). </year><title>applying the weak learning framework to un-derstand and improve c4.5.</title> <venue> to appear in proceedings of the thirteenth international conference on machine learning.</venue><address> bari, italy:</address><publisher> morgan kaufmann.</publisher><year>1996</year>    
+
+<meta ref_no="0090" class_no="dietterich1996" bib_no="2031"></meta>
+<author>dietterich t., m. kearns, and y. mansour </author> <year>(1996).</year> <title>applying the weak learning framework to understand and improve c4.5.</title> <venue> to appear in proceedings of the thirteenth international conference on machine learning.</venue><address> bari, italy:</address><publisher> morgan kaufmann.</publisher><year>1996</year>    
+
+<meta ref_no="0091" class_no="dietterich1996" bib_no="2032"></meta>
+<author>t. dietterich, m. kearns, and y. mansour.</author> <title> applying the weak learning framework to understand and improve c4.5.</title> <venue> in proceedings of the 13th international conference on machine learning,</venue>  <year>1996</year><pages> pages 96-104,</pages>   
+
+<meta ref_no="0092" class_no="dietterich1996" bib_no="2033"></meta>
+<author>tom dietterich, michael kearns, and yishay mansour.</author> <title> applying the weak learning framework to understand and improve c4.5.</title> <venue> in machine learning: proceedings of the thirteenth international conference,</venue>  <year>1996</year>    
+
+<meta ref_no="0093" class_no="dietterich1996" bib_no="2034"></meta>
+<author>t. dietterich, m. kearns, and y. mansour.</author> <title> applying the weak learning framework to understand and improve c4.5.</title> <venue> in machine learning: proceedings of the international conference.</venue> <publisher> morgan kaufmann,</publisher><year>1996</year>    
+
+<meta ref_no="0094" class_no="dietterich1996" bib_no="2035"></meta>
+<author>t. dietterich, m. kearns, and y. mansour.</author> <title> applying the weak learning framework to understand and improve c4.5.</title> <venue> unpublished manuscript,</venue>  <year>1996</year>    
+
+<meta ref_no="0131" class_no="ehrenfeucht1988" bib_no="2036"></meta>
+<author>ehrenfeucht a., haussler d., kearns m., and valiant l.</author> <title> a general lower bound on the number of examples needed for learning.</title> <venue> in proceedings colt-88.</venue>  <year> (1988).</year>    
+
+<meta ref_no="0132" class_no="ehrenfeucht1988" bib_no="2037"></meta>
+<author>ehrenfeucht a., haussler d., kearns m., and valiant l.g.</author> <title> a general lower bound on the number of examples needed for learning.</title> <venue> in proceedings of the first workshop on computational learning theory,</venue><address> boston, ma:</address><publisher> morgan kaufmann.</publisher><year>1988</year><pages> 139-154.</pages>   
+
+<meta ref_no="0133" class_no="ehrenfeucht1988" bib_no="2038"></meta>
+<author>a. ehrenfeucht, d. haussler, m. kearns, and l. valiant.</author> <title> a general lower bound on the number of examples needed for learning.</title> <venue> in colt 88: proceedings of the conference on learning,</venue><address> los altos, ca, 1988.</address><publisher> morgan-kaufmann.</publisher><year>1988</year><pages> pages 110-120,</pages>   
+
+<meta ref_no="0134" class_no="ehrenfeucht1988" bib_no="2039"></meta>
+<author>a. ehrenfeucht, d. haussler, m. kearns, and l. g. valiant</author> <title> a general lower bound on the number of examples needed for learning,</title> <venue> in: proceedings of the first workshop on computational learning theory (morgan kaufmann,</venue><address> san mateo, ca,</address> <year> 1988)</year>   <month> 139-154.</month>
+
+<meta ref_no="0135" class_no="ehrenfeucht1988" bib_no="2040"></meta>
+<author>ehrenfeucht a., haussler d., kearns m., and valiant l.</author> <title> a general lower bound on the number of examples needed for learning,</title> <venue> proceedings of the 1988 workshop on computational learning theory,</venue> <publisher> morgan kaufmann,</publisher><year> 1988,</year><pages> p. 139-154.</pages>   
+
+<meta ref_no="0136" class_no="ehrenfeucht1988" bib_no="2041"></meta>
+<author>a. ehrenfeucht, d. haussler, m. kearns, and l. valiant.</author> <title> a general lower bound on the number of examples needed for learning.</title> <venue> proc. of the 1988 workshop on computational learning theory,</venue><address> san jose, 1988.</address><publisher> morgan kaufmann.</publisher><year> 1988,</year> <editor> in d. haussler and l. pitt, editors,</editor>  
+
+<meta ref_no="0137" class_no="ehrenfeucht1988" bib_no="2042"></meta>
+<author>a. ehrenfeucht, d. haussler, m. kearns., l.g. valiant.</author> <title> a general lower bound on the number of examples needed for learning.</title> <venue> 33 proceedings of the 1988 workshop on computational learning theory,</venue> <publisher> morgan kaufmann publishers,</publisher><year> 1988,</year><pages> pp. 139-154.</pages>   
+
+<meta ref_no="0138" class_no="ehrenfeucht1988C" bib_no="2043"></meta>
+<author>a. ehrenfeucht, d. haussler, m. kearns, and l. valiant.</author> <title> a general lower bound on the number of examples needed for learning.</title><institution> university of california, computer research laboratory,</institution><venue> technical report ucsc-crl-87-26,</venue><address> santa cruz, ca,</address> <year>1988</year>   <month> jan-uary</month>
+
+<meta ref_no="0139" class_no="ehrenfeucht1989" bib_no="2044"></meta>
+<author>a. ehrenfeucht, d. haussler, m. kearns, and l. valiant.</author><volume>82</volume><title> a general lower bound on the number of examples needed for learning.</title> <venue> information and computation,</venue>  <year>1989</year><pages> 247-261,</pages>   
+
+<meta ref_no="0140" class_no="ehrenfeucht1989" bib_no="2045"></meta>
+<author>a. ehrenfeucht, d. haussler, m. kearns, and l.g. valiant.</author><volume> 82(3)</volume><title> a general lower bound on the number of examples needed for learning.</title> <venue> information and computation,</venue>  <year>1989</year><pages> 247-251,</pages>   
+
+<meta ref_no="0141" class_no="ehrenfeucht1989" bib_no="2046"></meta>
+<author>a. ehrenfeucht, d. haussler, m. kearns, and l. valiant.</author><volume> 82(3)</volume><title> a general lower bound on the number of examples needed for learning.</title> <venue> information and computation,</venue>  <year>1989</year><pages> 247-251,</pages>   
+
+<meta ref_no="0142" class_no="ehrenfeucht1989" bib_no="2047"></meta>
+<author>a. ehrenfeucht, d. haussler, m. kearns, and l. valiant.</author><volume> 82(3)</volume><title> a general lower bound on the number of examples needed for learning.</title> <venue> inf. and computation,</venue>  <year>1989</year><pages> 247-266,</pages>   
+
+<meta ref_no="0143" class_no="ehrenfeucht1989" bib_no="2048"></meta>
+<author>a. ehrenfeucht, d. haussler, m. kearns, and l.g. valiant</author><volume> 82(3)</volume><title> a general lower bound on the number of examples needed for learning.</title> <venue> information and computation,</venue>  <year> (1989).</year><pages> 247-251.</pages>   
+
+<meta ref_no="0144" class_no="ehrenfeucht1989" bib_no="2049"></meta>
+<author>ehrenfeucht a., haussler d., kearns m., & valiant l.g.</author><volume> 82,</volume><title> a general lower bound on the number of examples needed for learning.</title> <venue> information and computation,</venue>  <year> (1989).</year><pages> 247-261.</pages>   
+
+<meta ref_no="0145" class_no="ehrenfeucht1989" bib_no="2050"></meta>
+<author>ehrenfeucht a., haussler d., kearns m. j., and valiant l.</author><volume>82</volume><title> a general lower bound on the number of examples needed for learning.</title> <venue> information and computation,</venue>  <year>1989</year><pages> 247-261.</pages>   
+
+<meta ref_no="0146" class_no="ehrenfeucht1989" bib_no="2051"></meta>
+<author>ehrenfeucht a., haussler d., kearns m., & valiant l. g.</author><volume> 82,</volume><title> a general lower bound on the number of examples needed for learning.</title> <venue> information and computation,</venue>  <year> (1989).</year><pages> 247-261.</pages>   
+
+<meta ref_no="0147" class_no="ehrenfeucht1989" bib_no="2052"></meta>
+<author>ehrenfeucht a., haussler d., kearns m., & valiant l.g.</author> <title> a general lower bound on the number of examples needed for learning.</title> <venue> information and computation 82,</venue>  <year> (1989).</year><pages> pp. 247-261.</pages>   
+
+<meta ref_no="0148" class_no="ehrenfeucht1989" bib_no="2053"></meta>
+<author>ehrenfeucht a., haussler d., kearns m., and valiant l.</author><volume>82</volume><title> a general lower bound on the number of examples needed for learning.</title> <venue> information and computation,</venue>  <year> (1989).</year><pages> 247-261.</pages>   
+
+<meta ref_no="0149" class_no="ehrenfeucht1989" bib_no="2054"></meta>
+<author>ehrenfeucht a., haussler d., kearns m., and valiant l.</author><volume>82</volume><title> a general lower bound on the number of examples needed for learning.</title> <venue> information and computation,</venue>  <year> (1989).</year><pages> 267-284.</pages>   
+
+<meta ref_no="0150" class_no="ehrenfeucht1989" bib_no="2055"></meta>
+<author>ehrenfeucht a., haussler d., kearns m., and valiant l.</author> <title> a general lower bound on the number of examples needed for learning.</title> <venue> information and control 82,</venue>  <year> (1989).</year>    
+
+<meta ref_no="0151" class_no="ehrenfeucht1989" bib_no="2056"></meta>
+<author>ehrenfeucht andrzej, haussler david, kearns michael, and valiant leslie </author> <year>1989.</year> <title> a general lower bound on the number of examples needed for learning.</title> <venue> information and computation 82</venue>  <year>1989</year><pages> 247-261.</pages>   
+
+<meta ref_no="0152" class_no="ehrenfeucht1989" bib_no="2057"></meta>
+<author>a. ehrenfeucht, d. haussler, m. kearns, and l. valiant.</author><volume> 82 (3) (1989),</volume><title> a general lower bound on the number of examples needed for learning,</title> <venue> information and computation,</venue>  <year>1989</year><pages> 247-261.</pages>   
+
+<meta ref_no="0153" class_no="ehrenfeucht1989" bib_no="2058"></meta>
+<author>a. ehrenfeucht, d. haussler, m. kearns, and l.g. valiant.</author><volume> 82(3)</volume><title> a general lower bound on the number of examples needed for learning.</title> <venue> information and computation,</venue>  <year>1989</year><pages> 247-251,</pages>   
+
+<meta ref_no="0154" class_no="ehrenfeucht1989" bib_no="2059"></meta>
+<author>andrzej ehrenfeucht, david haussler, michael kearns, and leslie valiant.</author><volume>82</volume><title> a general lower bound on the number of examples needed for learning.</title> <venue> information and computation,</venue>  <year>1989</year><pages> 247-261,</pages>   
+
+<meta ref_no="0155" class_no="ehrenfeucht1989" bib_no="2060"></meta>
+<author>andrzej ehrenfeucht, david haussler, michael kearns, and leslie valiant.</author><volume> 82(3)</volume><title> a general lower bound on the number of examples needed for learning.</title> <venue> information and computation,</venue>  <year>1989</year><pages> 247-251,</pages>  <month> september</month>
+
+<meta ref_no="0156" class_no="ehrenfeucht1989" bib_no="2061"></meta>
+<author>a. ehrenfeucht, d. haussler, m. kearns, and l.g. valiant.</author> <title> a general lower bound on the number of examples needed for learning. </title> <venue>information and computation, information and computation,</venue><address> 82(3):247251,</address> <year>1989</year>    
+
+<meta ref_no="0157" class_no="ehrenfeucht1989" bib_no="2062"></meta>
+<author>ehrenfeucht a., haussler d., kearns m., and valiant l.</author><volume> vol. 82 (1989),</volume><title> a general lower bound on the number of examples needed for learning.</title> <venue> information and computation,</venue>  <year>1989</year><pages> pp. 247-261.</pages>   
+
+<meta ref_no="0158" class_no="ehrenfeucht1989" bib_no="2063"></meta>
+<author>andrzej ehrenfeucht, david haussler, michael kearns, and leslie valiant.</author><volume> 82(3)</volume><title> a general lower bound on the number of examples needed for learning.</title> <venue> information and computation,</venue>  <year>1989</year><pages> 247-251,</pages>   
+
+<meta ref_no="0159" class_no="ehrenfeucht1989" bib_no="2064"></meta>
+<author>a. ehrenfeucht, d. haussler, m. kearns., l.g. valiant.</author><volume> 82(3),</volume><title> a general lower bound on the number of examples needed for learning.</title> <venue> information and computation,</venue>  <year> 1989,</year><pages> pp. 247-261.</pages>   
+
+<meta ref_no="0160" class_no="ehrenfeucht1989" bib_no="2065"></meta>
+<author>a. ehrenfeucht, d. haussler, m. kearns, and l. valiant.</author><volume>82</volume><title> a general lower bound on the number of examples needed for learning.</title> <venue> information and computation,</venue>  <year>1989</year><pages> 247-261,</pages>   
+
+<meta ref_no="0161" class_no="ehrenfeucht1989" bib_no="2066"></meta>
+<author>andrzej ehrenfeucht, david haussler, michael kearns, and leslie valiant.</author><volume>82</volume><title> a general lower bound on the number of examples needed for learning.</title> <venue> information and computation,</venue>  <year>1989</year><pages> 247-261,</pages>   
+
+<meta ref_no="0162" class_no="ehrenfeucht1989" bib_no="2067"></meta>
+<author>a. ehrenfeucht, d. haussler, m. kearns, and l. valiant.</author><volume>82</volume><title> a general lower bound on the number of examples needed for learning.</title> <venue> information and computation,</venue>  <year>1989</year><pages> 247-261,</pages>   
+
+<meta ref_no="0163" class_no="ehrenfeucht1989" bib_no="2068"></meta>
+<author>a. ehrenfeucht, d. haussler, m. kearns, and l. valiant.</author><volume> 82(3)</volume><title> a general lower bound on the number of examples needed for learning.</title> <venue> information and control,</venue>  <year>1989</year><pages> 247-251,</pages>   
+
+<meta ref_no="0164" class_no="ehrenfeucht1989" bib_no="2069"></meta>
+<author>a. ehrenfeucht, d. haussler, m. j. kearns, and l. g. valiant.</author><volume> 82(3)</volume><title> a general lower bound on the number of examples needed for learning.</title> <venue> information and computation,</venue>  <year>1989</year><pages> 247-251,</pages>   
+
+<meta ref_no="0165" class_no="ehrenfeucht1989" bib_no="2070"></meta>
+<author>andrzej ehrenfeucht, david haussler, michael kearns, and leslie valiant.</author><volume> 82(3)</volume><title> a general lower bound on the number of examples needed for learning.</title> <venue> information and computation,</venue>  <year>1989</year><pages> 247-251,</pages>  <month> september</month>
+
+<meta ref_no="0166" class_no="ehrenfeucht1989" bib_no="2071"></meta>
+<author>a. ehrenfeucht, d. haussler, m. kearns, and l.g. valiant.</author><volume> 82(3)</volume><title> a general lower bound on the number of examples needed for learning.</title> <venue> information and computation,</venue>  <year>1989</year><pages> 247-251,</pages>   
+
+<meta ref_no="0167" class_no="ehrenfeucht1989" bib_no="2072"></meta>
+<author>andrzej ehrenfeucht, david haussler, michael kearns, and leslie valiant.</author><volume> 82(3)</volume><title> a general lower bound on the number of examples needed for learning.</title> <venue> information and computation,</venue>  <year>1989</year><pages> 247-251,</pages>  <month> september</month>
+
+<meta ref_no="0168" class_no="ehrenfeucht1989" bib_no="2073"></meta>
+<author>a. ehrenfeucht, d. haussler, m. j. kearns, and l. valiant.</author> <title> a general lower bound on the number of examples needed for learning. </title> <venue>information and computation, information and computation,</venue><address> 82:247261,</address> <year>1989</year>    
+
+<meta ref_no="0169" class_no="ehrenfeucht1989" bib_no="2074"></meta>
+<author>a. ehrenfeucht, d. haussler, m. kearns, and l. valiant.</author><volume>82</volume><title> a general lower bound on the number of examples needed for learning.</title> <venue> information and computation,</venue>  <year>1989</year><pages> 247-261,</pages>   
+
+<meta ref_no="0170" class_no="ehrenfeucht1989" bib_no="2075"></meta>
+<author>a. ehrenfeucht, d. haussler, m. kearns, and l. valiant.</author><volume> 82(3)</volume><title> a general lower bound on the number of examples needed for learning.</title> <venue> information and computation,</venue>  <year>1989</year><pages> 247-251,</pages>   
+
+<meta ref_no="0171" class_no="ehrenfeucht1989" bib_no="2076"></meta>
+<author>a. ehrenfeucht, d. haussler, m. kearns., l.g. valiant.</author><volume> 82(3),</volume><title> a general lower bound on the number of examples needed for learning.</title> <venue> information and computation,</venue>  <year> 1989,</year><pages> pp. 247-261.</pages>   
+
+<meta ref_no="0172" class_no="ehrenfeucht1989" bib_no="2077"></meta>
+<author>andrzej ehrenfeucht, david haussler, michael kearns, and leslie valiant.</author><volume> 82(3)</volume><title> a general lower bound on the number of examples needed for learning.</title> <venue> information and computation,</venue>  <year>1989</year><pages> 247-251,</pages>  <month> september</month>
+
+<meta ref_no="0173" class_no="ehrenfeucht1989" bib_no="2078"></meta>
+<author>a. ehrenfeucht, d. haussler, m. kearns, and l. valiant.</author><volume>82</volume><title> a general lower bound on the number of examples needed for learning.</title> <venue> information and computation,</venue>  <year>1989</year><pages> 247-261,</pages>   
+
+<meta ref_no="0174" class_no="ehrenfeucht1989" bib_no="2079"></meta>
+<author>a. ehrenfeucht, d. haussler, m. kearns, and l. valiant.</author><volume> 82(3)</volume><title> a general lower bound on the number of examples needed for learning.</title> <venue> information and computation,</venue>  <year>1989</year><pages> 247-251,</pages>  <month> september</month>
+
+<meta ref_no="0175" class_no="ehrenfeucht1989" bib_no="2080"></meta>
+<author>a. ehrenfeucht, d. haussler, m. kearns, and l.g. valiant.</author><volume> 82(3)</volume><title> a general lower bound on the number of examples needed for learning.</title> <venue> information and computation,</venue>  <year>1989</year><pages> 247-251,</pages>   
+
+<meta ref_no="0176" class_no="ehrenfeucht1989" bib_no="2081"></meta>
+<author>a. ehrenfeucht, d. haussler, m. kearns, and l.g. valiant.</author> <title> a general lower bound on the number of examples needed for learning.</title> <venue> information and computation, information and computation,</venue><address> 82(3):247251,</address> <year>1989</year>    
+
+<meta ref_no="0196" class_no="freund1992aC" bib_no="2082"></meta>
+<author>freund y., seung h.s., shamir e., and tishby n.</author> <title> information, prediction, and query by committee.</title> <venue> preprint.</venue>  <year> (11995).</year>    
+
+<meta ref_no="0216" class_no="freund1992c" bib_no="2083"></meta>
+<author>freund y., and haussler d.</author> <title> unsupervised learning of distributions on binary vectors using two layer networks,</title> <venue> in advances in neural information processing systems iv (denver 1992),</venue> <publisher> and r.</publisher><year> (1992),</year> <editor> ed. j. e. moody, s. j. hanson,</editor>  
+
+<meta ref_no="0217" class_no="freund1992c" bib_no="2084"></meta>
+<author>y. freund, and d. haussler.</author> <title> unsupervised learning of distributions on binary vectors using two layer networks.</title> <venue> in proceedings of the 1991 conference on neural information processing systems.</venue> <publisher> morgan kaufmann,</publisher><year>1992</year>    
+
+<meta ref_no="0218" class_no="freund1992c" bib_no="2085"></meta>
+<author>freund y, & haussler d </author> <year>(1992).</year> <title> unsupervised learning of distributions on binary vectors using two layer networks.</title> <venue> advances in neural information processing systems 4,</venue>  <year>1992</year><pages> 912-919.</pages>   
+
+<meta ref_no="0219" class_no="freund1992c" bib_no="2086"></meta>
+<author>y. freund, and d. haussler.</author> <title> unsupervised learning of distributions on binary vectors using 2-layer networks.</title> <venue> in advances in neural information processing systems 4,</venue> <publisher> morgan kaufmann publishers,</publisher><year>1992</year><pages> pages 912-919.</pages>   
+
+<meta ref_no="0220" class_no="freund1992c" bib_no="2087"></meta>
+<author>freund y., and haussler d.</author> <title> unsupervised learning of distributions on binary vectors using two layer networks.</title> <venue> in neural information processing systems 4,</venue><address> san mateo, ca,</address><publisher> morgan kaufmann publishers,</publisher><year> 1992,</year><pages> pp. 912-919.</pages><editor> j. moody, s. hanson, and r. lippmann, eds.</editor>  
+
+<meta ref_no="0221" class_no="freund1992c" bib_no="2088"></meta>
+<author>freund y., and haussler d.</author> <title> unsupervised learning of distributions on binary vectors using two layer networks. pp.</title> <venue> 912919 in neural information processing systems 4, edited by j.moody, s.j.hanson and r.p.lippmann.</venue><address> san mateo, ca,</address><publisher> morgan kaufmann publishers,</publisher><year>1992</year>    
+
+<meta ref_no="0222" class_no="freund1992c" bib_no="2089"></meta>
+<author>y. freund, and d. haussler.</author> <title> unsupevised learning of distributions on binary vectors using two-layer networks.</title> <venue> in proceedings of the 1991 conf. on neural informations processing systems,</venue><address> san mateo, ca, 1992.</address><publisher> morgan kaufmann.</publisher><year>1992</year>    
+
+<meta ref_no="0251" class_no="freund1995a" bib_no="2090"></meta>
+<author>yoav freund.</author> <title> boosting a weak learning algorithm by majority.</title> <venue> in proceedings of the third annual workshop on computational learning theory,</venue>  <year>1990</year><pages> pages 202-216,</pages>  <month> august</month>
+
+<meta ref_no="0252" class_no="freund1995a" bib_no="2091"></meta>
+<author>freund y.</author> <title> boosting a weak learning algorithm by majority,</title> <venue> in 'proceedings of the third annual workshop on computational learning theory',</venue>  <year> (1990),</year><pages> pp. 202-216.</pages> <note> to appear in information and computation.</note> 
+
+<meta ref_no="0253" class_no="freund1995a" bib_no="2092"></meta>
+<author>freund y.</author> <title> boosting a weak learning algorithm by majority,</title> <venue> in proceedings of the third annual workshop on computational learning theory,</venue>  <year> (1990),</year><pages> pp. 202-216.</pages> <note> to appear in information and computation.</note> 
+
+<meta ref_no="0254" class_no="freund1995a" bib_no="2093"></meta>
+<author>freund y.</author> <title> boosting a weak learning algorithm by majority,</title> <venue> in `proceedings of the third annual workshop on computational learning theory',</venue>  <year> (1990),</year><pages> pp. 202-216.</pages>   
+
+<meta ref_no="0255" class_no="freund1995a" bib_no="2094"></meta>
+<author>freund y.</author> <title> boosting a weak learning algorithm by majority.</title> <venue> in 3rd annual workshop on computational learning theory,</venue>  <year> (1990).</year><pages> pages 202-216.</pages>   
+
+<meta ref_no="0256" class_no="freund1995a" bib_no="2095"></meta>
+<author>freund y.</author> <title> boosting a weak learning algorithm by majority.</title> <venue> in proceedings of the third annual workshop on computational learning theory,</venue><address> rochester, ny.</address><publisher> morgan kaufmann.</publisher><year> (1990).</year><pages> (pp. 202-216),</pages>   
+
+<meta ref_no="0257" class_no="freund1995a" bib_no="2096"></meta>
+<author>freund y.</author> <title> boosting a weak learning algorithm by majority.</title> <venue> proc. 3rd work. comp. learning theory (pp.</venue>  <year> (1990).</year><pages> 202-216).</pages>   
+
+<meta ref_no="0258" class_no="freund1995a" bib_no="2097"></meta>
+<author>freund y.</author> <title> boosting a weak learning algorithm by majority.</title> <venue> proceedings of the third annual workshop on computational learning theory (pp.</venue><address> san francisco:</address><publisher> morgan kaufmann.</publisher><year> (1990).</year><pages> 202-216).</pages>   
+
+<meta ref_no="0259" class_no="freund1995a" bib_no="2098"></meta>
+<author>freund y.</author> <title> boosting a weak learning algorithm by majority.</title> <venue> in proceedings of the third workshop on computational learning theory,</venue><address> san mateo, ca.</address><publisher> morgan kaufmann.</publisher><year>1990</year><pages> 202-216.</pages>   
+
+<meta ref_no="0260" class_no="freund1995a" bib_no="2099"></meta>
+<author>y. freund.</author> <title> boosting a weak learning algorithm by majority.</title> <venue> in proc. 3rd work. comp. learning theory,</venue>  <year>1990</year><pages> pages 202-216,</pages>   
+
+<meta ref_no="0261" class_no="freund1995a" bib_no="2100"></meta>
+<author>yoav freund.</author> <title> boosting a weak learning algorithm by majority.</title> <venue> in proceedings of the third annual workshop on computational learning theory,</venue> <publisher> morgan kaufmann,</publisher><year>1990</year><pages> pages 202-216.</pages>   
+
+<meta ref_no="0262" class_no="freund1995a" bib_no="2101"></meta>
+<author>yoav freund.</author> <title> boosting a weak learning algorithm by majority.</title> <venue> in proc. of the 3rd ann. workshop on comput. learning theory,</venue> <publisher> morgan kaufmann,</publisher><year>1990</year><pages> pages 202-216.</pages>  <month> august</month>
+
+<meta ref_no="0263" class_no="freund1995a" bib_no="2102"></meta>
+<author>yoav freund.</author> <title> boosting a weak learning algorithm by majority.</title> <venue> in proceedings of the third annual workshop on computational learning theory,</venue> <publisher> morgan kaufmann,</publisher><year>1990</year><pages> pages 202-216.</pages>   
+
+<meta ref_no="0264" class_no="freund1995a" bib_no="2103"></meta>
+<author>yoav freund.</author> <title> boosting a weak learning algorithm by majority.</title> <venue> in proceedings of the third annual workshop on computational learning theory,</venue> <publisher> morgan kaufmann,</publisher><year>1990</year><pages> pages 202-216.</pages>  <month>22</month>
+
+<meta ref_no="0265" class_no="freund1995a" bib_no="2104"></meta>
+<author>y. freund.</author> <title> boosting a weak learning algorithm by majority.</title> <venue> in proc. 3rd work. comp. learning theory,</venue>  <year>1990</year><pages> pages 202-216,</pages>   
+
+<meta ref_no="0266" class_no="freund1995a" bib_no="2105"></meta>
+<author>yoav freund.</author> <title> boosting a weak learning algorithm by majority.</title> <venue> in proceedings of the third annual workshop on computational learning theory,</venue> <publisher> morgan kaufmann,</publisher><year>1990</year><pages> pages 202-216.</pages>   
+
+<meta ref_no="0267" class_no="freund1995a" bib_no="2106"></meta>
+<author>freund y.</author> <title> boosting a weak learning algorithm by majority,</title> <venue> proceedings of the 1990 workshop on computational learning theory, p.</venue>  <year>1990</year><pages> 202-231.,</pages>  <month> august</month>
+
+<meta ref_no="0268" class_no="freund1995a" bib_no="2107"></meta>
+<author>freund y.</author> <title> boosting a weak learning algorithm by majority voting,</title> <venue> proceedings of the 3rd annual workshop on computational learning theory,</venue>  <year>1990</year><pages> pp. 202-216,</pages>   
+
+<meta ref_no="0269" class_no="freund1995a" bib_no="2108"></meta>
+<author>y. freund.</author> <title> boosting a weak learning algorithm by majority.</title> <venue> in proceedings of the 1990 workshop on computational learning theory,</venue><address> san mateo, ca,</address> <year>1990</year><pages> pages 202-231,</pages> <note> morgan kaufmann. 34 references</note><month> august</month>
+
+<meta ref_no="0270" class_no="freund1995a" bib_no="2109"></meta>
+<author>y. freund.</author> <title> boosting a weak learning algorithm by majority.</title> <venue> in proceedings of the third workshop on computational learning theory,</venue><address> san mateo, ca, 1990.</address><publisher> morgan kaufmann.</publisher><year>1995</year><pages> pages 202-216,</pages>   
+
+<meta ref_no="0288" class_no="freund1995b" bib_no="2110"></meta>
+<author>y. freund, and r. e. schapire.</author> <title> a decision-theoretic generalization of on-line learning and an applicationto boosting.</title> <venue> in proceedings of the second european conference on computational learning theory,</venue> <publisher> springer-verlag,</publisher><year>1995</year><pages> pages 23-37.</pages>   
+
+<meta ref_no="0289" class_no="freund1995b" bib_no="2111"></meta>
+<author>y. freund, and r. e. schapire.</author> <title> a decision-theoretic generalization of on-line learning and an application to boosting.</title> <venue> in proceedings of the second european conference on computational learning theory,</venue> <publisher> springer-verlag,</publisher><year>1995</year><pages> pages 23-37.</pages> <note> 20 christopher merz</note> 
+
+<meta ref_no="0290" class_no="freund1995b" bib_no="2112"></meta>
+<author>yoav freund, and robert e. schapire.</author><volume> eurocolt '95,</volume><title> a decision-theoretic generalization of on-line learning and an application to boosting.</title> <venue> in computational learning theory: second european conference,</venue> <publisher> springer-verlag,</publisher><year>1995</year><pages> pages 23-37.</pages>   
+
+<meta ref_no="0291" class_no="freund1995b" bib_no="2113"></meta>
+<author>freund y., & schapire r. e.</author> <title> a decision-theoretic generalization of on-line learning and an application to boosting,</title> <venue> in 'proceedings of the second european conference on computational learning theory',</venue> <publisher> springer-verlag,</publisher><year> (1995),</year><pages> pp. 23-37.</pages>   
+
+<meta ref_no="0292" class_no="freund1995b" bib_no="2114"></meta>
+<author>freund y., & schapire r. e.</author> <title> a decision-theoretic generalization of on-line learning and an application to boosting,</title> <venue> in proceedings of the second european conference on computational learning theory,</venue> <publisher> springer-verlag,</publisher><year> (1995),</year><pages> pp. 23-37.</pages>   
+
+<meta ref_no="0293" class_no="freund1995b" bib_no="2115"></meta>
+<author>freund y., & schapire r. e.</author> <title> a decision-theoretic generalization of on-line learning and an application to boosting,</title> <venue> in `proceedings of the second european conference on computational learning theory',</venue> <publisher> springer-verlag,</publisher><year> (1995),</year><pages> pp. 23-37.</pages>   
+
+<meta ref_no="0294" class_no="freund1995b" bib_no="2116"></meta>
+<author>freund y., & schapire r. e.</author> <title> a decision-theoretic generalization of on-line learning and an application to boosting,</title> <venue> in `proceedings of the second european conference on computational learning theory',</venue> <publisher> springer-verlag,</publisher><year> (1995),</year><pages> pp. 23-37.</pages> <note> to appear in journal of computer and system sciences.</note> 
+
+<meta ref_no="0295" class_no="freund1995b" bib_no="2117"></meta>
+<author>freund y., & schapire r. e.</author> <title> a decision-theoretic generalization of on-line learning and an application to boosting.</title> <venue> in proc. of the 2nd annual european conf. on computational learning theory.</venue>  <year> (1995).</year>    
+
+<meta ref_no="0296" class_no="freund1995b" bib_no="2118"></meta>
+<author>freund y., & schapire r. e.</author> <title> a decision-theoretic generalization of on-line learning and an application to boosting.</title> <venue> in proceedings of the second european conference on computational learning theory,</venue> <publisher> springer-verlag.</publisher><year> (1995).</year><pages> (pp. 23-37).</pages>   
+
+<meta ref_no="0297" class_no="freund1995b" bib_no="2119"></meta>
+<author>freund y., & schapire r. e.</author> <title> a decision-theoretic generalization of on-line learning and its application to boosting.</title> <venue> in proceedings of the second european conference on computational learning theory,</venue><address> barcelona, spain.</address> <year> (1995).</year>    
+
+<meta ref_no="0298" class_no="freund1995b" bib_no="2120"></meta>
+<author>freund y., & shapire r.</author> <title> a decision-theoretic generalization of on-line learning and an application to boosting.</title> <venue> in proceedings of the second european conference on computational learning.</venue>  <year> (1995).</year>    
+
+<meta ref_no="0299" class_no="freund1995b" bib_no="2121"></meta>
+<author>freund y., and schapire r.</author> <title> a decision-theoretic generalization of on-line learning and an application to boosting.</title> <venue> in 2nd european conference on computational learning theory.</venue>  <year> (1995).</year>    
+
+<meta ref_no="0300" class_no="freund1995b" bib_no="2122"></meta>
+<author>freund y., and schapire r. e.</author><volume> eurocolt '95,</volume><title> a decision-theoretic generalization of on-line learning and an application to boosting.</title> <venue> in computational learning theory:</venue> <publisher> springer-verlag.</publisher><year> (1995).</year><pages> pages 23-37.</pages>   
+
+<meta ref_no="0301" class_no="freund1995b" bib_no="2123"></meta>
+<author>freund y., and schapire r.e.</author> <title> a decision-theoretic generalization of on-line learning and an application to boosting.</title> <venue> in proceedings of the second european conference on computational learning theory.</venue><address> barcelona, spain.</address> <year>1995</year>    
+
+<meta ref_no="0302" class_no="freund1995b" bib_no="2124"></meta>
+<author>freund y., & schapire r. e.</author> <title> a decisiontheoretic generalization of on-line learning and an application to boosting.</title> <venue> in proceedings ecml-95 san francisco,</venue><address> ca.</address><publisher> morgan kaufmann.</publisher><year> (1995).</year>    
+
+<meta ref_no="0303" class_no="freund1995b" bib_no="2125"></meta>
+<author>yoav freund, and robert e. schapire.</author> <title> a decision-theoretic generalization of on-line learning and an application to boosting.</title> <venue> in proceedings of the second european conference on computational learning theory,</venue> <publisher> springer-verlag,</publisher><year>1995</year><pages> pages 23-37.</pages> <note> a long version will appear in jcss.</note> 
+
+<meta ref_no="0304" class_no="freund1995b" bib_no="2126"></meta>
+<author>yoav freund, and robert e. schapire.</author> <title> a decisiontheoretic generalization of on-line learning and an application to boosting.</title> <venue> in proceedings of the second european conference on computational learning theory,</venue> <publisher> springer-verlag,</publisher><year>1995</year><pages> pages 23-37.</pages> <note> a long version will appear in jcss.</note> 
+
+<meta ref_no="0305" class_no="freund1995b" bib_no="2127"></meta>
+<author>yoav freund, and robert e. schapire.</author> <title> a decision-theoretic generalization of on-line learning and an application to boosting.</title> <venue> in proceedings of the second european conference on computational learning theory,</venue> <publisher> springer-verlag,</publisher><year>1995</year><pages> pages 23-37.</pages> <note> a long version will appear in jcss.</note> 
+
+<meta ref_no="0306" class_no="freund1995b" bib_no="2128"></meta>
+<author>yoav freund, and robert e. schapire.</author> <title> a decision-theoretic generalization of on-line learning and an application to boosting.</title> <venue> in proceedings of the second european conference on computational learning theory,</venue>  <year>1995</year><pages> pages 2337,</pages>   
+
+<meta ref_no="0307" class_no="freund1995b" bib_no="2129"></meta>
+<author>yoav freund, and robert e. schapire.</author> <title> a decision-theoretic gen eralization of on-line learning and an application to boosting.</title> <venue> in second european conference on computational learning theory,</venue> <publisher> springer-verlag,</publisher><year>1995</year><pages> pages 23-37.</pages>   
+
+<meta ref_no="0308" class_no="freund1995b" bib_no="2130"></meta>
+<author>yoav freund, and robert e. schapire.</author> <title> a decision-theoretic generalization of on-line learning and an application to boosting.</title> <venue> in second european conference on computational learning theory,</venue> <publisher> springer-verlag,</publisher><year>1995</year><pages> pages 23-37.</pages>  <month>13</month>
+
+<meta ref_no="0309" class_no="freund1995b" bib_no="2131"></meta>
+<author>schapire r.e., and y. freund</author> <title> 'a decision theoretic generalization of on-line learning and its application to boosting'.</title> <venue> in eurocolt '95,pp.</venue> <publisher> springer verlag,</publisher><year>1995</year><pages> 23-27,</pages>   
+
+<meta ref_no="0310" class_no="freund1995b" bib_no="2132"></meta>
+<author>y. freund, and r.e. schapire.</author> <title> a decision-theoretic generalization of on-line learning and an application to boosting.</title> <venue> in eurocolt-95,</venue>  <year>1995</year>    
+
+<meta ref_no="0311" class_no="freund1995b" bib_no="2133"></meta>
+<author>yoav freund, and robert e. schapire.</author><volume> euro-colt '95,</volume><title> a decision-theoretic generalization of on-line learning and an application to boosting.</title> <venue> in computational learning theory: second european conference,</venue> <publisher> springer-verlag,</publisher><year>1995</year><pages> pages 23-37.</pages> <note> a draft of the journal version is available electronically (on our web pages, or by email request).</note> 
+
+<meta ref_no="0312" class_no="freund1995b" bib_no="2134"></meta>
+<author>freund y., and schapire r. e.</author> <title> a decision-theoretic generalization of on-line learning and an application to boosting.</title> <venue> in proceedings of the second european conference on computational learning theory (mar. 1995),</venue> <publisher> springer-verlag,</publisher><year>1995</year><pages> pp. 23-37. 20</pages>   
+
+<meta ref_no="0313" class_no="freund1995b" bib_no="2135"></meta>
+<author>yoav freund, and robert e. schapire.</author><volume> eurocolt '95,</volume><title> a decision-theoretic generalization of online learning and an application to boosting.</title> <venue> in computational learning theory: 7 second european conference,</venue> <publisher> springer-verlag,</publisher><year>1995</year><pages> pages 23-37.</pages> <note> a draft of the journal version is available electronically (on our web pages, or by email request).</note> 
+
+<meta ref_no="0314" class_no="freund1995b" bib_no="2136"></meta>
+<author>y. freund, and r. schapire.</author> <title> a decision-theoretic gener alization of on-line learning and an application to boosting.</title> <venue> in proceedings of the second european conference on computational learning theory,</venue>  <year>1995</year><pages> pages 2337,</pages>   
+
+<meta ref_no="0315" class_no="freund1995b" bib_no="2137"></meta>
+<author>y. freund, and r. schapire.</author> <title> a decision-theoretic generalization of on-line learning and an application to boosting.</title> <venue> in proceedings of the second european conference on computational learning theory,</venue>  <year>1995</year><pages> pages 23-37,</pages>   
+
+<meta ref_no="0316" class_no="freund1995b" bib_no="2138"></meta>
+<author>y. freund, and r. schapire.</author> <title> a decision-theoretic generalization of on-line learning and an application to boosting.</title> <venue> in proceedings of the second european conference on computational learning theory,</venue>  <year>1995</year><pages> pages 2337,</pages>   
+
+<meta ref_no="0317" class_no="freund1995b" bib_no="2139"></meta>
+<author>yoav freund, and robert e. schapire.</author> <title> a decision-theoretic generalization of on-line learning and an application to boosting.</title> <venue> in eurocolt95,</venue>  <year>1995</year>    
+
+<meta ref_no="0318" class_no="freund1995b" bib_no="2140"></meta>
+<author>schapire r.e., and y. freund</author> <title> 'a decision theoretic generalization of on-line learning and its application to boosting'.</title> <venue> in eurocolt '95,pp.</venue> <publisher> springer verlag,</publisher><year>1995</year><pages> 23-27,</pages>   
+
+<meta ref_no="0319" class_no="freund1995c" bib_no="2141"></meta>
+<author>freund y., & schapire r.e.</author><volume> vol.</volume><title> a decision-theoretic generalization of on-line learning and an application to boosting.</title> <venue> lecture notes in artificial intelligence,</venue><address> berlin, germany:</address><publisher> springer-verlag.</publisher><year>-1995</year><pages>904</pages><editor> in vitanyi, p. (ed.),</editor>  
+
+<meta ref_no="0337" class_no="freund1996b" bib_no="2142"></meta>
+<author>y. freund, and r. schapire.</author> <title> game theory, on-line prediction and boosting.</title> <venue> in pro ceedings of the 9th annual conference on computational learning theory,</venue>  <year>1996</year><pages> pages 325-332,</pages>   
+
+<meta ref_no="0338" class_no="freund1996b" bib_no="2143"></meta>
+<author>y. freund, and r. schapire.</author> <title> game theory, on-line prediction and boosting.</title> <venue> in proceedings of the 9th annual conference on computational learning theory,</venue>  <year>1996</year><pages> pages 325-332,</pages>   
+
+<meta ref_no="0339" class_no="freund1996b" bib_no="2144"></meta>
+<author>yoav freund, and robert e. schapire.</author> <title> game theory, on-line prediction and boosting.</title> <venue> in proceedings of the ninth annual conference on computational learning theory,</venue>  <year>1996</year><pages> pages 325-332,</pages>   
+
+<meta ref_no="0340" class_no="freund1996b" bib_no="2145"></meta>
+<author>yoav freund, and robert e. schapire.</author> <title> game theory, on-line prediction and boosting.</title> <venue> in proceedings of the ninth annual conference on computational learning theory,</venue>  <year>1996</year><pages> pages 325-332,</pages>   
+
+<meta ref_no="0341" class_no="freund1996b" bib_no="2146"></meta>
+<author>y. freund, and r.e. schapire.</author> <title> game theory, on-line prediction and boosting.</title> <venue> in proceedings of the ninth annual conference on computational learning theory,</venue>  <year>1996</year>    
+
+<meta ref_no="0342" class_no="freund1996b" bib_no="2147"></meta>
+<author>y. freund, and r. schapire</author> <title> game theory, on-line prediction and boosting,</title> <venue> in proceedings of the 9th annual conference on computational learning theory,</venue>  <year>1996</year>    
+
+<meta ref_no="0343" class_no="freund1996b" bib_no="2148"></meta>
+<author>y. freund, and r. schapire.</author> <title> game theory, on-line prediction and boosting.</title> <venue> in colt-96,</venue>  <year>1996</year><pages> pages 325332,</pages>   
+
+<meta ref_no="0394" class_no="freund1995b" bib_no="2149"></meta>
+<author>freund y., and schapire r.e.</author> <title> a decision-theoretic generalization of on-line learning and an application to boosting.</title> <venue> second european conference,</venue>  <year> 1996a.</year>  <note> unpublished manuscript (available at http://www. research.att.com/~yoav).</note> 
+
+<meta ref_no="0395" class_no="freund1995b" bib_no="2150"></meta>
+<author>freund y., and schapire r.e.</author> <title> a decision-theoretic generalization of online learning and an application to boosting.</title> <venue> second european conference,</venue>  <year> 1996a.</year>  <note> unpublished manuscript (available at: http://www.research.att.com/~yoav).</note> 
+
+<meta ref_no="0396" class_no="freund1995b" bib_no="2151"></meta>
+<author>freund y., and schapire r.e.</author> <title> a decision-theoretic generalization of on-line learn ing and an application to boosting.</title> <venue> second european conference,</venue>  <year> (1996).</year>  <note> unpublished manuscript (1996a) (available at http://www.research.att.com/~yoav).</note> 
+
+<meta ref_no="0397" class_no="freund1996d" bib_no="2152"></meta>
+<author>freund y., and schapire r.e.</author> <title> a decision-theoretic generalization of on-line learning and an application to boosting.</title> <venue> unpublished manuscript,</venue>  <year> (1996).</year>  <note> available from the authors' home pages ('http://www.research.att.com/f~yoav,~schapireg') (1996a).</note> 
+
+<meta ref_no="0398" class_no="freund1996d" bib_no="2153"></meta>
+<author>freund y., & schapire r. e.</author> <title> a decision-theoretic generalization of on-line learning and an application to boosting.</title> <venue> unpublished manuscript,</venue>  <year> (1996).</year>  <note> available from the authors' home pages ('http://www.research.att.com/orgs/ssr/people/fyoav,schapireg').</note> 
+
+<meta ref_no="0399" class_no="freund1996d" bib_no="2154"></meta>
+<author>freund y., & schapire r. e.</author> <title> a decision-theoretic generalization of on-line learning and an application to boosting.</title> <venue> unpublished manuscript,</venue>  <year> (1996a).</year>  <note> available from the authors' home pages ('http://www.research.att.com/orgs/ssr/people/fyoav,schapireg').</note> 
+
+<meta ref_no="0400" class_no="freund1995b" bib_no="2155"></meta>
+<author>freund y., and schapire r. e.</author><volume> eurocolt '95,</volume><title> a decision-theoretic generalization of on-line learning and an application to boosting.</title> <venue>unpublished manuscript, available from the authors' home pages ('http://www.research. att.com/orgs/ssr/people/fyoav,schapireg'). an extended abstract appears in computational learning theory: second european conference,</venue> <publisher> springer-verlag,</publisher><year>1995</year><pages> 23-27,</pages>   
+
+<meta ref_no="0401" class_no="freund1995b" bib_no="2156"></meta>
+<author>freund y., and schapire r.e.</author> <title> 'a decision-theoretic generalization of on-line learning and an application to boosting', </title> <venue>at web site: http://www.research.att.com/yoav. or http://www.research.att.com/orgs/ssr/people/yoav. an extended abstract appears in the proceedings of the second european conference on computational learning theory, barcelona, second european conference,</venue> <publisher> springer-verlag,</publisher><year> 1995,</year><pages> pp. 23-37.</pages>  <month> march,</month>
+
+<meta ref_no="0402" class_no="freund1995b" bib_no="2157"></meta>
+<author>yoav freund, and robert e. schapire.</author><volume> eurocolt '95,</volume><title> a decision-theoreticgeneralizationof online learning and an application to boosting. </title> <venue>unpublishedmanuscript available electronically (on our web pages, or by email request). an extended abstract appeared in computational learning theory: second european conference,</venue> <publisher> springer-verlag,</publisher><year>1995</year><pages> pages 23-37,</pages>   
+
+<meta ref_no="0403" class_no="freund1995b" bib_no="2158"></meta>
+<author>freund y., and schapire r.e.</author> <title> a decision-theoretic generalization of on-line learning and an application to boosting.</title> <venue> second european conference,</venue>  <year> (1996).</year>  <note> unpublished manuscript (available at http://www.research.att.com/~yoav).</note> 
+
+<meta ref_no="0425" class_no="freund1997b" bib_no="2159"></meta>
+<author>freund y., schapire r. e., singer y., & warmuth m. k.</author> <title> using and combining predictors that specialize.</title> <venue> in proceedings of the twentyninth annual acm symposium on theory of computing.</venue>  <year> (1997).</year>    
+
+<meta ref_no="0426" class_no="freund1997b" bib_no="2160"></meta>
+<author>yoav freund, robert e. schapire, yoram singer, and man-fred k. warmuth.</author> <title> using and combining predictors that specialize.</title> <venue> in proceedings of the twenty-ninth annual acm symposium on the theory of computing,</venue>  <year>1997</year><pages> pages 334-343,</pages>   
+
+<meta ref_no="0427" class_no="freund1997b" bib_no="2161"></meta>
+<author>yoav freund, robert e. schapire, yoram singer, and manfred k. warmuth.</author> <title> using and combining predictors that specialize.</title> <venue> in proceedings of the twenty-ninth annual acm symposium on the theory of computing,</venue>  <year>1997</year><pages> pages 334-343,</pages>   
+
+<meta ref_no="0428" class_no="freund1997b" bib_no="2162"></meta>
+<author>yoav freund, robert e. schapire, yoram singer, and manfred k. warmuth.</author> <title> using and combining predictors that specialize.</title> <venue> in proceedings of the twenty-ninth annual acm symposium on the theory of computing,</venue>  <year>1997</year><pages> pages 334-343,</pages>   
+
+<meta ref_no="0429" class_no="freund1997b" bib_no="2163"></meta>
+<author>yoav freund, robert e. schapire, yoram singer, and manfred k. warmuth.</author> <title> using and com-bining predictors that specialize.</title> <venue> in proceedings of the twenty-ninth annual acm symposium on the theory of computing,</venue>  <year>1997</year><pages> pages 334-343,</pages>   
+
+<meta ref_no="0430" class_no="freund1997c" bib_no="2164"></meta>
+<author>freund y., seung h. s., shamir e., & tishby n.</author><volume> 28,</volume><title> selective sampling using the query by committee algorithm.</title> <venue> machine learning,</venue>  <year> (1997).</year><pages> 133-168.</pages>   
+
+<meta ref_no="0431" class_no="freund1997c" bib_no="2165"></meta>
+<author>freund y., seung h., shamir e., and tishby n.</author> <title> selective sampling using the query by committee algorithm.</title> <venue> machine learning 28</venue>  <year>1997</year><pages> 133-168.</pages>   
+
+<meta ref_no="0432" class_no="freund1997c" bib_no="2166"></meta>
+<author>y. freund, h. seung, e. shamir, and n. tishby.</author><volume>28</volume><title> selective sampling using the query by committee algorithm.</title> <venue> machine learning,</venue>  <year>1997</year><pages> 133-168,</pages>   
+
+<meta ref_no="0433" class_no="freund1997c" bib_no="2167"></meta>
+<author>y. freund, h. seung, e. shamir, and n. tishby.</author><volume>28</volume><title> selective sampling using the query by committee algorithm.</title> <venue> machine learning,</venue>  <year>1997</year><pages> 133-168,</pages>   
+
+<meta ref_no="0434" class_no="freund1997c" bib_no="2168"></meta>
+<author>yoav freund, h. sebastian seung, eli shamir, naftali tishby</author> <title> selective sampling using the query by committee algorithm,</title> <venue> machine learning,</venue>  <year>1995</year>   <month> july</month>
+
+<meta ref_no="0435" class_no="freund1997c" bib_no="2169"></meta>
+<author>yoav freund, h. sebastian seung, eli shamir, naftali tishby</author> <title> selective sampling using the query by committee algorithm,</title> <venue> machine learning,</venue>  <year> 1995,</year>  <note> to appear in machine learning</note><month> july</month>
+
+<meta ref_no="0439" class_no="goldman1989" bib_no="2170"></meta>
+<author>goldman s., rivest r., and schapire r.</author> <title> learning binary relations and total orders.</title> <venue> in proceedings of 30th annual symposium on foundation of computer science.</venue>  <year>1989</year><pages> 46-51.</pages>   
+
+<meta ref_no="0440" class_no="goldman1989" bib_no="2171"></meta>
+<author>sally a. goldman, ronald l. rivest, and robert e. schapire.</author> <title> learning binary relations and total orders.</title> <venue> in 30th annual symposium on foundations of computer science,</venue>  <year>1989</year><pages> pages 46-51,</pages> <note> to appear in siam journal of computing.</note><month> october</month>
+
+<meta ref_no="0441" class_no="goldman1989" bib_no="2172"></meta>
+<author>sally a. goldman, ronald l. rivest, and robert e. schapire.</author> <title> learning binary relations and total orders.</title> <venue> in proceedings of the thirtieth annual symposium on foundations of computer science,</venue>  <year>1989</year><pages> pages 46-51,</pages>  <month> october</month>
+
+<meta ref_no="0442" class_no="goldman1989" bib_no="2173"></meta>
+<author>s.a. goldman, r.l. rivest, and r.e. schapire.</author> <title> learning binary relations and total orders.</title> <venue> proceedings of the 30th annual symposium on the foundations of computer science,</venue>  <year>1989</year>    
+
+<meta ref_no="0450" class_no="goldman1990c" bib_no="2174"></meta>
+<author>sally a. goldman, ronald l. rivest, and robert e. schapire.</author> <title> learning binary relations and total orders.</title><institution> mit laboratory for computer science,</institution><venue> technical report mit/lcs/tm-413,</venue>  <year>1989</year>  <note> a preliminary version is available in proceedings of the thirtieth annual symposium on foundations of computer science, pages 46-51,</note><month> may</month>
+
+<meta ref_no="0451" class_no="goldman1990c" bib_no="2175"></meta>
+<author>sally a. goldman, ronald l. rivest, and robert e. schapire.</author> <title> learning binary relations and total orders.</title><institution> mit laboratory for computer science,</institution><venue> technical report mit/lcs/tm-413,</venue>  <year>1989</year>  <note> a preliminary version is available in proceedings of the thirtieth annual symposium on foundations of computer science, pages 46-51,</note><month> may</month>
+
+<meta ref_no="0452" class_no="goldman1991" bib_no="2176"></meta>
+<author>goldman s. a., & kearns m. j.</author> <title> on the complexity of teaching.</title> <venue> proceedings of the fourth annual workshop on computational learning theory (pp.</venue><address> santa cruz, ca:</address><publisher> morgan kaufmann.</publisher><year> (1991).</year><pages> 303-314).</pages>   
+
+<meta ref_no="0453" class_no="goldman1991" bib_no="2177"></meta>
+<author>s. a. goldman, and m. j. kearns.</author> <title> on the complexity of teaching.</title> <venue> in proc. 4th annu. workshop on comput. learning theory,</venue><address> san mateo, ca,</address><publisher> morgan kaufmann,</publisher><year>1991</year><pages> pages 303-314.</pages> <note> to appear, journal of computer and system sciences.</note> 
+
+<meta ref_no="0454" class_no="goldman1991" bib_no="2178"></meta>
+<author>sally a. goldman, and michael j. kearns.</author> <title> on the complexity of teaching.</title> <venue> in proceedings of the fourth annual workshop on computational learning theory,</venue> <publisher> morgan kaufmann,</publisher><year>1991</year><pages> pages 303-315.</pages>  <month> august</month>
+
+<meta ref_no="0455" class_no="goldman1991" bib_no="2179"></meta>
+<author>s. goldman, and m. kearns.</author> <title> on the complexity of teaching.</title> <venue> in proceedings of the fourth annual workshop on computational learning theory,</venue><address> santa cruz, ca, august 1991.</address><publisher> morgan kaufmann.</publisher><year>1991</year><pages> pages 303-314,</pages>   
+
+<meta ref_no="0456" class_no="goldman1991" bib_no="2180"></meta>
+<author>s. goldman, and m. kearns</author> <title> 'on the complexity of teaching',</title> <venue> in proc. of the fourth annual workshop on computational learning theory,</venue><address> santa cruz, ca,</address><publisher> morgan kaufmann.</publisher><year> 1991,</year><pages> pp. 303-314,</pages>  <month> august</month>
+
+<meta ref_no="0457" class_no="goldman1991" bib_no="2181"></meta>
+<author>s. goldman, and m. kearns.</author> <title> on the complexity of teaching.</title> <venue> proceedings of the fourth annual workshop on computational learning theory,</venue>  <year>1991</year><pages> pages 303-314,</pages>   
+
+<meta ref_no="0458" class_no="goldman1991" bib_no="2182"></meta>
+<author>goldman s.a., and m.j. kearns.</author> <year> (1991)</year> <title> on the complexity of teaching.</title> <venue> proceedings of the fourth annual workshop on computational learning theory,</venue><address> colt 91.</address> <year>1991</year>    
+
+<meta ref_no="0459" class_no="goldman1991" bib_no="2183"></meta>
+<author>s.a goldman, and m.j. kearns.</author> <title> on the complexity of teaching.</title> <venue> proceedings of the fourth annual workshop on computational learning theory.</venue> <publisher> morgan kaufmann,</publisher><year>1991</year> <editor> in m.k. war-muth and leslie valiant, editors,</editor>  
+
+<meta ref_no="0460" class_no="goldman1991" bib_no="2184"></meta>
+<author>s. a. goldman, and m. j. kearns.</author> <title> on the complexity of teaching.</title> <venue> in proc. 4th annu. workshop on comput. learning theory,</venue><address> san mateo, ca,</address><publisher> morgan kaufmann,</publisher><year>1991</year><pages> pages 303-314.</pages>   
+
+<meta ref_no="0461" class_no="goldman1991" bib_no="2185"></meta>
+<author>goldman s.a., and m.j. kearns</author> <title> 'on the complexity of teaching,'</title> <venue> proc. forth acm workshop on computational learning theory,</venue>  <year> 1991,</year><pages> pp. 303-314.</pages>  <month> july</month>
+
+<meta ref_no="0462" class_no="goldman1991" bib_no="2186"></meta>
+<author>sally a. goldman, and michael j. kearns.</author> <title> on the complexity of teaching.</title> <venue> in proceedings of the fourth annual workshop on computational learning theory,</venue>  <year>1991</year><pages> pages 303-314,</pages>  <month> august</month>
+
+<meta ref_no="0463" class_no="goldman1991" bib_no="2187"></meta>
+<author>s. goldman, and m. kearns.</author> <title> on the complexity of teaching.</title> <venue> in colt-91,</venue>  <year>1991</year><pages> pages 303314,</pages>   
+
+<meta ref_no="0464" class_no="goldman1991" bib_no="2188"></meta>
+<author>sally a. goldman, and michael j. kearns.</author> <title> on the complexity of teaching.</title> <venue> proceedings of the fourth annual workshop on computational learning theory,</venue><address> santa cruz, ca, august 5-7 1991.</address><publisher> morgan kaufmann publishers.</publisher><year>1991</year><pages> pages 303-314,</pages><editor> in leslie g. valiant and manfred k. warmuth, editors,</editor>  
+
+<meta ref_no="0469" class_no="goldman1993a" bib_no="2189"></meta>
+<author>goldman s., kearns m. j., and schapire r.</author> <title> exact identification of circuits using fixed points of amplification functions.</title> <venue> in proceedings of the thirty first annual ieee symposium on foundations of computer science (focs-90),</venue>  <year>1990</year><pages> pages 193-202.</pages>   
+
+<meta ref_no="0470" class_no="goldman1993a" bib_no="2190"></meta>
+<author>goldman s., kearns m., & schapire r.</author> <title> exact identification of circuits using fixed points of amplification functions.</title> <venue> in proceedings of the thirty-first annual symposium on foundations of computer science,</venue><address> st. louis, mo:</address><publisher> ieee computer society press.</publisher><year> (1990).</year><pages> (pp. 193-202).</pages>   
+
+<meta ref_no="0471" class_no="goldman1993a" bib_no="2191"></meta>
+<author>s. goldman, m. kearns, and r. schapire.</author> <title> exact identification of circuits using fixed points of amplification functions.</title> <venue> in focs-90,</venue>  <year>1990</year><pages> pages 193202,</pages>   
+
+<meta ref_no="0472" class_no="goldman1993a" bib_no="2192"></meta>
+<author>s. a. goldman, m. j. kearns, and r. e. schapire.</author> <title> exact identification of circuits using fixed points of amplification functions.</title> <venue> in proc. of the 31st symposium on the foundations of comp. sci.,</venue><address> ca,</address><publisher> ieee computer society press, los alamitos,</publisher><year>1990</year><pages> pages 193-202.</pages>   
+
+<meta ref_no="0473" class_no="goldman1993a" bib_no="2193"></meta>
+<author>sally a. goldman, michael j. kearns, and robert e. schapire.</author> <title> exact identification of circuits using fixed points of amplification functions.</title> <venue> in 31st annual symposium on foundations of computer science,</venue>  <year>1990</year><pages> pages 193-202,</pages>  <month> october</month>
+
+<meta ref_no="0474" class_no="goldman1993a" bib_no="2194"></meta>
+<author>sally a. goldman, michael j. kearns, and robert e. schapire.</author> <title> exact identification of circuits using fixed points of amplification functions.</title> <venue> in proceedings of the 31st symposium on foundations of computer science,</venue>  <year>1990</year>    
+
+<meta ref_no="0475" class_no="goldman1993a" bib_no="2195"></meta>
+<author>sally a. goldman, michael j. kearns, and robert e. schapire.</author> <title> exact identification of circuits using fixed points of amplification functions.</title> <venue> in proceedings of the 31st symposium on foundations of computer science,</venue> <publisher> ieee,</publisher><year>1990</year><pages> pages 193-202.</pages>  <month> october</month>
+
+<meta ref_no="0476" class_no="goldman1993a" bib_no="2196"></meta>
+<author>sally a. goldman, michael j. kearns, and robert e. schapire.</author> <title> exact identification of circuits using fixed points of amplification functions.</title> <venue> in proceedings of the 31st symposium on foundations of computer science,</venue>  <year>1990</year>    
+
+<meta ref_no="0477" class_no="goldman1993a" bib_no="2197"></meta>
+<author>s. goldman, m. kearns, and r. schapire.</author> <title> exact identification of circuits using fixed points of amplification functions.</title> <venue> in proceedings of the 31st annual symposium on foundations of computer science,</venue> <publisher> ieee computer society press,</publisher><year> 1990,</year><pages> pp. 193-202.</pages>   
+
+<meta ref_no="0478" class_no="goldman1993a" bib_no="2198"></meta>
+<author>s. goldman, m. kearns, and r. schapire.</author> <title> exact identification of circuits using fixed points of amplification functions.</title> <venue> in proceedings of the thirty first annual symposium on foundations of computer science,</venue>  <year>1990</year><pages> pages 193-202,</pages>  <month> october</month>
+
+<meta ref_no="0479" class_no="goldman1993a" bib_no="2199"></meta>
+<author>sally a. goldman, michael j. kearns, and robert e. schapire.</author> <title> exact identification of circuits using fixed points of amplification functions.</title> <venue> in proceedings of the 31st symposium on foundations of computer science,</venue>  <year>1990</year>    
+
+<meta ref_no="0490" class_no="goldman1995" bib_no="2200"></meta>
+<author>s. a. goldman, and m. j. kearns.</author><volume> 50(1)</volume><title> on the complexity of teaching.</title> <venue> journal of computer and system sciences,</venue>  <year>1995</year><pages> 20-31,</pages>   
+
+<meta ref_no="0491" class_no="goldman1995" bib_no="2201"></meta>
+<author>goldman s. a., & kearns m. j.</author> <title> on the complexity of teaching.</title> <venue> jcss 50(1):</venue>  <year> (1995).</year><pages> 20-31.</pages>   
+
+<meta ref_no="0492" class_no="goldman1995" bib_no="2202"></meta>
+<author>s. a. goldman, and m. j. kearns.</author><volume> 50(1)</volume><title> on the complexity of teaching.</title> <venue> journal of computer and system sciences,</venue>  <year>1995</year><pages> 20-31,</pages>  <month> february</month>
+
+<meta ref_no="0493" class_no="goldman1995" bib_no="2203"></meta>
+<author>s. a. goldman, and m. j. kearns.</author><volume> 50(1)</volume><title> on the complexity of teaching.</title> <venue> journal of computer and system sciences,</venue>  <year>1995</year><pages> 20-31,</pages>   
+
+<meta ref_no="0494" class_no="goldman1995" bib_no="2204"></meta>
+<author>s. a. goldman, and m. j. kearns.</author><volume> 50(1)</volume><title> on the complexity of teaching.</title> <venue> journal of computer and system sciences,</venue>  <year>1995</year><pages> 20-31,</pages>  <month> february</month>
+
+<meta ref_no="0500" class_no="haussler1991" bib_no="2205"></meta>
+<author>david haussler, michael kearns, nick littlestone, and manfred k. warmuth.</author> <title> equivalence of models for polynomial learnability.</title> <venue> information and computation.</venue>  <year>1988</year>  <note> to appear. a preliminary version is available in proceedings of the 1988 workshop on computational learning theory, pages 42-55,</note> 
+
+<meta ref_no="0501" class_no="haussler1991" bib_no="2206"></meta>
+<author>d. haussler, m. kearns, n. littlestone, and m. k. warmuth.</author><volume> 95(2)</volume><title> equivalence of models for polynomial learnability.</title> <venue> information and computation,</venue>  <year>1991</year><pages> 129-161,</pages>  <month> december</month>
+
+<meta ref_no="0502" class_no="haussler1991" bib_no="2207"></meta>
+<author>d. haussler, m. kearns, n. littlestone, and m. k. war-muth.</author><volume> 95(2)</volume><title> equivalence of models for polynomial learnability.</title> <venue> inform. comput.,</venue>  <year>1991</year><pages> 129-161,</pages>  <month> december</month>
+
+<meta ref_no="0503" class_no="haussler1991" bib_no="2208"></meta>
+<author>d. haussler, m. kearns, n. littlestone, and m. k. warmuth.</author><volume> 95(2)</volume><title> equivalence of models for polynomial learnability.</title> <venue> inform. comput.,</venue>  <year>1991</year><pages> 129-161,</pages>  <month> december</month>
+
+<meta ref_no="0504" class_no="haussler1991" bib_no="2209"></meta>
+<author>d. haussler, m. kearns, n. littlestone, and m. k. warmuth.</author><volume> 95(2)</volume><title> equivalence of models for polynomial learnability.</title> <venue> inform. comput.,</venue>  <year>1991</year><pages> 129-161,</pages>  <month> december</month>
+
+<meta ref_no="0505" class_no="haussler1991" bib_no="2210"></meta>
+<author>david haussler, michael kearns, nick littlestone, and manfred k. warmuth.</author><volume> 95(2)</volume><title> equivalence of models for polynomial learnability.</title> <venue> information and computation,</venue>  <year>1991</year><pages> 129-161,</pages>  <month> december</month>
+
+<meta ref_no="0506" class_no="haussler1991" bib_no="2211"></meta>
+<author>david haussler, michael kearns, nick littlestone, and manfred k. war-muth.</author><volume> 95(2)</volume><title> equivalence of models for polynomial learnability.</title> <venue> information and computation,</venue>  <year>1991</year><pages> 129-161,</pages>  <month> december</month>
+
+<meta ref_no="0507" class_no="haussler1991" bib_no="2212"></meta>
+<author>d. haussler, m. kearns, n. littlestone, and m. k. warmuth.</author><volume>95</volume><title> equivalence of models for polynomial learnability.</title> <venue> information and computation,</venue>  <year>1991</year><pages> 129-161,</pages>   
+
+<meta ref_no="0508" class_no="haussler1991" bib_no="2213"></meta>
+<author>d. haussler, m. kearns, n. littlestone, and m. k. warmuth.</author><volume> 95(2)</volume><title> equivalence of models for polynomial learnability.</title> <venue> inform. comput.,</venue>  <year>1991</year><pages> 129-161,</pages>  <month> december</month>
+
+<meta ref_no="0509" class_no="haussler1991" bib_no="2214"></meta>
+<author>david haussler, michael kearns, nick littlestone, and manfred k. warmuth.</author><volume> 25(2)</volume><title> equivalence of models for polynomial learnability.</title> <venue> information and computation,</venue>  <year>1991</year><pages> 129-161,</pages>  <month> december</month>
+
+<meta ref_no="0510" class_no="haussler1991" bib_no="2215"></meta>
+<author>david haussler, michael kearns, nick littlestone, and manfred k. warmuth.</author><volume> 95(2)</volume><title> equivalence of models for polynomial learnability.</title> <venue> information and computation,</venue>  <year>1991</year><pages> 129-161,</pages>  <month> december</month>
+
+<meta ref_no="0511" class_no="haussler1991" bib_no="2216"></meta>
+<author>david haussler, michael kearns, nick littlestone, and manfred k. warmuth.</author> <title> equivalence of models for polynomial learnability.</title> <venue> information and computation.</venue>  <year>1991</year>  <note> to appear.</note> 
+
+<meta ref_no="0512" class_no="haussler1991" bib_no="2217"></meta>
+<author>d. haussler, m. kearns, n. littlestone, and m. k. warmuth.</author><volume>95</volume><title> equivalence of models for polynomial learnability.</title> <venue> information and computation,</venue>  <year>1991</year><pages> 129-161,</pages>   
+
+<meta ref_no="0513" class_no="haussler1991" bib_no="2218"></meta>
+<author>d. haussler, m. kearns, n. littlestone, and m. k. warmuth.</author><volume> 95(2)</volume><title> equivalence of models for polynomial learnability.</title> <venue> inform. comput.,</venue>  <year>1991</year><pages> 129-161,</pages>  <month> december</month>
+
+<meta ref_no="0514" class_no="haussler1991" bib_no="2219"></meta>
+<author>david haussler, michael kearns, nick littlestone, and manfred k. warmuth.</author><volume> 95(2)</volume><title> equivalence of models for polynomial learnability.</title> <venue> information and computation,</venue>  <year>1991</year><pages> 129-161,</pages>  <month> december</month>
+
+<meta ref_no="0515" class_no="haussler1991" bib_no="2220"></meta>
+<author>d. haussler, m. kearns, n. littlestone, and m. k. war-muth.</author> <title> equivalence of models for polynomial learnabil-ity.</title> <venue> information and computation, information and computation,</venue><address> 95:129161,</address> <year>1991</year>    
+
+<meta ref_no="0516" class_no="haussler1991" bib_no="2221"></meta>
+<author>d. haussler, m. kearns, n. littlestone, and m. warmuth.</author><volume>95</volume><title> equivalence of models for polynomial learnability.</title> <venue> information and computation,</venue>  <year>1991</year><pages> 129-161,</pages>   
+
+<meta ref_no="0517" class_no="haussler1991" bib_no="2222"></meta>
+<author>david haussler, michael kearns, nick littlestone, and manfred k. warmuth.</author><volume> 25(2)</volume><title> equivalence of models for polynomial learnability.</title> <venue> information and computation,</venue>  <year>1991</year><pages> 129-161,</pages>  <month> december</month>
+
+<meta ref_no="0518" class_no="haussler1991" bib_no="2223"></meta>
+<author>david haussler, michael kearns, nick lit-tlestone, and manfred k. warmuth.</author> <title> equivalence of models for polynomial learnability.</title> <venue> information and computation,</venue>  <year>1990</year>    
+
+<meta ref_no="0519" class_no="haussler1991" bib_no="2224"></meta>
+<author>d. haussler, m. kearns, n. littlestone, and m. k. warmuth.</author><volume> 95(2)</volume><title> equiva lence of models for polynomial learnability.</title> <venue> inform. comput.,</venue>  <year>1991</year><pages> 129-161,</pages>  <month> december</month>
+
+<meta ref_no="0520" class_no="haussler1991" bib_no="2225"></meta>
+<author>d. haussler, m. kearns, n. littlestone, and m. k. warmuth.</author><volume> 95(2)</volume><title> equivalence of models for polynomial learnability.</title> <venue> inform. comput.,</venue>  <year>1991</year><pages> 129-161,</pages>  <month> december</month>
+
+<meta ref_no="0521" class_no="haussler1991" bib_no="2226"></meta>
+<author>d. haussler, m. kearns, n. littlestone, and m. k. warmuth.</author><volume> 95(2)</volume><title> equivalence of models for polynomial learnability.</title> <venue> information and computation,</venue>  <year>1991</year><pages> 129-161,</pages>  <month> december</month>
+
+<meta ref_no="0522" class_no="haussler1991" bib_no="2227"></meta>
+<author>d. haussler, m. kearns, n. littlestone, and m. warmuth.</author><volume> 95(2)</volume><title> equivalence of models for polynomial learnability.</title> <venue> inform. comput.,</venue>  <year>1991</year><pages> 129-161,</pages>  <month> december</month>
+
+<meta ref_no="0523" class_no="haussler1991" bib_no="2228"></meta>
+<author>d. haussler, m. kearns, n. littlestone, and m. warmuth.</author><volume> 95(2)</volume><title> equivalence of models for polynomial learnability.</title> <venue> inform. comput.,</venue>  <year>1991</year><pages> 129-161,</pages>  <month>41</month>
+
+<meta ref_no="0524" class_no="haussler1991" bib_no="2229"></meta>
+<author>david haussler, michael kearns, nick littlestone, and manfred k. warmuth.</author><volume>95</volume><title> equivalence of models for polynomial learnability.</title> <venue> information and computation,</venue>  <year>1991</year><pages> 129-161,</pages>   
+
+<meta ref_no="0525" class_no="haussler1991" bib_no="2230"></meta>
+<author>haussler d., kearns m., littlestone n., and warmuth m.k.</author> <title> equiv--alence of models for polynomial learnability. information and computation, to appear.</title> <venue> an extended abstract appeared in proceedings of the 1st workshop on computational learning theory,</venue><address> san mateo, ca.</address><publisher> morgan kaufmann,</publisher><year> (1991),</year>    
+
+<meta ref_no="0526" class_no="haussler1991" bib_no="2231"></meta>
+<author>david haussler, michael kearns, nick littlestone, and manfred k. warmuth.</author><volume>95</volume><title> equivalence of models for polynomial learnability.</title> <venue> information and computation,</venue>  <year>1991</year><pages> 129-161,</pages>   
+
+<meta ref_no="0604" class_no="helmbold1996" bib_no="2232"></meta>
+<author>d. helmbold, r. e. schapire, y. singer, and m. k. warmuth.</author> <title> on-line portfolio selection using multiplicative upyears.</title> <venue> in proc. 13th international conference on machine learning,</venue><address> san francisco,</address><publisher> morgan kaufmann,</publisher><year>1996</year><pages> pages 243-251.</pages>   
+
+<meta ref_no="0605" class_no="helmbold1996" bib_no="2233"></meta>
+<author>d. helmbold, r. schapire, y. singer, and m. war muth.</author> <title> on-line portfolio selection using multiplicative upyears.</title> <venue> in machine learning: proceedings of the 13th international conference.</venue>  <year>1996</year>    
+
+<meta ref_no="0606" class_no="helmbold1996" bib_no="2234"></meta>
+<author>d. helmbold, r. schapire, y. singer, and m. war-muth.</author> <title> on-line portfolio selection using multiplicative upyears.</title> <venue> in machine learning: proceedings of the 13th international conference.</venue>  <year>1996</year>    
+
+<meta ref_no="0607" class_no="helmbold1996" bib_no="2235"></meta>
+<author>helmbold d. p., r. e. schapire, y. singer, and m. k. warmuth</author> <year> (1996).</year> <title> on-line portfolio selection using multilpicative upyears.</title> <venue> in: machine learning: proceedings of the thirteenth international conference.</venue>  <year>1997</year>   <month> revised july,</month>
+
+<meta ref_no="0608" class_no="helmbold1996" bib_no="2236"></meta>
+<author>helmbold d. p., schapire r. e., singer y., and warmuth m. k.</author> <title> on-line portfolio selection using multiplicative upyears,</title> <venue> in 'proceedings, 13th international conference on machine learning,'</venue><address> san francisco (to appear).</address><publisher> morgan kaufmann,</publisher><year> (1996c),</year>    
+
+<meta ref_no="0609" class_no="helmbold1996" bib_no="2237"></meta>
+<author>helmbold d. p., schapire r. e., singer y., and war-muth m. k.</author> <title> on-line portfolio selection using multiplicative upyears.</title> <venue> in machine learning: proceedings of the thirteenth international conference.</venue>  <year>1997</year>   <month> revised july,</month>
+
+<meta ref_no="0610" class_no="helmbold1996" bib_no="2238"></meta>
+<author>d. helmbold, r. e. schapire, y. singer, and m. k. warmuth</author> <title> 'on-line portfolio selection using multiplicative upyears,'</title> <venue> in proc. 13th international conference on machine learning,</venue><address> san francisco:</address><publisher> morgan kaufmann,</publisher><year> 1996,</year><pages> pp. 243-251. 35</pages>   
+
+<meta ref_no="0611" class_no="helmbold1996" bib_no="2239"></meta>
+<author>d. p. helmbold, r. e. schapire, y. singer, and m. k. war-muth.</author> <title> on-line portfolio selection using multiplicative upyears.</title> <venue> in proc. of the thirteenth intl. conf. on machine learning,</venue>  <year>1996</year>    
+
+<meta ref_no="0612" class_no="helmbold1996" bib_no="2240"></meta>
+<author>d. helmbold, r. e. schapire, y. singer, and m. k. warmuth.</author> <title> on-line portfolio selection using multiplicative upyears.</title> <venue> in proc. 13th international conference on machine learning,</venue><address> san fran-cisco,</address><publisher> morgan kaufmann,</publisher><year>1996</year><pages> pages 243251.</pages>  <month> july</month>
+
+<meta ref_no="0613" class_no="helmbold1996a" bib_no="2241"></meta>
+<author>helmbold d. p., schapire r. e., singer y., and warmuth m. k.</author> <title> a comparison of new and old algorithms for a mixture estimation problem,</title> <venue> in proc. 13th international conference on machine learning,</venue>  <year> (1996b),</year>  <note> machine learning (to appear).</note> 
+
+<meta ref_no="0616" class_no="helmbold1997c" bib_no="2242"></meta>
+<author>d.p. helmbold, r.e. schapire, y. singer, and m.k. warmuth.</author> <title> a comparison of new and old algorithms for a mixture estimation problem.</title> <venue> machine learning,</venue><address> 27:97119,</address> <year>1997</year>  <note> 4 available from http://www.sgi.com/technology/mlc/.</note> 
+
+<meta ref_no="0617" class_no="helmbold1997c" bib_no="2243"></meta>
+<author>d. p. helmbold, r. e. schapire, y. singer, and m. k. warmuth.</author><volume> 27(1)</volume><title> a comparison of new and old algorithms for a mixture estimation problem.</title> <venue> machine learning,</venue>  <year>1997</year><pages> 97-119,</pages>   
+
+<meta ref_no="0618" class_no="helmbold1997c" bib_no="2244"></meta>
+<author>d. helmbold, r. e. schapire, y. singer, and m. k. warmuth</author><volume> vol. 27,</volume><title> 'a comparison of new and old algorithms for a mixture estimation problem,'</title> <venue> machine learning,</venue>  <year>1997</year><pages> pp. 97-119,</pages>   
+
+<meta ref_no="0619" class_no="helmbold1997c" bib_no="2245"></meta>
+<author>d. helmbold, r. e. schapire, y. singer, and m. k. warmuth.</author> <title> a comparison of new and old algorithms for a mixture estimation problem.</title> <venue> machine learning,</venue>  <year>1997</year>  <note> to appear.</note> 
+
+<meta ref_no="0683" class_no="kearns1987b" bib_no="2246"></meta>
+<author>kearns m. j., li m., pitt l., and valiant l.</author> <title> recent results on boolean concept learning.</title> <venue> in proceedings of the fourth international conference on machine learning (ml-87),</venue>  <year> 1987b.</year><pages> pages 337-352.</pages>   
+
+<meta ref_no="0684" class_no="kearns1987b" bib_no="2247"></meta>
+<author>kearns m., li m., pitt l., & valiant l. g.</author> <title> recent results on boolean concept learning.</title> <venue> proceedings of the fourth international workshop on machine learning (pp.</venue><address> irvine, ca:</address><publisher> morgan kauf-mann.</publisher><year> (1987).</year><pages> 337-352).</pages>   
+
+<meta ref_no="0685" class_no="kearns1987b" bib_no="2248"></meta>
+<author>kearns m., li m., pitt l., & valiant l. g.</author> <title> recent results on boolean concept learning.</title> <venue> proceedings of the fourth international workshop on machine learning (pp.</venue><address> irvine, ca:</address><publisher> morgan kaufmann.</publisher><year> (1987).</year><pages> 337-352).</pages>   
+
+<meta ref_no="0686" class_no="kearns1987b" bib_no="2249"></meta>
+<author>m. kearns, m. li, l. pitt, and l. valiant.</author> <title> recent results on boolean concept learning.</title> <venue> proceedings of the fourth international workshop on machine learning,</venue><address> los altos california).</address><publisher> (published by morgan kaufmann,</publisher><year>1987</year><pages> pages 337-352,</pages><editor> in p. langley, editor,</editor>  
+
+<meta ref_no="0687" class_no="kearns1987b" bib_no="2250"></meta>
+<author>michael kearns, ming li, leonard pitt, and leslie valiant.</author> <title> recent results on boolean concept learning.</title><institution> university of california, irvine,</institution><venue> in proceedings of the fourth international workshop on machine learning,</venue>  <year>1987</year><pages> pages 337-352,</pages>  <month> june</month>
+
+<meta ref_no="0688" class_no="kearns1987b" bib_no="2251"></meta>
+<author>m. kearns, m. li, l. pitt, l.g. valiant.</author> <title> recent results on boolean concept learning.</title> <venue> proceedings of the 4th international workshop on machine learning,</venue> <publisher> morgan kaufmann publishers,</publisher><year> 1987,</year><pages> pp. 337-352.</pages>   
+
+<meta ref_no="0714" class_no="kearns1988b" bib_no="2252"></meta>
+<author>kearns m., l.g. valiant</author> <title> 'learning boolean formulae or finite automata is as hard as factoring',</title><institution> aiken computation laboratory, harvard university,</institution><venue> technical report tr-14-88,</venue>  <year>1988</year>    
+
+<meta ref_no="0715" class_no="kearns1988b" bib_no="2253"></meta>
+<author>m. kearns, and l.g. valiant.</author> <title> learning boolean formulae or finite automata is as hard as factoring.</title><institution> harvard university aiken computation laboratory,</institution><venue> technical report tr-14-88,</venue><address> cambridge, ma,</address> <year>1988</year>    
+
+<meta ref_no="0716" class_no="kearns1988b" bib_no="2254"></meta>
+<author>michael kearns, and leslie g. valiant.</author> <title> learning boolean formulae or finite au tomata is as hard as factoring.</title><institution> harvard university aiken computation laboratory,</institution><venue> technical report tr 14-88,</venue>  <year>1988</year>    
+
+<meta ref_no="0717" class_no="kearns1988b" bib_no="2255"></meta>
+<author>m. kearns, and l.g. valiant.</author> <title> learning boolean formulae or finite automata is as hard as factoring.</title><institution> harvard university aiken computation laboratory,</institution><venue> technical report tr-14-88,</venue><address> cambridge, ma,</address> <year>1988</year>    
+
+<meta ref_no="0758" class_no="kearns1989a" bib_no="2256"></meta>
+<author>m. kearns, and l. pitt.</author> <title> a polynomial-time algorithm for learning k-variable pattern languages from examples.</title> <venue> in proceedings of the second annual workshop on computational learning theory,</venue><address> santa cruz, california,</address> <year>1989</year><pages> pages 57-71,</pages>  <month> july</month>
+
+<meta ref_no="0759" class_no="kearns1989a" bib_no="2257"></meta>
+<author>m. kearns, l. pitt.</author> <title> a polynomial-time algorithm for learning k-variable pattern languages from examples.</title> <venue> proceedings of the 1989 workshop on computational learning theory,</venue> <publisher> morgan kaufmann publishers,</publisher><year> 1989,</year><pages> pp. 57-71. 33</pages>   
+
+<meta ref_no="0760" class_no="kearns1989a" bib_no="2258"></meta>
+<author>m. kearns, l. pitt.</author> <title> a polynomial-time algorithm for learning k-variable pattern languages from examples.</title> <venue> proceedings of the 1989 workshop on computational learning theory,</venue> <publisher> morgan kaufmann publishers,</publisher><year> 1989,</year><pages> pp. 57-71.</pages>   
+
+<meta ref_no="0761" class_no="kearns1990" bib_no="2259"></meta>
+<author>michael j. kearns.</author> <title> the computational complexity of machine learning.</title> <venue> phd thesis,</venue><address> cam bridge, massachusetts,</address><publisher> mit press,</publisher><year>1990</year>    
+
+<meta ref_no="0762" class_no="kearns1990" bib_no="2260"></meta>
+<author>michael j. kearns.</author> <title> the computational complexity of machine learning.</title> <venue> phd thesis,</venue><address> cam-bridge, massachusetts,</address><publisher> mit press,</publisher><year>1990</year>    
+
+<meta ref_no="0763" class_no="kearns1990" bib_no="2261"></meta>
+<author>m. kearns.</author> <title> the computational complexity of machine learning.</title> <venue> phd thesis,</venue> <publisher> mit press.</publisher><year> (1990).</year>    
+
+<meta ref_no="0764" class_no="kearns1990" bib_no="2262"></meta>
+<author>kearns m. j.</author> <title> the computational complexity of machine learning,</title> <venue> phd thesis,</venue><address> cambridge, mas-sachusetts, usa.</address><publisher> mit press,</publisher><year> (1990).</year>    
+
+<meta ref_no="0765" class_no="kearns1990" bib_no="2263"></meta>
+<author>michael j. kearns.</author> <title> the computational complexity of machine learning.</title> <venue> phd thesis,</venue><address> boston, ma,</address><publisher> mit press,</publisher><year>1990</year>    
+
+<meta ref_no="0766" class_no="kearns1990" bib_no="2264"></meta>
+<author>kearns m.</author> <title> the computational complexity of machine learning.</title> <venue> phd thesis,</venue> <publisher> the mit press.</publisher><year> (1990).</year>    
+
+<meta ref_no="0767" class_no="kearns1990" bib_no="2265"></meta>
+<author>michael kearns.</author> <title> the computational complexity of machine learning.</title> <venue> phd thesis,</venue> <publisher> mit press,</publisher><year>1990</year>    
+
+<meta ref_no="0768" class_no="kearns1990" bib_no="2266"></meta>
+<author>michael kearns.</author> <title> the computational complexity of machine learning.</title> <venue> phd thesis,</venue> <publisher> mit press,</publisher><year>1990</year>    
+
+<meta ref_no="0769" class_no="kearns1990" bib_no="2267"></meta>
+<author>michael kearns.</author> <title> the computational complexity of machine learning.</title> <venue> phd thesis,</venue> <publisher> mit press,</publisher><year>1990</year>    
+
+<meta ref_no="0770" class_no="kearns1990" bib_no="2268"></meta>
+<author>michael kearns.</author> <title> the computational complexity of machine learning.</title> <venue> phd thesis,</venue> <publisher> mit press,</publisher><year>1990</year>    
+
+<meta ref_no="0771" class_no="kearns1990" bib_no="2269"></meta>
+<author>m. kearns.</author> <title> the computational complexity of machine learning.</title><institution> harvard university,</institution><venue> phd thesis,</venue>  <year>1989</year>  <note> to be published by mit press in the acm distinguished dissertation series.</note> 
+
+<meta ref_no="0772" class_no="kearns1990" bib_no="2270"></meta>
+<author>kearns m.</author> <title> the computational complexity of machine learning.</title> <venue> phd thesis,</venue> <publisher> the mit press.</publisher><year> (1990).</year>    
+
+<meta ref_no="0773" class_no="kearns1990" bib_no="2271"></meta>
+<author>michael j. kearns.</author> <title> the computational complexity of machine learning.</title> <venue> phd thesis,</venue><address> cambridge, massachusetts,</address><publisher> mit press,</publisher><year>1990</year>    
+
+<meta ref_no="0774" class_no="kearns1990" bib_no="2272"></meta>
+<author>kearns m.</author> <title> the computational complexity of machine learning.</title> <venue> phd thesis,</venue><address> cambridge, ma:</address><publisher> mit press.</publisher><year>-1990</year>    
+
+<meta ref_no="0775" class_no="kearns1990" bib_no="2273"></meta>
+<author>michael j. kearns.</author> <title> the computational complexity of machine learning.</title> <venue> phd thesis,</venue><address> cambridge, ma,</address><publisher> mit press,</publisher><year>1990</year>    
+
+<meta ref_no="0776" class_no="kearns1990" bib_no="2274"></meta>
+<author>m. j. kearns.</author> <title> the computational complexity of machine learning.</title> <venue> acm distinguished dissertation series.</venue><address> cambridge, ma.,</address><publisher> the mit press,</publisher><year>1989</year>    
+
+<meta ref_no="0777" class_no="kearns1990" bib_no="2275"></meta>
+<author>kearns m.</author> <title> the computational complexity of machine learning.</title> <venue> phd thesis,</venue> <publisher> the mit press.</publisher><year> (1990).</year>    
+
+<meta ref_no="0778" class_no="kearns1990" bib_no="2276"></meta>
+<author>m.j. kearns.</author> <title> the computational complexity of machine learning.</title> <venue> phd thesis,</venue><address> cambridge, ma (1990).</address><publisher> mit press,</publisher><year>1990</year>    
+
+<meta ref_no="0779" class_no="kearns1990" bib_no="2277"></meta>
+<author>m. kearns.</author> <title> the computational complexity of machine learning.</title><institution> harvard university,</institution><venue> doctoral dissertation,</venue>  <year>1989</year>  <note> to be published by mit press.</note> 
+
+<meta ref_no="0780" class_no="kearns1990" bib_no="2278"></meta>
+<author>michael kearns.</author> <title> the computational complexity of machine learning.</title><institution> harvard university center for research in computing technology,</institution><venue> phd thesis,</venue>  <year>1989</year>   <month> may</month>
+
+<meta ref_no="0781" class_no="kearns1990" bib_no="2279"></meta>
+<author>michael j. kearns</author> <title> the computational complexity of machine learning,</title> <venue> phd thesis,</venue><address> boston, ma,</address><publisher> mit press,</publisher><year>1990</year>    
+
+<meta ref_no="0782" class_no="kearns1990" bib_no="2280"></meta>
+<author>kearns m. j.</author> <title> the computational complexity of machine learning,</title> <venue> phd thesis,</venue> <publisher> mit press,</publisher><year>1989</year>    
+
+<meta ref_no="0783" class_no="kearns1990b" bib_no="2281"></meta>
+<author>j. p. kearns, and j. e. payne.</author> <title> performance evaluation of protocols for distributed systems: an alternative to message counting.</title> <venue> in proceedings of the winter simulation conference,</venue>  <year>1990</year><pages> pages 441-445,</pages>   
+
+<meta ref_no="0784" class_no="kearns1990c" bib_no="2282"></meta>
+<author>m. kearns, and r. schapire.</author> <year> (1990)</year> <title> efficient distribution-free learning of probabilistic concepts.</title> <venue> proceedings of the 31st annual symposium on foundations of computer science (pp.</venue>  <year>1990</year><pages> 382-391).</pages> <note> to appear in jcss.</note> 
+
+<meta ref_no="0785" class_no="kearns1990c" bib_no="2283"></meta>
+<author>kearns m., & schapire r.</author> <title> efficient distribution-free learning of probabilistic concepts.</title> <venue> proceedings of the 31st annual symposium on the foundations of computer science (pp.</venue> <publisher> ieee computer society press.</publisher><year> (1990).</year><pages> 382-391).</pages>   
+
+<meta ref_no="0786" class_no="kearns1990c" bib_no="2284"></meta>
+<author>kearns m. j., & schapire r. e.</author> <title> efficient distribution-free learning of probabilistic concepts.</title> <venue> 31st annual symposium on foundations of computer science (pp.</venue>  <year> (1990).</year><pages> 382-391).</pages> <note> to appear, journal of computer and system sciences.</note> 
+
+<meta ref_no="0787" class_no="kearns1990c" bib_no="2285"></meta>
+<author>kearns m. j., and r. e. schapire.</author><volume> volume i,</volume><title> efficient distribution-free learning of probabilistic concepts.</title> <venue> in proceedings of the thirty-first annual symposium on foundations of computer science,</venue> <publisher> ieee.</publisher><year>1990</year><pages> pages 382-391.</pages>   
+
+<meta ref_no="0788" class_no="kearns1990c" bib_no="2286"></meta>
+<author>kearns m. j., and schapire r. e.</author> <title> efficient distribution-free learning of probabilistic concepts.</title> <venue> in proceedings focs-90.</venue>  <year> (1990).</year>    
+
+<meta ref_no="0789" class_no="kearns1990c" bib_no="2287"></meta>
+<author>m. j. kearns, and r. e. schapire.</author> <title> efficient distribution-free learning of probabilistic concepts.</title> <venue> in proc. of the 31st symposium on the foundations of comp. sci.,</venue><address> ca,</address><publisher> ieee computer society press, los alamitos,</publisher><year>1990</year><pages> pages 382-391.</pages>   
+
+<meta ref_no="0790" class_no="kearns1990c" bib_no="2288"></meta>
+<author>m. j. kearns, and r. e. schapire.</author> <title> efficient distribution-free learning of probabilistic concepts.</title> <venue> in 31st annual symposium on foundations of computer science,</venue>  <year>1990</year><pages> pages 382-391,</pages>   
+
+<meta ref_no="0791" class_no="kearns1990c" bib_no="2289"></meta>
+<author>m. j. kearns, and r. e. schapire.</author> <title> efficient distribution-free learning of probabilistic concepts.</title> <venue> in proc. of the 31st symposium on the foundations of comp. sci.,</venue><address> ca,</address><publisher> ieee computer society press, los alamitos,</publisher><year>1990</year><pages> pages 382-391.</pages>   
+
+<meta ref_no="0792" class_no="kearns1990c" bib_no="2290"></meta>
+<author>m. j. kearns, and r. e. schapire</author> <title> 'efficient distribution-free learning of probabilistic concepts,'</title> <venue> proceedings of the 31st annual ieee symposium on foundations of computer science (october 1990),</venue>  <year>1990</year><pages> 382-391.</pages>   
+
+<meta ref_no="0793" class_no="kearns1990c" bib_no="2291"></meta>
+<author>michael j. kearns, and robert e. schapire.</author> <title> efficient distribution-free learning of probabilistic concepts.</title> <venue> in 31st annual symposium on foundations of computer science,</venue>  <year>1990</year><pages> pages 382-391,</pages> <note> to appear, journal of computer and system sciences.</note><month> october</month>
+
+<meta ref_no="0794" class_no="kearns1990c" bib_no="2292"></meta>
+<author>m. j. kearns, and r. e. schapire.</author> <title> efficient distribution-free learning of probabilistic concepts.</title> <venue> in proc. of the 31st symposium on the foundations of comp. sci.,</venue><address> ca,</address><publisher> ieee computer society press, los alamitos,</publisher><year>1990</year><pages> pages 382-391.</pages>   
+
+<meta ref_no="0795" class_no="kearns1990c" bib_no="2293"></meta>
+<author>michael j. kearns, and robert e. schapire.</author> <title> efficient distribution-free learning of probabilistic concepts.</title> <venue> in 31st annual symposium on foundations of computer science,</venue>  <year>1990</year><pages> pages 382-391,</pages>   
+
+<meta ref_no="0796" class_no="kearns1990c" bib_no="2294"></meta>
+<author>michael j. kearns, and robert e. schapire.</author><volume> volume i,</volume><title> efficient distribution-free learning of probablistic concepts.</title> <venue> in proceedings of the thirty-first annual symposium on foundations of computer science,</venue> <publisher> ieee,</publisher><year>1990</year><pages> pages 382-391.</pages>   
+
+<meta ref_no="0797" class_no="kearns1990c" bib_no="2295"></meta>
+<author>m. j. kearns, and r. e. schapire.</author> <title> efficient distribution-free learning of probabilistic concepts.</title> <venue> in 31st annual symposium on foundations of computer science,</venue>  <year>1990</year><pages> pages 382-391,</pages> <note> to appear, journal of computer and system sciences.</note><month> october</month>
+
+<meta ref_no="0798" class_no="kearns1990c" bib_no="2296"></meta>
+<author>m. j. kearns, and r. e. schapire.</author> <title> efficient distribution-free learning of probabilistic concepts.</title> <venue> in proc. of the 31st symposium on the foundations of comp. sci.,</venue><address> ca,</address><publisher> ieee computer society press, los alamitos,</publisher><year>1990</year><pages> pages 382-391.</pages>   
+
+<meta ref_no="0799" class_no="kearns1990c" bib_no="2297"></meta>
+<author>m. j. kearns, and r. e. shapire.</author> <title> efficient distribution-free learning of probabilistic concepts.</title> <venue> in focs-90,</venue>  <year>1990</year>    
+
+<meta ref_no="0800" class_no="kearns1990c" bib_no="2298"></meta>
+<author>m. kearns, and r. schapire.</author> <title> efficient distribution-free learning of probabilistic concepts.</title> <venue> in ieee symposium on the foundations of computer science,</venue>  <year>1990</year>    
+
+<meta ref_no="0801" class_no="kearns1990c" bib_no="2299"></meta>
+<author>m. kearns, and r. shapire.</author> <title> efficient distribution-free learning of probabilistic concepts.</title> <venue> in focs-90,</venue>  <year>1990</year>    
+
+<meta ref_no="0802" class_no="kearns1990c" bib_no="2300"></meta>
+<author>michael j. kearns, and robert e. schapire.</author> <title> efficient distribution-free learning of probabilistic concepts.</title> <venue> in proceedings of the thirty-first annual symposium on founda--tions of computer science,</venue> <publisher> ieee,</publisher><year>1990</year><pages> pages 382-391.</pages>   
+
+<meta ref_no="0803" class_no="kearns1990c" bib_no="2301"></meta>
+<author>michael kearns, and robert e. shapire.</author> <title> efficient distribution-free learning of probabilistic concepts.</title> <venue> in proceedings of the 31st symposium on foundation of computer science,</venue>  <year>1990</year>   <month> october</month>
+
+<meta ref_no="0804" class_no="kearns1990c" bib_no="2302"></meta>
+<author>michael kearns, and robert schapire.</author> <title> efficient distribution-free learning of probabilistic concepts.</title> <venue> proceedings of ieee symposium on foundations of computer science,</venue>  <year>1990</year>   <month> october,</month>
+
+<meta ref_no="0805" class_no="kearns1990c" bib_no="2303"></meta>
+<author>m. j. kearns, and r. e. schapire</author> <title> 'efficient distribution-free learning of probabilistic concepts,'</title> <venue> proceedings of 31st annual ieee symposium on foundations of computer science (october 1990),</venue>  <year>1990</year><pages> 382-391.</pages>   
+
+<meta ref_no="0806" class_no="kearns1990c" bib_no="2304"></meta>
+<author>m. j. kearns, and r. e. schapire</author> <title> 'efficient distribution-free learning of probabilistic concepts,'</title> <venue> proceedings of the 31st annual ieee symposium on foundations of computer science (october 1990),</venue>  <year>1990</year><pages> 382-391.</pages>   
+
+<meta ref_no="0807" class_no="kearns1990c" bib_no="2305"></meta>
+<author>michael j. kearns, and robert e. schapire.</author> <title> efficient distribution-free learning of probabilistic concepts.</title> <venue> in 31st annual symposium on foundations of computer science,</venue>  <year>1990</year><pages> pages 382-391,</pages>   
+
+<meta ref_no="0911" class_no="kearns1994a" bib_no="2306"></meta>
+<author>m. kearns, y.mansour, d. ron, r. rubinfeld, r.e. schapire, and l. sellie.</author> <title> on the learnabil-ity of discrete distributions.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue>  <year>1994</year>    
+
+<meta ref_no="0912" class_no="kearns1994a" bib_no="2307"></meta>
+<author>m. kearns, y.mansour, d. ron, r. rubinfeld, r.e. schapire, and l. sellie.</author> <title> on the learnabil-ity of discrete distributions.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue>  <year>1994</year>    
+
+<meta ref_no="0913" class_no="kearns1994a" bib_no="2308"></meta>
+<author>kearns m. j., mansour y., ron d., rubinfeld r., schapire r. e., and sellie l.</author> <title> on the learnability of discrete distributions.</title> <venue> in the 25th annual acm symposium on theory of computing (1994),</venue>  <year>1994</year><pages> pp. 273-282.</pages>   
+
+<meta ref_no="0914" class_no="kearns1994a" bib_no="2309"></meta>
+<author>m. kearns, y. mansour, d. ron, r. rubinfeld, r. schapire, l. sellie</author> <title> on the learnability of discrete distributions,</title> <venue> the 25th annual acm symposium on theory of computing,</venue>  <year>1994</year>    
+
+<meta ref_no="0915" class_no="kearns1994a" bib_no="2310"></meta>
+<author>michael kearns, yishay mansour, dana ron, ronitt rubinfeld, robert e. schapire, and linda sellie.</author> <title> on the learnability of discrete distributions (extended abstract).</title> <venue> proc. of the 26th ann. acm symp. on theory of computing,</venue>  <year>1994</year><pages> pages 273-282,</pages>   
+
+<meta ref_no="0916" class_no="kearns1994a" bib_no="2311"></meta>
+<author>michael kearns, yishay mansour, dana ron, ronitt rubinfeld, robert e. schapire, and linda sellie.</author> <title> on the learnability of discrete distributions (extended abstract).</title> <venue> proc. of the 26th ann. acm symp. on theory of computing,</venue>  <year>1994</year><pages> pages 273-282,</pages>  <month>10</month>
+
+<meta ref_no="0917" class_no="kearns1994a" bib_no="2312"></meta>
+<author>m. j. kearns, y. mansour, d. ron, r. rubinfeld, r. e. schapire, and l. sellie.</author> <title> on the learnability of discrete distributions.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue>  <year>1994</year><pages> pages 273-282,</pages>   
+
+<meta ref_no="0918" class_no="kearns1994a" bib_no="2313"></meta>
+<author>m. kearns, y. mansour, d. ron, r. rubinfeld, r. schapire, and l. sellie.</author> <title> on the learnability of discrete distributions,</title> <venue> stoc,</venue>  <year>1994</year>    
+
+<meta ref_no="0919" class_no="kearns1994a" bib_no="2314"></meta>
+<author>m. kearns, y. mansour, d. ron, r. rubinfeld, r. schapire, and l. sellie.</author> <title> on the learnability of discrete distributions,</title> <venue> stoc,</venue>  <year>1994</year>    
+
+<meta ref_no="0920" class_no="kearns1994a" bib_no="2315"></meta>
+<author>m. j. kearns, y. mansour, d. ron, r. rubinfeld, r. e. schapire, and l. sellie.</author> <title> on the learnability of discrete distributions.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue>  <year>1994</year><pages> pages 273-282,</pages>   
+
+<meta ref_no="0921" class_no="kearns1994a" bib_no="2316"></meta>
+<author>m. kearns, y. mansour, d. ron, r. rubinfeld, r. e. schapire, and l. sellie.</author> <title> on the learnability of discrete distributions.</title> <venue> stoc 94,</venue>  <year>1994</year><pages> 273-282,</pages> <note> available electronically as http://www.cs.huji.ac.il/labs/learning/papers/dists-stoc94.ps.gz</note> 
+
+<meta ref_no="0922" class_no="kearns1994a" bib_no="2317"></meta>
+<author>m. kearns, y. mansour, d. ron, r. rubinfeld, r. e. schapire, and l. sellie.</author> <title> on the learnability of discrete distributions.</title> <venue> stoc 94,</venue>  <year>1994</year><pages> 273-282,</pages>   
+
+<meta ref_no="0923" class_no="kearns1994a" bib_no="2318"></meta>
+<author>m. kearns, y. mansour, d. ron, r. rubinfeld, r. schapire, and l. sellie.</author> <title> on the learnability of discrete distributions.</title> <venue> in proceedings of the 26th acm symposium on theory of computing,</venue>  <year>1994</year><pages> pages 273-282,</pages>   
+
+<meta ref_no="0924" class_no="kearns1994a" bib_no="2319"></meta>
+<author>m. kearns, y. mansour, d. ron, r. rubinfeld, r. e. schapire, and l. sellie.</author> <title> on the learnability of discrete distributions.</title> <venue> in the 25th annual acm symp. on theory of computing,</venue>  <year>1994</year>    
+
+<meta ref_no="0925" class_no="kearns1994a" bib_no="2320"></meta>
+<author>m. kearns, y.mansour, d. ron, r. rubinfeld, r.e. schapire, and l. sellie.</author> <title> on the learnability of discrete distributions.</title> <venue> in the 25th annual acm symp. on theory of computing,</venue>  <year>1994</year>    
+
+<meta ref_no="0926" class_no="kearns1994a" bib_no="2321"></meta>
+<author>m. kearns, y.mansour, d. ron, r. rubinfeld, r.e. schapire, and l. sellie.</author> <title> on the learnability of discrete distributions.</title> <venue> in the 25th annual acm symposium on theory of computing (to appear),</venue>  <year>1994</year>    
+
+<meta ref_no="0927" class_no="kearns1994a" bib_no="2322"></meta>
+<author>m. j. kearns, y. mansour, d. ron, r. rubinfeld, r. e. schapire, and l. sellie.</author> <title> on the learnability of discrete distributions.</title> <venue> in the 25th annual acm symposium on theory of computing,</venue>  <year>1994</year><pages> pages 273-282,</pages>   
+
+<meta ref_no="0928" class_no="kearns1994a" bib_no="2323"></meta>
+<author>m. kearns, y. mansour, d. ron, r. ru-binfeld, r. schapire, and l. sellie.</author> <title> on the learnabil-ity of discrete distributions.</title> <venue> in stoc, p.</venue>  <year>1994</year><pages> 273-282,</pages>   
+
+<meta ref_no="0929" class_no="kearns1994a" bib_no="2324"></meta>
+<author>m. kearns, y. mansour, d. ron, r. rubinfeld, r. e. schapire, and l. sellie.</author> <title> on the learnability of discrete distributions.</title> <venue> in acm symposium on the theory of computing,</venue>  <year>1994</year><pages> pages 273-282,</pages>   
+
+<meta ref_no="0973" class_no="kearns1994c" bib_no="2325"></meta>
+<author>m.j. kearns, and r.e. schapire.</author> <title> efficient distribution-free probabilistic concepts.</title><institution> j. comput. syst. sci., 48(3):464,</institution><venue> journal of computer and system sciences,</venue>  <year>1994</year>    
+
+<meta ref_no="0974" class_no="kearns1994c" bib_no="2326"></meta>
+<author>m.j. kearns, and r.e. schapire.</author><volume> 48(3)</volume><title> efficient distribution-free learning of probabilistic concepts.</title> <venue> journal of computer and system sciences,</venue>  <year>1994</year><pages> 464-497,</pages>   
+
+<meta ref_no="0975" class_no="kearns1994c" bib_no="2327"></meta>
+<author>kearns m. j., and schapire r. e.</author> <title> efficient distribution-free learning of probabilistic concepts.</title> <venue> jcss 48(3):</venue>  <year> (1994).</year><pages> 464-497.</pages>   
+
+<meta ref_no="0976" class_no="kearns1994c" bib_no="2328"></meta>
+<author>kearns m., and schapire r.</author> <title> efficient distribution-free learning of probabilistic concepts.</title> <venue> journal of computer and system sciences 48</venue>  <year>1994</year><pages> 464-497.</pages>   
+
+<meta ref_no="0977" class_no="kearns1994c" bib_no="2329"></meta>
+<author>m. j. kearns, and r. e. schapire.</author><volume> 48(3):464497,</volume><title> efficient distribution-free learning of probabilistic concepts.</title> <venue> journal of computer and system sciences,</venue>  <year>1994</year>    
+
+<meta ref_no="0978" class_no="kearns1994c" bib_no="2330"></meta>
+<author>m. kearns, and r. schapire.</author><volume> 48(3)</volume><title> efficient distribution-free learning of probabilistic concepts.</title> <venue> journal of computer and system sciences,</venue>  <year>1994</year><pages> 464-497,</pages>   
+
+<meta ref_no="0979" class_no="kearns1994c" bib_no="2331"></meta>
+<author>m. j. kearns, and r. e. schapire.</author><volume> 48(3)</volume><title> efficient distribution-free learning of probabilistic concepts.</title> <venue> journal of computer and system sciences,</venue>  <year>1994</year><pages> 464-497,</pages>   
+
+<meta ref_no="0980" class_no="kearns1990c" bib_no="2332"></meta>
+<author>m. kearns, and r.e. schapire.</author><volume> 48(3)</volume><title> efficient distribution-free learning of probabilistic concepts.</title> <venue> an extended abstract appeared in the proceedings of the 30th annual symposium on the foundations of computer science.</venue>  <year>1994</year><pages>15</pages>   
+
+<meta ref_no="0981" class_no="kearns1994c" bib_no="2333"></meta>
+<author>m. kearns, and r. schapire.</author><volume> 48(3)</volume><title> efficient distribution-free learning of probabilistic concepts.</title> <venue> journal of computer and system sciences,</venue>  <year>1994</year><pages> 464-497,</pages>   
+
+<meta ref_no="0982" class_no="kearns1994c" bib_no="2334"></meta>
+<author>m. j. kearns, and r. e. schapire.</author><volume>48</volume><title> efficient distribution-free learning of probabilistic concepts.</title> <venue> journal of computer and system sciences,</venue>  <year>1994</year><pages> 464-497,</pages>   
+
+<meta ref_no="0983" class_no="kearns1994c" bib_no="2335"></meta>
+<author>m. j. kearns, and r. e. schapire.</author><volume> 48(3)</volume><title> efficient distribution-free learning of probabilistic concepts.</title> <venue> journal of computer and system sciences,</venue>  <year>1994</year><pages> 464-497,</pages>   
+
+<meta ref_no="0984" class_no="kearns1994c" bib_no="2336"></meta>
+<author>m. kearns, and r. schapire.</author><volume> 48(3)</volume><title> efficient distribution-free learning of probabilistic concepts.</title> <venue> j. of comput. syst. sci.,</venue>  <year>1994</year><pages> 464-497,</pages>   
+
+<meta ref_no="0985" class_no="kearns1994c" bib_no="2337"></meta>
+<author>michael j. kearns, and robert e. schapire.</author><volume> 48(3)</volume><title> efficient distribution-free learning of probabilistic concepts.</title> <venue> journal of computer and system sciences,</venue>  <year>1994</year><pages> 464-497,</pages>   
+
+<meta ref_no="1024" class_no="kearns1995b" bib_no="2338"></meta>
+<author>kearns m., mansour y., ng a., and ron d.</author> <title> an experimental and theoretical comparison of model selection methods.</title> <venue> in proceedings colt-95.</venue>  <year>1995</year>    
+
+<meta ref_no="1025" class_no="kearns1995b" bib_no="2339"></meta>
+<author>m. j. kearns, y. mansour, a. ng, and d. ron.</author> <title> an experimental and theoretical comparison of model selection methods.</title> <venue> in proceedings of the eighth annual acm workshop on computational learning theory,</venue>  <year>1995</year><pages> pages 21-30,</pages> <note> to appear in machine learning, colt95 special issue.</note> 
+
+<meta ref_no="1026" class_no="kearns1995b" bib_no="2340"></meta>
+<author>michael kearns, yishay mansour, andrew y. ng, and dana ron.</author> <title> an experimental and theoretical comparison of model selection methods.</title> <venue> in proceedings of the eighth annual conference on computational learning theory,</venue>  <year>1995</year>   <month>32</month>
+
+<meta ref_no="1027" class_no="kearns1995b" bib_no="2341"></meta>
+<author>m. kearns, y. mansour, a. y. ng, and d. ron.</author> <title> an experimental and theoretical comparison of model selection methods.</title> <venue> in proceedings of the eighth annual conference on computational learning theory,</venue>  <year>1995</year><pages> pages 21-30,</pages>  <month> july</month>
+
+<meta ref_no="1028" class_no="kearns1995b" bib_no="2342"></meta>
+<author>m. kearns, y. mansour, a. ng, and d. ron.</author> <title> an experimental and theoretical comparison of model selection methods.</title> <venue> in proceedings of the eigth annual acm conference on computational learning theory,</venue>  <year>1995</year>    
+
+<meta ref_no="1029" class_no="kearns1995b" bib_no="2343"></meta>
+<author>m. kearns, y. mansour, a. ng, and d. ron.</author> <title> an experimental and theoretical comparison of model selection methods.</title> <venue> in colt-95,</venue>  <year>1995</year>    
+
+<meta ref_no="1030" class_no="kearns1995b" bib_no="2344"></meta>
+<author>m. kearns, y. mansour, a. y. ng, and d. ron</author> <title> 'an experimental and theoretical comparison of model selection methods',</title> <venue> in proceedings of the seventh workshop on computational learning theory',</venue> <publisher> acm press,</publisher><year>1995</year>    
+
+<meta ref_no="1031" class_no="kearns1995b" bib_no="2345"></meta>
+<author>m. j. kearns, y. mansour, a. ng, and d. ron.</author> <title> an experimental and theoretical comparison of model selection methods.</title> <venue> in proceedings of the eighth annual acm workshop on computational learning theory,</venue>  <year>1995</year><pages> pages 21-30,</pages> <note> to appear in machine learning, colt95 special issue.</note> 
+
+<meta ref_no="1032" class_no="kearns1995b" bib_no="2346"></meta>
+<author>m. kearns, y. mansour, a. y. ng, and d. ron.</author> <title> an experimental and theoretical comparison of model selection methods.</title> <venue> in proc. of the workshop on computational learning theory,</venue>  <year>1995</year>    
+
+<meta ref_no="1033" class_no="kearns1995b" bib_no="2347"></meta>
+<author>kearns m. j., mansour y., ng a. y., and ron d.</author> <title> an experimental and theoretical comparison of model selection methods.</title> <venue> in proceedings of the eighth acm conference on computational learning theory,</venue> <publisher> acm press.</publisher><year> (1995).</year><pages> pages 21-30.</pages>   
+
+<meta ref_no="1049" class_no="kearns1997a" bib_no="2348"></meta>
+<author>kearns m., mansour y., ng a. y., & ron d.</author><volume> 27,</volume><title> an experimental and theoretical comparsion of model selection methods.</title> <venue> machine learning,</venue>  <year> (1997).</year><pages>750</pages>   
+
+<meta ref_no="1050" class_no="kearns1997a" bib_no="2349"></meta>
+<author>kearns m., mansour y., ng a., and ron d.</author><volume>27</volume><title> an experimental and theoretical comparison of model selection methods.</title> <venue> machine learning,</venue>  <year> (1997).</year><pages> 7-50.</pages>   
+
+<meta ref_no="1051" class_no="kearns1997a" bib_no="2350"></meta>
+<author>kearns m. j., mansour y., ng a. y., and ron d.</author><volume> 27(1)</volume><title> an experimental and theoretical comparison of model selection methods.</title> <venue> machine learning journal,</venue>  <year> (1997).</year><pages> 7-50.</pages>   
+
+<meta ref_no="1052" class_no="kearns1997a" bib_no="2351"></meta>
+<author>m. kearns, y. mansour, a. ng, and d. ron.</author> <title> an experimental and theoretical comparison of model selection methods.</title> <venue> in machine learning 27:</venue>  <year>1997</year><pages> 7-50.</pages>   
+
+<meta ref_no="1053" class_no="kearns1997a" bib_no="2352"></meta>
+<author>m. kearns, y. mansour, a. ng, d. ron.</author><volume> 27(1)</volume><title> an experimental and theoretical comparison of model selection methods.</title> <venue> machine learning,</venue>  <year>1997</year><pages> 7-50,</pages>   
+
+<meta ref_no="1054" class_no="kearns1997aC" bib_no="2353"></meta>
+<author>kearns m. j., and ron d.</author> <title> algorithmic stability and sanity-check bounds for leave-one-out cross-validation.</title> <venue> in proceedings of the tenth annual conference on computational learning theory.</venue> <publisher> morgan kaufmann.</publisher><year> (1997).</year>    
+
+<meta ref_no="1059" class_no="kearns1998" bib_no="2354"></meta>
+<author>kearns m., and ron d.</author> <title> testing problems with sub-learning sample complexity.</title> <venue> to appear in proceedings of the eleventh annual acm conference on computational learning theory.</venue>  <year>1998</year>    
+
+<meta ref_no="1060" class_no="kearns1998C" bib_no="2355"></meta>
+<author>m. kearns, and d. ron.</author> <title> testing problems with sub-learning sample complexity.</title> <venue> manuscript,</venue>  <year>1998</year>    
+
+<meta ref_no="1061" class_no="kearns1999a" bib_no="2356"></meta>
+<author>michael kearns, and satinder singh.</author> <title> finite-sample convergence rates for q-learning and indirect algorithms.</title> <venue> in neural information processing systems 12.</venue> <publisher> mit press, (to appear),</publisher><year>1999</year>    
+
+<meta ref_no="1062" class_no="kearns1999b" bib_no="2357"></meta>
+<author>m. kearns, y. mansour, and a. ng.</author> <title> a sparse sampling algorithm for near-optimal planning in large markov decision processes. 1999.</title> <venue> unpublished manuscript.</venue>  <year>1999</year>    
+
+<meta ref_no="1085" class_no="rivest1987" bib_no="2358"></meta>
+<author>rivest r., & schapire r.</author> <title> a new approach to unsupervised learning in deterministic environments.</title> <venue> in proceedings of the fourth international workshop on machine learning,</venue><address> irvine, ca.</address> <year> (1987).</year><pages> (pp. 364-375),</pages>   
+
+<meta ref_no="1086" class_no="rivest1987" bib_no="2359"></meta>
+<author>rivest r. l., & schapire r. e.</author> <title> a new approach to unsupervised learning in deterministic environments. in langley,</title> <venue> proceedings of the fourth international workshop on machine learning.</venue>  <year> (1987b).</year> <editor> p. (ed.),</editor>  
+
+<meta ref_no="1087" class_no="rivest1987" bib_no="2360"></meta>
+<author>rivest r. l., & schapire r. e.</author> <year> (1987) </year> <title>a new approach to unsupervised learning in deterministic environments.</title> <venue> proceedings of the fourth international workshop on machine learning,</venue><address> irvine, ca.</address><publisher> morgan kaufmann,</publisher><year>1987</year><pages> 364-375.</pages>   
+
+<meta ref_no="1088" class_no="rivest1987" bib_no="2361"></meta>
+<author>rivest r.l., & schapire r.e.</author> <title> a new approach to unsupervised learning in deterministic environments.</title> <venue> proceedings of the fourth international workshop on machine learning, pat langley,</venue> <publisher> ed.,</publisher><year> (1987).</year><pages> pp. 364-375.</pages>   
+
+<meta ref_no="1089" class_no="rivest1987" bib_no="2362"></meta>
+<author>r. l. rivest, and r. e. schapire.</author> <title> a new approach to unsupervised learning in deterministic environments. in pat langley, editor,</title> <venue> proceedings of the fourth international workshop on machine learning,</venue><address> irvine, ca,</address> <year>1987</year><pages> pages 364-375,</pages>  <month> june</month>
+
+<meta ref_no="1090" class_no="rivest1987" bib_no="2363"></meta>
+<author>r. l. rivest, and r. e. schapire.</author> <title> a new approach to unsupervised learning in deterministic environments.</title> <venue> proceedings of the fourth international workshop on machine learning,</venue><address> irvine, california,</address> <year>1987</year><pages> pages 364375,</pages><editor> in p. langley, editor,</editor> <month> june</month>
+
+<meta ref_no="1091" class_no="rivest1987" bib_no="2364"></meta>
+<author>rivest r. l., and schapire r. e.</author> <title> a new approach to unsupervised learning in deterministic environments. </title> <venue>in langley, proceedings of the fourth international workshop on machine learning,</venue><address> irvine, ca.</address> <year> (1987).</year><pages> pages 364-375.</pages><editor> p., editor,</editor>  
+
+<meta ref_no="1125" class_no="rivest1993" bib_no="2365"></meta>
+<author>r. rivest, and r. schapire.</author><volume> 103,</volume><title> inference of finite automata using homing sequences.</title> <venue> information and computation,</venue>  <year> (1993).</year><pages> 299-347.</pages>   
+
+<meta ref_no="1126" class_no="rivest1993" bib_no="2366"></meta>
+<author>rivest r., & schapire r.</author><volume> 299 - 347.</volume><title> 'inference of finite automata using homing sequences',</title> <venue> information and computation 103(2),</venue>  <year> (1993),</year>    
+
+<meta ref_no="1127" class_no="rivest1993" bib_no="2367"></meta>
+<author>rivest r. l., & schapire r. e.</author><volume> 103(2),</volume><title> inference of finite automata using homing sequences.</title> <venue> information and computation,</venue>  <year> (1993).</year><pages> 299-347.</pages>   
+
+<meta ref_no="1128" class_no="rivest1993" bib_no="2368"></meta>
+<author>rivest r. l., & schapire r. e.</author> <title> inference of finite automata using homing sequences.</title> <venue> information and computation,</venue>  <year> (1993).</year><pages> 103 , 299-347.</pages>   
+
+<meta ref_no="1129" class_no="rivest1993" bib_no="2369"></meta>
+<author>rivest r. l., and schapire r. e.</author> <title> inference of finite automata using homing sequences.</title> <venue> information and computation 103(2)</venue>  <year>1993</year><pages> 299-347.</pages>   
+
+<meta ref_no="1130" class_no="rivest1993" bib_no="2370"></meta>
+<author>rivest r.l., and r.e. schapire</author><volume> 103:2, 1993</volume><title> inference of finite automata using homing sequences.</title> <venue> information and computation,</venue>  <year>1993</year><pages> pp. 299-347.</pages>   
+
+<meta ref_no="1131" class_no="rivest1993" bib_no="2371"></meta>
+<author>r. rivest, and r. schapire.</author><volume>103</volume><title> inference of finite automata using homing sequences.</title> <venue> information and computation,</venue>  <year>1993</year><pages> 299-347,</pages>   
+
+<meta ref_no="1132" class_no="rivest1993" bib_no="2372"></meta>
+<author>r. rivest, and r. schapire.</author> <title> inference of finite automata using homing sequences.</title> <venue> information and computation,</venue>  <year>1993</year>  <note> information and computation (to appear),</note> 
+
+<meta ref_no="1133" class_no="rivest1993" bib_no="2373"></meta>
+<author>ronald. l. rivest, and robert. e. schapire.</author><volume> 103(2)</volume><title> inference of finite automata using homing sequences.</title> <venue> information and computation,</venue>  <year>1993</year><pages> 299-347,</pages>   
+
+<meta ref_no="1134" class_no="rivest1993" bib_no="2374"></meta>
+<author>r. rivest, and r. schapire.</author><volume>103</volume><title> inference of finite automata using homing sequences.</title> <venue> information and computation,</venue>  <year>1993</year><pages> 299-347,</pages>   
+
+<meta ref_no="1135" class_no="rivest1993" bib_no="2375"></meta>
+<author>r.e. schapire, r. l. rivest.</author> <title> inference of finite automata using homing sequences. in r.l.</title> <venue> machine learning: from theory to applications,</venue> <publisher> springer,</publisher><year>1993</year><pages> pages 51-73.</pages><editor> rivest s. j. hanson, w. remmele, editor,</editor>  
+
+<meta ref_no="1136" class_no="rivest1993" bib_no="2376"></meta>
+<author>r. rivest, and r. schapire.</author><volume> 103(2)</volume><title> inference of finite automata using homing sequences.</title> <venue> information and computation,</venue>  <year>1993</year><pages> 299-347,</pages>   
+
+<meta ref_no="1137" class_no="rivest1993" bib_no="2377"></meta>
+<author>r.l. rivest, and r.e. schapire</author> <title> inference of finite automata using homing sequences,</title> <venue> in formation and computation 103 #2 (1993),</venue>  <year>1993</year><pages> 299-347.</pages>   
+
+<meta ref_no="1138" class_no="rivest1993" bib_no="2378"></meta>
+<author>ronald. l. rivest, and robert. e. schapire.</author><volume> 103(2)</volume><title> inference of finite automata using homing sequences.</title> <venue> information and computation,</venue>  <year>1993</year><pages> 299-347,</pages>   
+
+<meta ref_no="1139" class_no="rivest1993" bib_no="2379"></meta>
+<author>r. l. rivest, and r. e. schapire.</author><volume> 103(2)</volume><title> inference of finite automata using homing sequences.</title> <venue> information and computation,</venue>  <year>1993</year><pages> 299-347,</pages>   
+
+<meta ref_no="1140" class_no="rivest1993" bib_no="2380"></meta>
+<author>r. l. rivest, and r. e. schapire.</author><volume> 103(2)</volume><title> inference of finite automata using homing sequences.</title> <venue> information and computation,</venue>  <year>1993</year><pages> 299-347,</pages>   
+
+<meta ref_no="1141" class_no="rivest1993" bib_no="2381"></meta>
+<author>r. rivest, and r. schapire.</author><volume> 103(2)</volume><title> inference of finite automata using homing sequences.</title> <venue> information and computation,</venue>  <year>1993</year><pages> 299-347,</pages>   
+
+<meta ref_no="1142" class_no="rivest1993" bib_no="2382"></meta>
+<author>ronald l. rivest, and robert e. schapire.</author><volume> 103(2)</volume><title> inference of finite automata using homing sequences.</title> <venue> information and computation,</venue>  <year>1993</year><pages> 299-347,</pages>  <month> april</month>
+
+<meta ref_no="1143" class_no="rivest1993" bib_no="2383"></meta>
+<author>ronald l. rivest, and robert e. schapire.</author><volume> 103(2)</volume><title> inference of finite automata using homing sequences.</title> <venue> information and computation,</venue>  <year>1993</year><pages> 299-347,</pages>  <month>16</month>
+
+<meta ref_no="1144" class_no="rivest1993" bib_no="2384"></meta>
+<author>r.l. rivest, and r.e. schapire.</author> <title> inference of finite automata using homing sequences.</title> <venue> information and computation,</venue>  <year>1993</year>    
+
+<meta ref_no="1145" class_no="rivest1993" bib_no="2385"></meta>
+<author>r. l. rivest, and r. e. schapire.</author><volume> 103(2)</volume><title> inference of finite automata using homing sequences.</title> <venue> information and computation,</venue>  <year>1993</year><pages> 299-347,</pages>  <month> apr.</month>
+
+<meta ref_no="1146" class_no="rivest1993" bib_no="2386"></meta>
+<author>r. rivest, and r. schapire.</author><volume> 103(2)</volume><title> inference of finite automata using homing sequences.</title> <venue> information and computation,</venue>  <year>1993</year><pages> 299-347,</pages>  <month>12</month>
+
+<meta ref_no="1147" class_no="rivest1993" bib_no="2387"></meta>
+<author>ronald l. rivest, and robert e. schapire.</author><volume> 103(2)</volume><title> inference of finite automata using homing sequences.</title> <venue> information and computation,</venue>  <year>1993</year><pages> 299-347,</pages>  <month> april</month>
+
+<meta ref_no="1148" class_no="rivest1993" bib_no="2388"></meta>
+<author>ronald l. rivest, and robert e. schapire.</author><volume> 103(2)</volume><title> inference of finite automata using homing sequences.</title> <venue> information and computation,</venue>  <year>1993</year><pages> 299-347,</pages>  <month> april</month>
+
+<meta ref_no="1149" class_no="rivest1993" bib_no="2389"></meta>
+<author>rivest r.l., and schapire r.e.</author><volume> 103(2)</volume><title> inference of finite automata using homing sequences.</title> <venue> information and computation,</venue>  <year>1997</year><pages> 299-347,</pages>  <month> april</month>
+
+<meta ref_no="1150" class_no="rivest1993" bib_no="2390"></meta>
+<author>r. l. rivest, and r. e. schapire.</author><volume>103</volume><title> inference of finite automata using homing sequences.</title> <venue> information and computation,</venue>  <year>1993</year><pages> 299-347,</pages>   
+
+<meta ref_no="1151" class_no="rivest1993" bib_no="2391"></meta>
+<author>ronald l. rivest, and robert e. schapire.</author><volume> 103(2)</volume><title> inference of finite automata using homing sequences.</title> <venue> information and computation,</venue>  <year>1993</year><pages> 299-347,</pages>  <month> april</month>
+
+<meta ref_no="1152" class_no="rivest1993" bib_no="2392"></meta>
+<author>ronald l. rivest, and robert e. schapire.</author><volume> 103(2)</volume><title> inference of finite automata using homing sequences.</title> <venue> information and computation,</venue>  <year>1993</year><pages> 299-347,</pages> <note> 120 bibliography</note><month> april</month>
+
+<meta ref_no="1153" class_no="rivest1993" bib_no="2393"></meta>
+<author>r.e. schapire, r. l. rivest.</author> <title> inference of finite automata using homing sequences. in r.l.</title> <venue> machine learning: from theory to applications,</venue> <publisher> springer,</publisher><year>1993</year><pages> pages 51-73.</pages><editor> rivest s. j. hanson, w. remmele, editor,</editor>  
+
+<meta ref_no="1154" class_no="rivest1993" bib_no="2394"></meta>
+<author>ronald l. rivest, and robert e. schapire.</author><volume> 103(2)</volume><title> inference of finite automata using homing sequences.</title> <venue> information and computation,</venue>  <year>1993</year><pages> 299-347,</pages>  <month> april</month>
+
+<meta ref_no="1155" class_no="rivest1993" bib_no="2395"></meta>
+<author>ronald l. rivest, and robert e. schapire.</author><volume> 103(2)</volume><title> inference of finite automata using homing sequences.</title> <venue> information and computation,</venue>  <year>1993</year><pages> 299-347,</pages>   
+
+<meta ref_no="1156" class_no="rivest1993" bib_no="2396"></meta>
+<author>r. l. rivest, and r. e. schapire.</author><volume> 103(2)</volume><title> inference of finite automata using homing sequences.</title> <venue> information and computation,</venue>  <year>1993</year><pages> 299-347,</pages>   
+
+<meta ref_no="1157" class_no="rivest1993" bib_no="2397"></meta>
+<author>r. l. rivest, and r. e. schapire.</author> <title> inference of finite automata using homing sequences. </title> <venue> information and computation, information and computation,</venue><address> 103:299347,</address> <year>1993</year>    
+
+<meta ref_no="1158" class_no="rivest1993" bib_no="2398"></meta>
+<author>r. rivest, and r. schapire.</author><volume> 103(2)</volume><title> inference of finite automata using homing sequences.</title> <venue> information and compuation,</venue>  <year>1993</year><pages> page 9</pages>   
+
+<meta ref_no="1159" class_no="rivest1993" bib_no="2399"></meta>
+<author>ronald l. rivest, and robert e. schapire.</author><volume> 103(2)</volume><title> inference of finite automata using homing sequences.</title> <venue> information and computation,</venue>  <year>1993</year><pages> 299-347,</pages>  <month> april</month>
+
+<meta ref_no="1160" class_no="rivest1993" bib_no="2400"></meta>
+<author>rivest r., and schapire r.</author> <title> inference of finite automata using homing sequences.</title> <venue> information and computation 103</venue>  <year>1993</year><pages> 299-347.</pages>   
+
+<meta ref_no="1161" class_no="rivest1993" bib_no="2401"></meta>
+<author>rivest r. l., and schapire r. e.</author><volume> 103(2)</volume><title> inference of finite automata using homing sequences.</title> <venue> information and computation,</venue>  <year> (1993).</year><pages> 299-347.</pages>   
+
+<meta ref_no="1227" class_no="schapire1990C1" bib_no="2402"></meta>
+<author>robert e. schapire.</author><volume> 5(2)</volume><title> combining regression estimates 29</title> <venue> machine learning,</venue>  <year>1990</year><pages> 197-227,</pages>  <month> june</month>
+
+<meta ref_no="1228" class_no="schapire1990C2" bib_no="2403"></meta>
+<author>r. e. schapire.</author> <title> pattern languages are not learnable.</title> <venue> in proceedings of colt '90,</venue> <publisher> morgan kaufmann,</publisher><year>1990</year><pages> pages 122-129.</pages>   
+
+<meta ref_no="1229" class_no="schapire1990e" bib_no="2404"></meta>
+<author>robert e. schapire</author> <title> 'the emerging theory of average case complexity',</title> <venue> tech. report mit/lcs/tm-431,</venue>  <year>1990</year>   <month> june</month>
+
+<meta ref_no="1230" class_no="schapire1991" bib_no="2405"></meta>
+<author>r. e. schapire.</author> <title> the design and analysis of efficient learning algorithms.</title> <venue> phd thesis,</venue><address> cambridge, ma,</address><publisher> mit press,</publisher><year>1992</year>    
+
+<meta ref_no="1231" class_no="schapire1991" bib_no="2406"></meta>
+<author>schapire r.</author> <title> the design and analysis of efficient learning algorithms.</title> <venue> phd thesis,</venue> <publisher> mit press,</publisher><year>1991</year><pages> '92.</pages>   
+
+<meta ref_no="1232" class_no="schapire1991" bib_no="2407"></meta>
+<author>r. e. schapire.</author> <title> the design and analysis of efficient learning algorithms.</title> <venue> phd thesis,</venue> <publisher> mit press. 38 dana ron and ronitt rubinfeld</publisher><year> (1991).</year>    
+
+<meta ref_no="1233" class_no="schapire1991" bib_no="2408"></meta>
+<author>r. e. schapire.</author> <title> the design and analysis of efficient learning algorithms. </title> <venue>acm distinguished dissertation awards series. phd thesis,</venue><address> cambridge, ma.,</address><publisher> the mit press,</publisher><year>1991</year>    
+
+<meta ref_no="1234" class_no="schapire1991" bib_no="2409"></meta>
+<author>robert e. schapire.</author> <title> the design and analysis of ef ficient learning algorithms.</title> <venue> phd thesis,</venue><address> cambridge, ma,</address><publisher> mit press,</publisher><year>1992</year>    
+
+<meta ref_no="1235" class_no="schapire1991" bib_no="2410"></meta>
+<author>schapire r.</author> <title> the design and analysis of efficient learning algorithms.</title> <venue> phd thesis,</venue> <publisher> mit press,</publisher><year>1992</year>    
+
+<meta ref_no="1236" class_no="schapire1991" bib_no="2411"></meta>
+<author>r. schapire.</author> <title> the design and analysis of efficient learning algorithms.</title> <venue> phd thesis,</venue> <publisher> mit press,</publisher><year>1992</year>    
+
+<meta ref_no="1237" class_no="schapire1991" bib_no="2412"></meta>
+<author>robert e. schapire.</author> <title> the design and analysis of efficient learning algorithms.</title> <venue> phd thesis,</venue><address> cambridge, ma,</address><publisher> mit press,</publisher><year>1992</year>  <note> 124 bibliography</note> 
+
+<meta ref_no="1238" class_no="schapire1991" bib_no="2413"></meta>
+<author>r. e. schapire.</author> <title> the design and analysis of efficient learning algorithms.</title> <venue> phd thesis,</venue><address> cambridge, ma,</address><publisher> mit press,</publisher><year>1992</year>    
+
+<meta ref_no="1239" class_no="schapire1991" bib_no="2414"></meta>
+<author>robert e. schapire.</author> <title> the design and analysis of efficient learning algorithms.</title> <venue> phd thesis,</venue><address> cambridge, ma,</address><publisher> mit press,</publisher><year>1992</year>    
+
+<meta ref_no="1240" class_no="schapire1991" bib_no="2415"></meta>
+<author>robert e. schapire.</author> <title> the design and analysis of efficient learning algorithms.</title> <venue> phd thesis,</venue><address> cambridge, massachusetts,</address><publisher> mit press,</publisher><year>1991</year>    
+
+<meta ref_no="1241" class_no="schapire1991" bib_no="2416"></meta>
+<author>robert e. schapire.</author> <title> the design and analysis of efficient learning algorithms.</title><institution> m.i.t.,</institution><venue> phd thesis,</venue>  <year>1991</year>    
+
+<meta ref_no="1242" class_no="schapire1991" bib_no="2417"></meta>
+<author>r. e. schapire.</author> <title> the design and analysis of efficient learning algorithms.</title> <venue> phd thesis,</venue><address> cam-bridge, ma,</address><publisher> mit press,</publisher><year>1992</year>    
+
+<meta ref_no="1243" class_no="schapire1991" bib_no="2418"></meta>
+<author>r. e. schapire.</author> <title> the design and analysis of efficient learning algorithms.</title> <venue> phd thesis,</venue><address> cambridge, ma,</address><publisher> mit press,</publisher><year>1992</year>    
+
+<meta ref_no="1244" class_no="schapire1991" bib_no="2419"></meta>
+<author>robert e. schapire.</author> <title> the design and analysis of efficient learning algorithms.</title><institution> m.i.t.,</institution><venue> phd thesis,</venue>  <year>1991</year>    
+
+<meta ref_no="1245" class_no="schapire1991" bib_no="2420"></meta>
+<author>schapire r.e.</author> <title> the design and analysis of efficient learning algorithms.</title> <venue> phd thesis,</venue> <publisher> the mit press,</publisher><year>1992</year>   <month>15</month>
+
+<meta ref_no="1246" class_no="schapire1991" bib_no="2421"></meta>
+<author>schapire r.e.</author> <title> the design and analysis of efficient learning algorithms.</title> <venue> phd thesis,</venue> <publisher> the mit press,</publisher><year>1992</year>    
+
+<meta ref_no="1247" class_no="schapire1991C1" bib_no="2422"></meta>
+<author>robert e. schapire.</author> <title> the design and analysis of efficient learning algorithms.</title><institution> mit laboratory for computer science,</institution><venue> technical report mit/lcs/tr-493,</venue>  <year>1991</year>    
+
+<meta ref_no="1249" class_no="schapire1991l" bib_no="2423"></meta>
+<author>robert e. schapire.</author> <title> learning probabilistic read-once formulas on product distributions.</title> <venue> in computation learning theory: proceedings of the fourth annual workshop,</venue>  <year>1991</year>   <month> august</month>
+
+<meta ref_no="1250" class_no="schapire1991l" bib_no="2424"></meta>
+<author>robert e. schapire.</author> <title> learning probabilistic read-once formulas on product distributions.</title> <venue> in proceedings of the fourth annual workshop on computational learning theory,</venue>  <year>1991</year><pages> pages 184-198,</pages>  <month> august</month>
+
+<meta ref_no="1251" class_no="schapire1992" bib_no="2425"></meta>
+<author>r. e. schapire.</author> <title> the design and analysis of ef ficient learning algorithms.</title> <venue> in proceedings of the fourth annual workshop on computational learning theory,</venue><address> cam bridge, ma,</address><publisher> mit press,</publisher><year>1992</year>    
+
+<meta ref_no="1253" class_no="schapire1993" bib_no="2426"></meta>
+<author>r. e. schapire, l. m. sellie.</author> <title> learning sparse multivariate polynomial over a field with queries and counterexamples.</title> <venue> in proceedings of the sixth annual acm workshop on computational learning theory.</venue>  <year>1993</year>   <month> july,</month>
+
+<meta ref_no="1263" class_no="schapire1997" bib_no="2427"></meta>
+<author>schapire r.e., freund y., bartlett p., lee w.s.</author> <title> boosting the margin: a new explanation for the effectiveness of voting methods,</title> <venue> in proceedings of the fourteenth international conference on machine learning,</venue> <publisher> morgan kaufmann,</publisher><year>1997</year>    
+
+<meta ref_no="1264" class_no="schapire1997" bib_no="2428"></meta>
+<author>r. e. schapire, y. freund, p. bartlett, and w. s. lee.</author> <title> boosting the margin: a new explanation for the effectiveness of voting methods.</title> <venue> in machine learning: proceedings of the fourteenth international conference.</venue>  <year> (1997).</year>    
+
+<meta ref_no="1265" class_no="schapire1997" bib_no="2429"></meta>
+<author>schapire r. e., freund y., bartlett p., & lee w. s.</author> <title> boosting the margin: a new explanation for the effectiveness of voting methods,</title> <venue> `machine learning: proceedings of the fourteenth international conference',</venue> <publisher> morgan kaufmann,</publisher><year> (1997),</year><pages> pp. 322-330.</pages><editor> in d. fisher, ed.,</editor>  
+
+<meta ref_no="1266" class_no="schapire1997" bib_no="2430"></meta>
+<author>schapire r. e., freund y., bartlett p., & lee w. s.</author> <title> boosting the margin: a new explanation for the effectiveness of voting methods,</title> <venue> `machine learning: proceedings of the fourteenth international conference',</venue> <publisher> morgan kaufmann,</publisher><year> (1997),</year><pages> pp.</pages><editor> in d. fisher, ed.,</editor><note> 322-330.</note> 
+
+<meta ref_no="1267" class_no="schapire1997" bib_no="2431"></meta>
+<author>schapire r., freund y., bartlett p., and lee w.</author> <title> boosting the margin: a new explanation for the effectiveness of voting methods. in machines that learn - snowbird.</title> <venue> in proceedings of the 14th international conference on machine learning.</venue>  <year> (1997).</year>    
+
+<meta ref_no="1268" class_no="schapire1997" bib_no="2432"></meta>
+<author>schapire r., y. freund, p. bartlett, and w.</author> <title> lee (1997). boosting the margin : a new explanation for the effectiveness of voting methods.</title> <venue> in proceedings of the 14th international conference on machine learning.</venue>  <year>1997</year>  <note> (available at http://www.research.att.com/~yoav).</note> 
+
+<meta ref_no="1269" class_no="schapire1997" bib_no="2433"></meta>
+<author>schapire r.e., freund y., bartlett p., and lee w.s.</author> <title> boosting the margin: a new explanation for the effectiveness of voting methods.</title> <venue> proceedings of the 11th international conference on machine learning.</venue> <publisher> morgan kaufmann (1997) 322-330.</publisher><year>1997</year>    
+
+<meta ref_no="1270" class_no="schapire1997" bib_no="2434"></meta>
+<author>schapire r.e., freund y., bartlett p., and lee w.s.</author> <title>: boosting the margin: a new explanation for the effectiveness of voting methods.</title> <venue> proceedings of the fourteenth international conference on machine learning.</venue> <publisher> morgan kaufmann (1997) 322-330.</publisher><year>1997</year>    
+
+<meta ref_no="1271" class_no="schapire1997" bib_no="2435"></meta>
+<author>schapire r.e., freund y., bartlett p., and lee w.s.</author> <title> boosting the margin:</title> <venue> proceedings of the fourteenth international conference on machine learning.</venue>  <year>1997</year>    
+
+<meta ref_no="1272" class_no="schapire1997" bib_no="2436"></meta>
+<author>schapire r.e., freund y., bartlett p., and lee w.s.</author> <title> boosting the margin: a new explanation for the effectiveness of voting methods.</title> <venue> in proceedings of the 14th international conference on machine learning,</venue> <publisher> morgan kaufmann.</publisher><year>1997</year><pages> 322-330.</pages>   
+
+<meta ref_no="1273" class_no="schapire1997" bib_no="2437"></meta>
+<author>schapire r.e., y. freund, p.</author> <title> bartlett & w.s. lee (1997), boosting the margin: a new explanation for the effectiveness of voting methods,</title> <venue> in proceedings of the fourteenth international conference on machine learning,</venue> <publisher> morgan kaufmann.</publisher><year>1997</year><pages> pp. 322-330.</pages>   
+
+<meta ref_no="1274" class_no="schapire1997" bib_no="2438"></meta>
+<author>shapire r., freund y., bartlett p., & lee w.</author> <title> boosting the margin: a new explanation for the effectiveness of voting methods,</title> <venue> snowbird 1997 conference.</venue>  <year> (1997),</year>    
+
+<meta ref_no="1275" class_no="schapire1997" bib_no="2439"></meta>
+<author>r. schapire, y. freund, p. bartlett, and w. s. lee.</author> <title> boosting the margin; a new explanation for the effectiveness of voting methods.</title> <venue> in proceedings of the fourteenth international conference on machine learning.</venue> <publisher> morgan kaufmann publishers, inc.,</publisher><year>1997</year>  <note> to appear. 11</note> 
+
+<meta ref_no="1276" class_no="schapire1997" bib_no="2440"></meta>
+<author>schapire r. e., freund y., bartlett p., & lee w. s.</author> <title> boosting the margin: a new explanation for the effectiveness of voting methods.</title> <venue> in proceedings of the fourteenth international conference on machine learning.</venue>  <year> (1997).</year>    
+
+<meta ref_no="1277" class_no="schapire1997" bib_no="2441"></meta>
+<author>robert e. schapire, yoav freund, peter bartlett, and wee sun lee.</author> <title> boosting the margin: a new explanation for the effectiveness of voting methods.</title> <venue> in machine learning: proceedings of the fourteenth international conference,</venue>  <year>1997</year>   <month>9</month>
+
+<meta ref_no="1278" class_no="schapire1997" bib_no="2442"></meta>
+<author>robert e. schapire, yoav freund, peter bartlett, and wee sun lee.</author> <title> boosting the margin: a new explanation for the effectiveness of voting methods.</title> <venue> in machine learning: proceedings of the fourteenth international conference,</venue>  <year>1997</year>    
+
+<meta ref_no="1279" class_no="schapire1997" bib_no="2443"></meta>
+<author>robert e. schapire, yoav freund, peter bartlett, and wee sun lee.</author> <title> boosting the margin: a new explanation for the effectiveness of voting methods.</title> <venue> in machine learning: proceedings of the fourteenth international conference,</venue>  <year>1997</year>    
+
+<meta ref_no="1280" class_no="schapire1997" bib_no="2444"></meta>
+<author>robert e. schapire, yoav freund, peter bartlett, and wee sun lee.</author> <title> boosting the margin: a new explanation for the effectiveness of voting methods.</title> <venue> in machine learning: proceedings of the fourteenth international conference,</venue>  <year>1997</year>    
+
+<meta ref_no="1281" class_no="schapire1997" bib_no="2445"></meta>
+<author>r.e. schapire, y. freund, p. bartlett</author> <title> and w.s. leee. boosting the margin: a new explanation for the effectiveness of voting methods. in machines that learn - snowbird,</title> <venue>1997</venue>  <year>1997</year><pages>1</pages>   
+
+<meta ref_no="1282" class_no="schapire1997" bib_no="2446"></meta>
+<author>r. schapire, y. freund, p. bartlett, and w. lee.</author> <title> boosting the margin: a new explanation for the effectiveness of voting methods.</title> <venue> in icml-97,</venue>  <year>1997</year><pages> pages 322330,</pages>   
+
+<meta ref_no="1283" class_no="schapire1997" bib_no="2447"></meta>
+<author>schapire, r.e., freund y., bartlett p., and lee</author> <title> w.s. boosting the margin: a new explanation for the effectiveness of voting methods.</title> <venue> in proceedings of the 14th international conference on machine learning,</venue> <publisher> morgan kaufmann.</publisher><year>1997</year><pages> 322-330.</pages>   
+

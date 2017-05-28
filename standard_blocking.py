@@ -2,7 +2,6 @@ import json
 import numpy as np
 from collections import defaultdict
 from itertools import combinations
-from pybloom import ScalableBloomFilter
 
 
 def get_num_blocked_pairs_analytical2(blocks, dataset1_name, dataset2_name):
@@ -49,72 +48,15 @@ def get_num_blocked_pairs_analytical2(blocks, dataset1_name, dataset2_name):
     return num_blocked_pairs
 
 
-def get_num_blocked_pairs_analytical(blocks):
+def get_num_blocked_pairs_straightfwd(blocks, dataset1_name, dataset2_name):
     num_blocked_pairs = 0
-    alloverlaps = set()
-    blocks = list(blocks.values())
-    for block1Index in range(len(blocks)):
-
-        print('Processing block {}'.format(block1Index))
-
-        block1 = blocks[block1Index]
-
-        a = len(block1) * (len(block1)-1) / 2
-        b = 0
-        c = 0
-        overlaps_for_this_block = set()
-        for block2Index in range(len(blocks)):
-            block2 = blocks[block2Index]
-
-            if block1Index == block2Index:
-                continue
-
-            overlaps = list(combinations(block1 & block2, 2))
-
-            b += len(overlaps)
-            for overlap in overlaps:
-                if overlap in overlaps_for_this_block:
-                    c += 1
-
-            overlaps_for_this_block.update(overlaps)
-            alloverlaps.update(overlaps)
-
-        num_blocked_pairs += a - b + c
-        print("len(alloverlaps) so far:", len(alloverlaps))
-
-    num_blocked_pairs += len(alloverlaps)
-    print('final number of pairs after blocking (calculated analytically, method 2):', num_blocked_pairs)
-    return num_blocked_pairs
-
-def get_num_blocked_pairs_explicit(blocks):
-    num_pairs_after_blocking = 0
-    itnum = 0
-
-    # False positive matches are possible, but false negatives are not – in other words, a query returns either "possibly in set" or "definitely not in set". 
-    sbf = ScalableBloomFilter(mode=ScalableBloomFilter.SMALL_SET_GROWTH)
-    for blockid, block in blocks.items():
-        itnum += 1
-        #print('processing block {} out of {} ({} references)'.format(itnum, len(blocks), len(block)))
-        for pair in combinations(block,2):
-            if pair not in sbf:
-                sbf.add(pair)
-                num_pairs_after_blocking += 1
-        #print('num_pairs_after_blocking:',num_pairs_after_blocking)
-    print('final number of pairs after blocking (calculated by explicitly evaluating the pairs):', num_pairs_after_blocking)
-    return num_pairs_after_blocking
-
-def get_num_blocked_pairs_analytical_discarded(blocks):
-    num_blocked_combinations = 0
-    for i in range(len(blocks)):
-        print('processing sets of size {}'.format(i+1))
-        for combo in combinations(blocks.values(), i+1):
-            l = len(set.intersection(*combo))
-            if i%2 == 0:
-                num_blocked_combinations += l*(l-1)/2
-            else:
-                num_blocked_combinations -= l*(l-1)/2
-    print('final number of pairs after blocking (calculated analytically):', num_blocked_combinations)
-    return num_blocked_combinations
+    for key in blocks:
+        ds1len = len(blocks[key][dataset1_name])
+        ds2len = len(blocks[key][dataset2_name])
+        num_blocked_pairs += ds1len * ds2len / 2
+    
+    print('final number of pairs after blocking (calculated straightforward:', num_blocked_pairs)
+    return num_blocked_pairs   
 
 
 def standard_blocking_stats2(dataset1, dataset2, blocking_key, answer_key, dataset1_name, dataset2_name):
@@ -154,6 +96,7 @@ def standard_blocking_stats2(dataset1, dataset2, blocking_key, answer_key, datas
                 ]
     '''
     ent_ref_map = defaultdict(set)
+    print("Willy wonky!")
     
     # create blocks
     blocks = defaultdict(lambda:defaultdict(set))
@@ -179,7 +122,8 @@ def standard_blocking_stats2(dataset1, dataset2, blocking_key, answer_key, datas
     
     # calculate num pairs to compare post blocking
     #num_pairs_after_blocking1 = get_num_blocked_pairs_explicit(blocks)
-    num_pairs_after_blocking2 = get_num_blocked_pairs_analytical2(blocks, dataset1_name, dataset2_name)
+    #num_pairs_after_blocking2 = get_num_blocked_pairs_analytical2(blocks, dataset1_name, dataset2_name)
+    num_pairs_after_blocking2 = get_num_blocked_pairs_straightfwd(blocks, dataset1_name, dataset2_name)
     #assert num_pairs_after_blocking1 == num_pairs_after_blocking2
 
     num_pairs_recalled = 0
@@ -242,7 +186,8 @@ def standard_blocking_stats(data, blocking_key):
     
     # calculate num pairs to compare post blocking
     #num_pairs_after_blocking1 = get_num_blocked_pairs_explicit(blocks)
-    num_pairs_after_blocking2 = get_num_blocked_pairs_analytical2(blocks)
+    #num_pairs_after_blocking2 = get_num_blocked_pairs_analytical2(blocks)
+    num_pairs_after_blocking2 = get_num_blocked_pairs_straightfwd(blocks, dataset1_name, dataset2_name)
     #assert num_pairs_after_blocking1 == num_pairs_after_blocking2
 
     num_pairs_recalled = 0
