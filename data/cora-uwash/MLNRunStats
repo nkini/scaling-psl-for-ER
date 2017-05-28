@@ -1,0 +1,59 @@
+osboxes@osboxes:~/vboxshare/ER/cora.er$ learnwts -i er-bnct.mln -t coraSepFixedhwng.1.db,coraSepFixedhwng.2.db,coraSepFixedhwng.3.db,coraSepFixedhwng.4.db -multipleDatabases -o alchemy2-coraSepFixedhwng-learned-can.5.mln -queryEvidence -ne SameBib,SameAuthor,SameTitle,SameVenue -noAddUnitClauses
+
+Done learning discriminative weights. 
+Time Taken for learning = 15 mins, 32.78 secs
+Total time = 19 mins, 25.8 secs
+
+osboxes@osboxes:~/vboxshare/ER/cora.er$ infer -ms -i coraSepFixedhwng-learned-can.5.mln -r er.result -e coraSepFixedhwng.5.db -q SameBib,SameAuthor,SameTitle,SameVenue
+
+creating mrf...
+number of grounded predicates = 58298
+number of grounded clauses = 12199552
+Time taken to construct MRF = 4 mins, 53.3 secs
+[VS] 5 mins, 45.33 secs
+>>> DONE: Initial num. of clauses: 12199552
+Initializing MC-SAT with MaxWalksat on hard clauses...
+Running MC-SAT sampling...
+
+Sample (per pred) 100, time elapsed = 4 mins, 30.72 secs, num. preds = 58298, num. clauses = 12199552
+Done burning. 100 samples.
+Sample (per pred) 100, time elapsed = 8 mins, 36.54 secs, num. preds = 58298, num. clauses = 12199552
+Sample (per pred) 200, time elapsed = 12 mins, 32.45 secs, num. preds = 58298, num. clauses = 12199552
+Sample (per pred) 300, time elapsed = 16 mins, 38.18 secs, num. preds = 58298, num. clauses = 12199552
+Sample (per pred) 400, time elapsed = 20 mins, 24.6 secs, num. preds = 58298, num. clauses = 12199552
+Sample (per pred) 500, time elapsed = 23 mins, 53.46 secs, num. preds = 58298, num. clauses = 12199552
+Sample (per pred) 600, time elapsed = 27 mins, 15.33 secs, num. preds = 58298, num. clauses = 12199552
+Sample (per pred) 700, time elapsed = 30 mins, 39.23 secs, num. preds = 58298, num. clauses = 12199552
+Sample (per pred) 800, time elapsed = 33 mins, 57.79 secs, num. preds = 58298, num. clauses = 12199552
+Sample (per pred) 900, time elapsed = 37 mins, 20.59 secs, num. preds = 58298, num. clauses = 12199552
+Sample (per pred) 1000, time elapsed = 40 mins, 48.07 secs, num. preds = 58298, num. clauses = 12199552
+Done MC-SAT sampling. 1000 samples.
+Final ground predicate number: 58298
+Final ground clause number: 12199552
+Time taken for MC-SAT sampling = 40 mins, 50.13 secs
+Time taken for SampleSat = 5 mins, 37.59 secs
+Time-Results: Init 3.94 Run 2450.13 Total 2454.07
+total time taken = 46 mins, 40.35 secs
+
+
+osboxes@osboxes:~/vboxshare/ER/cora.er$ infer -m -i coraSepFixedhwng-learned-can.5.mln -r er.result -e coraSepFixedhwng.5.db -q SameAuthor,SameTitle,SameVenue,SameBib
+
+creating mrf...
+number of grounded predicates = 58298
+number of grounded clauses = 12199552
+Time taken to construct MRF = 4 mins, 22.79 secs
+[VS] 5 mins, 3.86 secs
+>>> DONE: Initial num. of clauses: 12199552
+
+In the beginning of try 1: 
+Number of clauses: 12199552
+Number of false clauses: 2006194
+Cost of false clauses: 102585
+Target cost: 0
+In the end of try 1: 
+Lowest num. of false clauses: 218256
+Lowest cost of false clauses: 53047.6
+Number of flips: 1000000
+Time-Results: Init 1.46 Run 151.5 Total 152.96
+total time taken = 7 mins, 37.71 secs
+

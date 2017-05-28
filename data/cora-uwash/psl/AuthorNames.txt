@@ -1,0 +1,3523 @@
+0	h. drucker
+1	r. schapire
+2	p. simard.
+3	h. drucker
+4	r. schapire
+5	p. simard.
+6	drucker h.
+7	schapire r.
+8	simard p.
+9	drucker h.
+10	schapire r.
+11	simard p.
+12	drucker h.
+13	schapire r.
+14	simard p.
+15	drucker h.
+16	schapire r.
+17	simard p.
+18	drucker h.
+19	schapire r.
+20	simard p.
+21	drucker h.
+22	schapire r.
+23	simard r.
+24	drucker harris
+25	schapire
+26	robert
+27	simard patrice
+28	drucker h.
+29	schapire r.
+30	simard p.
+31	drucker
+32	schapire
+33	simard
+34	harris drucker
+35	robert schapire
+36	patrice simard.
+37	harris drucker
+38	robert schapire
+39	patrice simard.
+40	h. drucker
+41	r. schapire
+42	p. simard
+43	drucker h.
+44	schapire r.
+45	simard p.
+46	harris drucker
+47	robert schapire
+48	patrice simard.
+49	harris drucker
+50	robert schapire
+51	patrice simard.
+52	harris drucker
+53	robert e. schapire
+54	ptrice simard.
+55	h. druker
+56	r. schapire
+57	p. simard
+58	drucker h.
+59	r. schapire
+60	p.
+61	drucker h.
+62	schapire r.
+63	simard p.
+64	r.
+65	hart p.
+66	yoav freund
+67	robert e. schapire.
+68	yoav freund
+69	robert e. schapire.
+70	y. freund
+71	h. s. seung
+72	e. shamir
+73	n. tishby.
+74	yoav freund
+75	h. sebastian seung
+76	eli shamir
+77	naftali tishby.
+78	freund y.
+79	seung h. s.
+80	shamir e.
+81	tishby n.
+82	freund y.
+83	seung h.
+84	shamir e.
+85	tishby n.
+86	freund y.
+87	seung h.
+88	shamir e.
+89	tishby n.
+90	freund y.
+91	seung h.s.
+92	shamir e.
+93	tishby n.
+94	y. freund
+95	h. s. seung
+96	e. shamir
+97	n. tishby.
+98	y. freund
+99	h. s. seung
+100	e. shamir
+101	n. tishby.
+102	y. freund
+103	h.s. seung
+104	e. shamir
+105	n. tishby.
+106	y. freund
+107	h. s. seung
+108	e. shamir
+109	n. tishby.
+110	y. freund
+111	h.s. seung
+112	e shamir
+113	n. tishby.
+114	y. freund
+115	h.s. seung
+116	e. shamir
+117	n. tishby.
+118	yoav freund
+119	h. sebastian seung
+120	eli shamir
+121	naftali tishby
+122	y. freund
+123	h.s seung
+124	e. shamir
+125	n. tishby.
+126	y. freund
+127	d. ron.
+128	y. freund
+129	d. ron.
+130	y. freund
+131	d. ron.
+132	y. freund
+133	d. ron.
+134	y. freund
+135	d. ron.
+136	yoav freund
+137	robert e. schapire.
+138	yoav freund
+139	robert e. schapire.
+140	freund y.
+141	schapire r.e.
+142	freund v.
+143	schapire r. e.
+144	freund y.
+145	r.e. schapire
+146	freund y.
+147	r.e. schapire
+148	freund y.
+149	schapire r.
+150	freund y.
+151	schapire r.
+152	freund y.
+153	schapire r. e.
+154	freund y.
+155	schapire r. e.
+156	freund y.
+157	schapire r. e.
+158	freund y.
+159	schapire r. e.
+160	freund y.
+161	r. schapire
+162	freund y.
+163	schapire r.e.
+164	freund y.
+165	schapire r.e.
+166	freund y.
+167	schapire r.e.
+168	freund y.
+169	schapire r.
+170	freund y.
+171	schapire r.
+172	freund y.
+173	schapire r. e.
+174	freund y.
+175	schapire r. e.
+176	freund y.
+177	schapire r. e.
+178	freund y.
+179	schapire r. e.
+180	freund y.
+181	schapire r. e.
+182	freund y.
+183	schapire r. e.
+184	freund y.
+185	schapire r. e.
+186	freund y.
+187	schapire r.
+188	freund y.
+189	schapire r.
+190	freund y.
+191	schapire r. e.
+192	freund yoav
+193	schapire robert e.
+194	yoav freund
+195	robert e. schapire.
+196	y. freund
+197	r. schapire.
+198	y. freund
+199	r. schapire.
+200	y. freund.
+201	r. e. schapire
+202	yoav freund
+203	robert e. schapire.
+204	y. freund
+205	r. schapire.
+206	y. freund
+207	r. e. schapire.
+208	yoav freund
+209	robert e. schapire.
+210	y. freund
+211	r. schapire.
+212	y. freund
+213	r.e. schapire.
+214	yoav freund
+215	robert e. schapire.
+216	freund y.
+217	schapire r. e.
+218	y. freund
+219	r. schapire.
+220	yoav freund
+221	robert e. schapire.
+222	yoav freund
+223	robert e. schapire.
+224	y. freund
+225	r. schapire.
+226	yoav freund
+227	robert e. schapire.
+228	yoav freund
+229	robert e. schapire.
+230	y. freund
+231	r. schapire.
+232	freund y.
+233	schapire r.e.
+234	freund y.
+235	schapire r.e.
+236	freund y.
+237	schapire r. e.
+238	freund y.
+239	schapire r.
+240	freund y.
+241	schapire r. e.
+242	yoav freund
+243	robert e. schapire.
+244	yoav freund
+245	robert e. schapire.
+246	y. freund
+247	r. schapire.
+248	yoav freund
+249	robert e. schapire.
+250	y. freund
+251	r.e. schapire.
+252	yoav freund
+253	robert e. schapire.
+254	y. freund
+255	r.e. schapire.
+256	yoav freund
+257	robert e. schapire.
+258	yoav freund
+259	robert e. schapire.
+260	yoav freund
+261	robert e. schapire.
+262	yoav freund
+263	robert e. schapire.
+264	yoav freund
+265	robert e. schapire.
+266	y. freund
+267	r. schapire.
+268	y. freund
+269	r.e. schapire.
+270	yoav freund
+271	robert e. schapire.
+272	yoav freund
+273	robert e. schapire.
+274	y. freund
+275	y. mansour.
+276	y. freund
+277	y. mansour.
+278	y. freund
+279	y. mansour.
+280	sally a. goldman
+281	michael j. kearns
+282	robert e. schapire.
+283	s. a. goldman
+284	m. j. kearns
+285	r. e. schapire.
+286	sally a. goldman
+287	michael j. kearns
+288	robert e. schapire.
+289	s. a. goldman
+290	m. j. kearns
+291	r. e. schapire.
+292	sally a. goldman
+293	michael j. kearns
+294	robert e. schapire.
+295	s. a. goldman
+296	m. j. kearns
+297	r. e. schapire.
+298	sally a. goldman
+299	michael j. kerns
+300	robert e. schapire.
+301	s. a. goldman
+302	r. l. rivest
+303	r. e. schapire.
+304	s. a. goldman
+305	r. l. rivest
+306	r. e. schapire.
+307	s. a. goldman
+308	r. l. rivest
+309	r. e. schapire
+310	sally a. goldman
+311	ronald l. rivest
+312	robert e. schapire.
+313	d. haussler
+314	m. kearns
+315	n. littlestone
+316	m. warmuth.
+317	d. haussler
+318	m. kearns
+319	n. littlestone
+320	m. warmuth.
+321	d. haussler
+322	m. kearns
+323	n. littlestone
+324	m. warmuth.
+325	haussler d.
+326	kearns m. j.
+327	schapire r.
+328	d. haussler
+329	m. kearns
+330	r. schapire.
+331	d. haussler
+332	m. kearns
+333	r. e. schapire.
+334	d. haussler
+335	m kearns
+336	r. shapire.
+337	d. haussler
+338	m. kearns
+339	r. e. schapire.
+340	david haussler
+341	michael kearns
+342	rob schapire.
+343	d. haussler
+344	m. kearns
+345	r. e. schapire.
+346	d. haussler
+347	m kearns
+348	r. shapire.
+349	d. haussler
+350	m. kearns
+351	r. schapire
+352	d. haussler
+353	m kearns
+354	r. shapire.
+355	david haussler
+356	michael kearns
+357	robert e. schapire
+358	d. haussler
+359	m. kearns
+360	r. schapire.
+361	d. haussler
+362	m. kearns
+363	r. schapire.
+364	d. haussler
+365	m. kearns
+366	r. schapire.
+367	d. haussler
+368	m. kearns
+369	r. schapire.
+370	d. haussler
+371	m. kearns
+372	r. schapire.
+373	d. haussler
+374	m. kearns
+375	r. schapire.
+376	d. haussler
+377	m. kearns
+378	r. schapire.
+379	david haussler
+380	michael kearns
+381	robert schapire.
+382	d. haussler
+383	m. kearns
+384	r. e. schapire.
+385	david haussler
+386	michael kearns
+387	robert schapire.
+388	david haussler
+389	michael kearns
+390	robert schapire.
+391	d. haussler
+392	m. kearns
+393	r.
+394	h. kautz
+395	m. kearns
+396	b. selman.
+397	kautz h. a.
+398	kearns m. j.
+399	selman. b
+400	kautz h.
+401	kearns m.
+402	selman b.
+403	kautz h.
+404	m. kearns
+405	b. selman.
+406	kautz h.
+407	kearns m.
+408	selman b.
+409	h.a. kautz
+410	m.j. kearns
+411	b. selman.
+412	h. kautz
+413	m. kearns
+414	b. selman
+415	h. kautz
+416	m. kearns
+417	b. selman.
+418	h. a. kautz
+419	m. j. kearns
+420	b. selman.
+421	kautz h. a.
+422	kearns m. j.
+423	selman.
+424	kautz h.
+425	kearns m.
+426	selman b.
+427	kautz h.
+428	kearns m.
+429	selman b.
+430	kautz h.
+431	kearns m.
+432	selman b.
+433	kautz h.
+434	m. kearns
+435	b. selman.
+436	kautz h.
+437	m. kearns
+438	b. selman.
+439	kautz h.
+440	kearns m.
+441	selman b.
+442	h.a. kautz
+443	m.j. kearns
+444	b. selman.
+445	henry a. kautz
+446	michael j. kearns
+447	bart selman.
+448	kautz henry a.
+449	kearns michael j.
+450	selman bart ppear.
+451	henry a. kautz
+452	michael j. kearns
+453	bart selman
+454	h. kautz
+455	m. kearns
+456	b. selman.
+457	h. kautz
+458	m. kearns
+459	b. selman.
+460	h. kautz
+461	m. kearns
+462	b. selman.
+463	h. kautz
+464	m. kearns
+465	b. selman.
+466	henry kautz
+467	michael kearns
+468	bart selman.
+469	m. kearns
+470	l. valiant.
+471	kearns m.
+472	valiant l. g.
+473	kearns m.
+474	valiant l. g.
+475	kearns m.
+476	valiant l.g.
+477	kearns m. j.
+478	valiant l.
+479	kearns m.j.
+480	l.g. valiant.
+481	m. kearns
+482	l.g. valiant.
+483	m. kearns
+484	l. g. valiant.
+485	m. kearns
+486	l. g. valiant.
+487	m. j. kearns
+488	l. g. valiant.
+489	m. kearns
+490	l. valiant.
+491	michael kearns
+492	leslie g. valiant.
+493	m. kearns
+494	l. valiant.
+495	m. kearns
+496	l. g. valiant.
+497	m. kearns
+498	l. valiant.
+499	m. j. kearns
+500	l. g. valiant.
+501	m. kearns
+502	l. valiant.
+503	m.j. kearns
+504	l.g. valiant.
+505	michael kearns
+506	leslie valiant.
+507	kearns
+508	valiant.
+509	m. j. kearns
+510	l. g. valiant.
+511	m. kearns
+512	l. valiant.
+513	m. kearns
+514	r. schapire
+515	l. sellie.
+516	kearns m. j.
+517	schapire r. e.
+518	sellie l. m.
+519	kearns m. j.
+520	schapire r. e.
+521	sellie l. m.
+522	m. kearns
+523	r. schapire
+524	l. sellie.
+525	m. j. kearns
+526	r. e. schapire
+527	l. m. sellie.
+528	m. kearns
+529	r. schapire
+530	l. sellie.
+531	m. j. kearns
+532	r. e. schapire
+533	l. m. sellie.
+534	m. j. kearns
+535	r. e. schapire
+536	l. m. sellie.
+537	michael j. kearns
+538	robert e. schapire
+539	linda m. sellie.
+540	m. kearns
+541	r. schapire
+542	l. sellie.
+543	michael j. kearns
+544	robert e. schapire
+545	linda m. sellie.
+546	michael j. kearns
+547	robert e. schapire
+548	linda m. sellie.
+549	kearns m.
+550	li m.
+551	valiant l.
+552	m. kearns
+553	m. li
+554	l. valiant.
+555	m. kearns
+556	m. li
+557	l. valiant.
+558	m. kearns
+559	m. li
+560	l. valiant.
+561	kearns m.
+562	kearns m.
+563	kearns m.
+564	kearns m. j.
+565	m. kearns.
+566	michael kearns.
+567	m. kearns.
+568	m. kearns.
+569	kearns m. j.
+570	kearns m. j.
+571	kearns m.
+572	y. mansour
+573	michael kearns
+574	yishay mansour.
+575	michael kearns
+576	yishay mansour.
+577	m. kearns
+578	y. mansour.
+579	michael kearns
+580	yishay mansour.
+581	m. kearns
+582	y. mansour
+583	a. ng
+584	m. kearns
+585	y. mansour
+586	a. ng.
+587	m. kearns
+588	y. mansour
+589	a. y. ng.
+590	kearns m.
+591	mansour y.
+592	ng a. y.
+593	d. d. lewis
+594	r. e. schapire
+595	j. p. callan
+596	r. papka.
+597	lewis d. d.
+598	schapire r. e.
+599	callan j. p.
+600	papka r.
+601	lewis d.
+602	r. e. schapire
+603	j. p. callan
+604	r. papka.
+605	lewis d.
+606	schapire r. e.
+607	callan j. p.
+608	papka r.
+609	lewis d.
+610	schapire r.
+611	callan j.
+612	papka r.
+613	david lewis
+614	robert schapire
+615	james p. callan
+616	ron papka.
+617	lewis d. d.
+618	schapire r. e.
+619	callan j. p.
+620	papka r.
+621	d. d. lewis
+622	r. e. schapire
+623	j. p. callan
+624	r. papka.
+625	david d. lewis
+626	robert e. schapire
+627	james p. callan
+628	ron papka.
+629	david d. lewis
+630	robert e. schapire
+631	james p. callan
+632	ron papka.
+633	d. lewis
+634	r. schapire
+635	j. callan
+636	r. papka
+637	d. lewis
+638	r. schapire
+639	j. callan
+640	r. papka.
+641	d. lewis
+642	r. schapire
+643	j. callan
+644	r. papka
+645	david lewis
+646	robert schapire
+647	james callan
+648	ron papka.
+649	d. lewis
+650	r. schapire
+651	j. callan
+652	r. papka.
+653	david lewis
+654	robert schapire
+655	james callan
+656	ron papka.
+657	d. lewis
+658	r. schapire
+659	j. callan
+660	r. papka
+661	d. lewis
+662	r. e. shapire
+663	j. p. callan
+664	r. papka.
+665	david d. lewis
+666	robert e. schapire
+667	james p. callan
+668	ron papka.
+669	david d. lewis
+670	robert e. schapire
+671	james p. callan
+672	ron papka.
+673	david d. lewis
+674	robert e. shapire
+675	james p. callan
+676	ron papka.
+677	littlestone n
+678	schapire
+679	warmuth m.
+680	r. rivest
+681	r. schapire.
+682	rivest r. l.
+683	schapire r. e.
+684	rivest r. l.
+685	schapire r. e.
+686	rivest r.l.
+687	schapire r.e.
+688	ronald l. rivest
+689	robert e. schapire.
+690	ronald l. rivest
+691	robert e. schapire.
+692	r. rivest
+693	s. schapire.
+694	r. l. rivest
+695	r. e. schapire.
+696	ronald l. rivest
+697	robert e. schapire.
+698	r. l. rivest
+699	r. e. schapire.
+700	ronald l. rivest
+701	robert e. schapire.
+702	ronald l. rivest
+703	robert e. schapire.
+704	r. l. rivest
+705	r. e. schapire.
+706	r. l. rivest
+707	r. e. schapire.
+708	ronald l. rivest
+709	robert e. schapire.
+710	ronald l. rivest
+711	robert e. schapire.
+712	rivest r. l.
+713	schapire r. e.
+714	rivest r.l.
+715	schapire r.e.
+716	r. l. rivest
+717	r. e. schapire.
+718	r. rivest
+719	r. schapire.
+720	ronald l. rivest
+721	robert e. schapire.
+722	r. rivest
+723	s. schapire.
+724	ronald l. rivest
+725	robert e. schapire.
+726	r. l. rivest
+727	r. e. schapire.
+728	r. rivest
+729	r. schapire.
+730	ronald l. rivest
+731	robert e. schapire.
+732	rivest ronald l.
+733	robert e. schapire.
+734	r. l. rivest
+735	r. e. schapire.
+736	r. l. rivest
+737	r. e. schapire.
+738	ronald l. rivest
+739	robert e. schapire.
+740	ronald l. rivest
+741	robert e. schapire.
+742	r. rivest
+743	r. rivest
+744	r. rivest
+745	r. schapire.
+746	r. l. rivest
+747	r. e. schapire.
+748	r. rivest
+749	r. schapire.
+750	r. rivest
+751	r. schapire.
+752	r. l. rivest
+753	r. e. schapire.
+754	robert e. schapire
+755	yoav freund
+756	peter bartlett
+757	wee sun lee.
+758	robert e. schapire
+759	yoav freund
+760	peter bartlett
+761	wee sun lee.
+762	schapire r. e.
+763	freund y.
+764	bartlett p.
+765	lee w. s.
+766	schapire r. e.
+767	r. schapire.
+768	r. schapire.
+769	robert e. schapire.
+770	r. schapire.
+771	robert e. schapire.
+772	schapire r.
+773	schapire r.
+774	schapire r.
+775	schapire r.
+776	schapire r. e.
+777	schapire r. e.
+778	schapire r. e.
+779	schapire r. e.
+780	schapire r. e.
+781	schapire r. e.
+782	schapire r. e.
+783	schapire r. e.
+784	schapire r. e.
+785	schapire r.e.
+786	schapire r.e.
+787	schapire r.e.
+788	schapire r.e.
+789	schapire r.e.
+790	schapire robert e.
+791	shapire r.
+792	r. e. schapire.
+793	r. schapire.
+794	schapire r.
+795	r. e. schapire.
+796	robert e. schapire.
+797	robert e. schapire.
+798	robert e. schapire.
+799	robert e. schapire.
+800	r. e. schapire.
+801	r. schapire.
+802	robert schapire.
+803	r. e. schapire.
+804	r. schapire.
+805	r. schapire.
+806	robert e. schapire.
+807	robert schapire.
+808	robert e. schapire.
+809	robert e. schapire.
+810	r.e. schapire
+811	robert e. schapire.
+812	robert e. schapire.
+813	robert e. schapire.
+814	robert e. schapire.
+815	r. e. schapire
+816	r. schapire.
+817	schapire r.
+818	r. e. schapire.
+819	robert e. schapire.
+820	robert e. schapire.
+821	schapire r.e.
+822	shapire r. e.
+823	robert e. schapire.
+824	robert e. schapire.
+825	schapire r. e.
+826	warmuth m. k.
+827	schapire r. e.
+828	warmuth m. k.
+829	robert e. schapire
+830	manfred k. warmuth.
+831	robert e. schapire
+832	manfred k. warmuth.
+833	r. e. schapire
+834	m. k. warmuth.
+835	r. e. schapire
+836	m. k. warmuth.
+837	r. e. schapire
+838	l. m. sellie.
+839	r. e. schapire
+840	l. m. sellie.
+841	schapire r.e.
+842	schapire r. e.
+843	freund y.
+844	bartlett p.
+845	lee w. s.
+846	robert e. schapire.
+847	robert e. schapire.
+848	r. e. schapire.
+849	robert e. schapire.
+850	schapire r. e.
+851	schapire r.
+852	singer y.
+853	robert e. schapire
+854	yoram singer.
+855	robert e. schapire
+856	yoram singer.
+857	robert e. schapire
+858	yoram singer.
+859	robert e. schapire
+860	yoram singer.
+861	robert e. schapire
+862	yoram singer. boostexter:
+863	p. auer
+864	n. cesa-bianchi
+865	y. freund
+866	r. e. schapire
+867	a. blum
+868	m. furst
+869	m. j. kearns
+870	richard j. lipton.
+871	avrim blum
+872	merrick furst
+873	michael kearns
+874	richard j. lipton.
+875	avrim blum
+876	merrick furst
+877	michael kearns
+878	richard j. lipton.
+879	a. blum
+880	m. furst
+881	m. kearns
+882	r. lipton.
+883	nicolo cesa-bianchi
+884	yoav freund
+885	david p. helmbold
+886	david haussler
+887	robert e. schapire
+888	manfred k. warmuth.
+889	n. cesa-bianchi
+890	y. freund
+891	d.p. helmbold
+892	d. haussler
+893	r.e. schapire
+894	m.k. warmuth.
+895	nicolo cesa-bianchi
+896	yoav freund
+897	david p. helmbold
+898	david haussler
+899	robert e. schapire
+900	manfred k. warmuth.
+901	nicolo cesa-bianchi
+902	yoav freund
+903	david p. helmbold
+904	david haussler
+905	robert e. schapire
+906	manfred k. warmuth.
+907	n. cesa-bianchi
+908	y. freund
+909	d. helmbold
+910	d. haussler
+911	r. schapire
+912	m. k. warmuth.
+913	cesa-bianchi n.
+914	freund y.
+915	helmbold d. p.
+916	haussler d.
+917	schapire r. e.
+918	warmuth m. k.
+919	cesa-bianchi n.
+920	freund y.
+921	helmbold d.
+922	haussler d.
+923	cesa-bianchi n.
+924	freund y.
+925	helmbold d.
+926	haussler d.
+927	schapire r.
+928	warmuth m.
+929	cesa-bianchi n.
+930	y. freund
+931	d. p. helmbold
+932	d. haus-sler
+933	r. e. schapire
+934	m. k. warmuth.
+935	n. cesa-bianchi
+936	y. freund
+937	d. haussler
+938	d. p. helmbold
+939	r. e. schapire
+940	m. k. war-muth.
+941	n. cesa-bianchi
+942	y. freund
+943	d. haussler
+944	d.p. helmbold
+945	r.e. schapire
+946	m. k. warmuth.
+947	n. cesa-bianchi
+948	y. freund
+949	d. haussler
+950	d.p. helmbold
+951	r.e. schapire
+952	m. k. warmuth.
+953	n. cesa-bianchi
+954	y. freund
+955	d. p. helmbold
+956	d. haus-sler
+957	r. e. schapire
+958	m. k. warmuth.
+959	n. cesa-bianchi
+960	y. freund
+961	d.p. helmbold
+962	d. haussler
+963	r.e. schapire
+964	m.k. warmuth.
+965	n. cesa-bianchi
+966	y. freund
+967	d.p. helmbold
+968	d. haussler
+969	r.e. schapire
+970	m.k. warmuth.
+971	nicolo cesa-bianchi
+972	yoav freund
+973	david p. helm-bold
+974	david haussler
+975	robert e. schapire
+976	man-fred k. warmuth.
+977	nicolo cesa-bianchi
+978	yoav freund
+979	david p. helmbold
+980	david haussler
+981	robert e. schapire
+982	manfred k. warmuth.
+983	n. cesa-bianchi
+984	y. freund
+985	d. helmbold
+986	d. haussler
+987	r. schapire
+988	m. warmuth.
+989	nicolo cesa-bianchi
+990	yoav freund
+991	david p. helmbold
+992	david haus-sler
+993	robert e. schapire
+994	manfred k. warmuth.
+995	nicolo cesa-bianchi
+996	yoav freund
+997	david p. helmbold
+998	david haussler
+999	robert e. schapire
+1000	manfred k. warmuth.
+1001	n. cesa-bianchi
+1002	y. freund
+1003	d. helmbold
+1004	d. haussler
+1005	r. schapire
+1006	m.
+1007	n. cesa-bianchi
+1008	y. freund
+1009	d. p. helmbold
+1010	d. haussler
+1011	r. e. schapire
+1012	m. k. warmuth.
+1013	n. cesa-bianchi
+1014	y. freund
+1015	d.h. helmbold
+1016	d. haussler
+1017	r.e. schapire
+1018	m.k. warmuth
+1019	n. cesa-bianchi
+1020	y. freund
+1021	d.p. helmbold
+1022	d. haussler
+1023	r.e. schapire
+1024	m.k. warmuth.
+1025	nicolo cesa-bianchi
+1026	yoav freund
+1027	david p. helm-bold
+1028	david haussler
+1029	robert e. schapire
+1030	manfred k. warmuth.
+1031	n. cesa-bianchi
+1032	y. freund
+1033	d.p. helmbold
+1034	d. haussler
+1035	r.e. schapire
+1036	m.k. warmuth.
+1037	nicolo cesa-bianchi
+1038	yoav freund
+1039	david p. helmbold
+1040	david haussler
+1041	robert e. schapire
+1042	manfred k. warmuth.
+1043	nicolo cesa-bianchi
+1044	yoav freund
+1045	david p. helmbold
+1046	david haussler
+1047	robert e. schapire
+1048	manfred k. warmuth.
+1049	n. cesa-bianchi
+1050	y. freund
+1051	d.p. helmbold
+1052	d. haussler
+1053	r.e. schapire
+1054	m.k. warmuth.
+1055	n. cesa-bianchi
+1056	y. freund
+1057	d. helmbold
+1058	d. haussler
+1059	r. schapire
+1060	m. war-muth.
+1061	n. cesa-bianchi
+1062	y. freund
+1063	d. helmbold
+1064	d. haussler
+1065	r. schapire
+1066	m. warmuth.
+1067	n. cesa-bianchi
+1068	y. freund
+1069	d. p. helmbold
+1070	d. haussler
+1071	r. e. schapire
+1072	m. k. warmuth.
+1073	nicolo cesa-bianchi
+1074	yoav freund
+1075	david p. helmbold
+1076	david haussler
+1077	robert e. schapire
+1078	manfred k. warmuth.
+1079	nicolo cesa-bianchi
+1080	yoav freund
+1081	david p. helmbold
+1082	david haussler
+1083	robert e. schapire
+1084	manfred k. warmuth.
+1085	n. cesa-bianchi
+1086	y. freund
+1087	d.p. helmbold
+1088	d. haussler
+1089	r.e. schapire
+1090	m.k. warmuth.
+1091	nicolo cesa-bianchi
+1092	yoav freund
+1093	david p. helmbold
+1094	david haussler
+1095	robert e schapire
+1096	manfred k warmuth.
+1097	n. cesa-bianchi
+1098	y. freund
+1099	d. p. helmbold
+1100	d. haussler
+1101	r. e. schapire
+1102	m. k. warmuth
+1103	cesa-bianchi n.
+1104	freund y.
+1105	haussler d.
+1106	helmbold d. p.
+1107	schapire r. e.
+1108	warmuth m. k.
+1109	cesa-bianchi n.
+1110	freund y.
+1111	haussler d.
+1112	helmbold d. p.
+1113	schapire r. e.
+1114	warmuth m. k.
+1115	n. cesa-bianchi
+1116	y. freund
+1117	d. haussler
+1118	d. p. helmbold
+1119	r. e. schapire
+1120	m. k. warmuth
+1121	n. cesa-bianchi
+1122	y. freund
+1123	d. p. helmbold
+1124	d. haussler
+1125	r. e. schapire
+1126	m. k. warmuth.
+1127	n. cesa-bianchi
+1128	y. freund
+1129	d. haussler
+1130	d. p. helmbold
+1131	r. e. schapire
+1132	m. k. warmuth
+1133	n. cesa-bianchi
+1134	y. freund
+1135	d. haussler
+1136	d. p. helmbold
+1137	r. e. schapire
+1138	m. k. warmuth.
+1139	n. cesa-bianchi
+1140	y. freund
+1141	d. p. helmbold
+1142	d. haussler
+1143	r. e. schapire
+1144	m. k. war-muth.
+1145	n. cesa-bianchi
+1146	y. freund
+1147	d. p. helmbold
+1148	d. haussler
+1149	r. e. schapire
+1150	m. k. warmuth.
+1151	cesa-bianchi n.
+1152	freund y.
+1153	haussler d.
+1154	helmbold d. p.
+1155	schapire r. e.
+1156	warmuth m. k.
+1157	nicolo cesa-bianchi
+1158	yoav freund
+1159	david haussler
+1160	david p. helmbold
+1161	robert e. schapire
+1162	manfred k. warmuth.
+1163	nicolo cesa-bianchi
+1164	yoav freund
+1165	david haussler
+1166	david p. helmbold
+1167	robert e. schapire
+1168	manfred k. warmuth.
+1169	n. cesa-bianchi
+1170	y. freund
+1171	d. haussler
+1172	d. p. helmbold
+1173	r. e. schapire
+1174	m. k. warmuth
+1175	n. cesa-bianchi
+1176	y. freund
+1177	d. haussler
+1178	d. p. helmbold
+1179	r. e. schapire
+1180	m. k. warmuth
+1181	william w. cohen
+1182	rob schapire
+1183	yoram singer.
+1184	william w. cohen
+1185	robert e. schapire
+1186	yoram singer.
+1187	william w. cohen
+1188	robert e. schapire
+1189	yoram singer.
+1190	w. w. cohen
+1191	r. e. shapire
+1192	y. singer.
+1193	h. drucker
+1194	r. schapire
+1195	p. simard.
+1196	harris drucker
+1197	robert schapire
+1198	patrice simard.
+1199	harris drucker
+1200	robert schapire
+1201	patrice simard.
+1202	drucker h.
+1203	schapire r. e.
+1204	simard p.
+1205	drucker h.
+1206	schapire r.
+1207	simard p.
+1208	drucker h.
+1209	schapire r.
+1210	simard p.
+1211	drucker harris
+1212	schapire robert
+1213	simard patrice up .
+1214	h. drucker
+1215	r. schapire
+1216	p. simard.
+1217	harris drucker
+1218	robert schapire
+1219	patrice simard.
+1220	h. drucker
+1221	r. schapire
+1222	p. simard
+1223	harris drucker
+1224	robert schapire
+1225	patrice simard.
+1226	harris drucker
+1227	robert schapire
+1228	patrice simard.
+1229	h. drucker
+1230	r. schapire
+1231	p. simard.
+1232	harris drucker
+1233	robert schapire
+1234	patrice simard.
+1235	m. feder
+1236	y. freund
+1237	y. mansour.
+1238	m. feder
+1239	y. freund
+1240	y. mansour.
+1241	m. feder
+1242	yoav freund
+1243	yishay mansour
+1244	m. feder
+1245	y. freund
+1246	y. mansour.
+1247	yoav freund.
+1248	freund y.
+1249	freund y.
+1250	freund y.
+1251	freund y.
+1252	freund y.
+1253	freund y.
+1254	freund y.
+1255	yoav freund.
+1256	yoav freund.
+1257	yoav freund.
+1258	yoav freund.
+1259	yoav freund.
+1260	yoav freund.
+1261	y. freund.
+1262	yoav freund.
+1263	freund y.
+1264	y. freund.
+1265	y. freund.
+1266	y. freund
+1267	m. j. kearns
+1268	d. ron
+1269	r. rubinfeld
+1270	r. e. schapire
+1271	l. sellie.
+1272	y. freund
+1273	m. kearns
+1274	d. ron
+1275	r. rubinfeld
+1276	r.e. schapire
+1277	l. sellie.
+1278	yoav freund
+1279	michael kearns
+1280	dana ron
+1281	ronitt rubinfeld
+1282	robert schapire
+1283	linda sellie.
+1284	y. freund
+1285	m. kearns
+1286	d. ron
+1287	r. rubinfeld
+1288	r.e. schapire
+1289	l. sellie.
+1290	y. freund
+1291	m. kearns
+1292	d. ron
+1293	r. rubinfeld
+1294	r. schapire
+1295	l. sellie.
+1296	yoav freund
+1297	michael kearns
+1298	dana ron
+1299	ronitt rubinfeld
+1300	robert schapire
+1301	linda sellie.
+1302	y. freund
+1303	m. kearns
+1304	d. ron
+1305	r. rubinfeld
+1306	r. schapire
+1307	l. sellie.
+1308	yoav freund
+1309	michael j. kearns
+1310	dana ron
+1311	ronitt rubinfeld
+1312	robert e. schapire
+1313	linda sellie.
+1314	y. freund
+1315	m. kearns
+1316	d. ron
+1317	r. rubinfeld
+1318	r. schapire
+1319	l. sellie.
+1320	y. freund
+1321	m. kearns
+1322	d. ron
+1323	r. rubinfeld
+1324	r. schapire
+1325	l. sellie.
+1326	y. freund
+1327	m. kearns
+1328	d. ron
+1329	r. rubinfeld
+1330	r.e. schapire
+1331	l. sellie
+1332	yoav freund
+1333	michael kearns
+1334	dana ron
+1335	ronitt rubinfeld
+1336	robert schapire
+1337	linda sellie.
+1338	yoav freund
+1339	michael kearns
+1340	dana ron
+1341	ronitt rubenfeld
+1342	robert schapire
+1343	linda sellie.
+1344	y. freund
+1345	m. j. kearns
+1346	d. ron
+1347	r. rubinfeld
+1348	r. e. schapire
+1349	l. sellie.
+1350	y. freund
+1351	m. kearns
+1352	d. ron
+1353	r. rubinfeld
+1354	r.e. schapire
+1355	l. sellie.
+1356	y. freund
+1357	m. kearns
+1358	d. ron
+1359	r. rubinfeld
+1360	r. e. schapire
+1361	l. sellie.
+1362	y. freund
+1363	m. kearns
+1364	d. ron
+1365	r. rubinfeld
+1366	r.e. schapire
+1367	l. sellie.
+1368	y. freund
+1369	m. kearns
+1370	d. ron
+1371	r. rubinfeld
+1372	r. schapire
+1373	l. sellie.
+1374	yoav freund
+1375	michael kearns
+1376	dana ron
+1377	ronitt rubinfeld
+1378	robert schapire
+1379	linda sellie.
+1380	y. freund
+1381	m. kearns
+1382	d. ron
+1383	r. rubinfeld
+1384	r. e. schapire
+1385	l. sellie.
+1386	freund y.
+1387	kearns m. j.
+1388	ron d.
+1389	rubinfeld r.
+1390	schapire r. e.
+1391	sellie l.
+1392	m. kearns
+1393	y. mansour
+1394	d. ron
+1395	r. rubinfeld
+1396	r. schapire
+1397	l. sellie.
+1398	yoav freund.
+1399	freund y.
+1400	freund y.
+1401	yoav freund.
+1402	yoav freund
+1403	h. sebastian seung
+1404	eli shamir
+1405	naftali tishby.
+1406	y. freund.
+1407	y. freund.
+1408	yoav freund.
+1409	freund y.
+1410	freund y.
+1411	freund y.
+1412	freund y.
+1413	freund y.
+1414	freund y.
+1415	yoav freund.
+1416	yoav freund.
+1417	yoav freund.
+1418	yoav freund.
+1419	yoav freund.
+1420	yoav freund.
+1421	yoav freund.
+1422	freund y.
+1423	freund y.
+1424	schapire r. e.
+1425	freud y.
+1426	kearns m.
+1427	mansour y.
+1428	ron d.
+1429	rubinfeld r.
+1430	shapire r. e.
+1431	y. freund
+1432	m. kearns
+1433	y. mansour
+1434	d. ron
+1435	r. rubinfeld
+1436	r. schapire.
+1437	yoav freund
+1438	michael j. kearns
+1439	yishay mansour
+1440	dana ron
+1441	ronitt rubinfeld
+1442	robert e. schapire.
+1443	y. freund
+1444	m. kearns
+1445	y. mansour
+1446	d. ron
+1447	r. rubinfeld
+1448	r. schapire.
+1449	y. freund
+1450	m. kearns
+1451	y. mansour
+1452	d. ron
+1453	r. rubinfeld
+1454	r. e. schapire.
+1455	freund y.
+1456	m. kearns et al.
+1457	y. freund
+1458	m. kearns
+1459	y. mansour
+1460	d. ron
+1461	r. rubinfeld
+1462	r. e. schapire.
+1463	y. freund.
+1464	y. freund
+1465	y. freund
+1466	yoav freund.
+1467	freund y.
+1468	schapire r. e.
+1469	y. freund
+1470	r. schapire.
+1471	s. a. goldman
+1472	m. j. kearns
+1473	r. e. schapire.
+1474	s. a. goldman
+1475	m. j. kearns
+1476	r. e. schapire.
+1477	s. a. goldman
+1478	m. j. kearns
+1479	r. e. schapire.
+1480	s. a. goldman
+1481	m. j. kearns
+1482	r. e. schapire.
+1483	s. a. goldman
+1484	m. j. kearns
+1485	r. e. schapire.
+1486	s. a. goldman
+1487	m. j. kearns
+1488	r. e. schapire.
+1489	sally a. goldman
+1490	michael j. kearns
+1491	robert e. schapire.
+1492	sally a. goldman
+1493	michael j. kearns
+1494	robert e. schapire.
+1495	s. a. goldman
+1496	m. j. kearns
+1497	r. e. schapire.
+1498	s. goldman
+1499	m. kearns
+1500	r. schapire.
+1501	david haussler
+1502	michael kearns
+1503	nick littlestone
+1504	manfred k. war-muth.
+1505	david haussler
+1506	michael kearns
+1507	nick littlestone
+1508	manfred k. warmuth.
+1509	d. haussler
+1510	m. kearns
+1511	r. schapire
+1512	d. haussler
+1513	m. kearns
+1514	r. schapire
+1515	haussler d.
+1516	kearns m.
+1517	schapire r.
+1518	haussler d.
+1519	kearns m.
+1520	schapire r.
+1521	haussler d.
+1522	kearns m.
+1523	schapire r.
+1524	d. haussler
+1525	m. kearns
+1526	h. s. seung
+1527	n. tishby.
+1528	haussler d.
+1529	kearns m. j.
+1530	seung h. s.
+1531	tishby n.
+1532	haussler d.
+1533	kearns m.
+1534	seung h. s.
+1535	tishby n.
+1536	haussler d.
+1537	kearns m.
+1538	seung h. s.
+1539	tishby n.
+1540	haussler d.
+1541	kearns m.
+1542	seung h. s.
+1543	tishby n.
+1544	haussler d.
+1545	kearns m.
+1546	seung h. s.
+1547	tishby n.
+1548	d. haussler
+1549	m. kearns
+1550	h. s. seung
+1551	n. tishby.
+1552	d. haussler
+1553	m. kearns
+1554	h. s. seung
+1555	n. tishby.
+1556	d. haussler
+1557	m. kearns
+1558	h.s. seung
+1559	n. tishby.
+1560	d. haussler
+1561	m. kearns
+1562	h.s. seung
+1563	n. tishby.
+1564	d. haussler
+1565	m. kearns
+1566	h. s. seung
+1567	n. tishby.
+1568	d. haussler
+1569	m. kearns
+1570	h. s. seung
+1571	n. tishby.
+1572	haussler d.
+1573	m. kearns
+1574	h. s. seung
+1575	n. tishby
+1576	haussler d.
+1577	m. kearns
+1578	h. s. seung
+1579	n. tishby.
+1580	d. haussler
+1581	m. kearns
+1582	h.s. seung
+1583	n. tishby
+1584	d. haussler
+1585	m. kearns
+1586	h.s. seung
+1587	n. tishby
+1588	d. haussler
+1589	m. kearns
+1590	s. seung
+1591	n tishby
+1592	d. haussler
+1593	m. kearns
+1594	h. s. seung
+1595	n. tishby
+1596	d. haussler
+1597	m. kearns
+1598	h. s. seung
+1599	n. tishby.
+1600	david haussler
+1601	michael kearns
+1602	robert e. schapire.
+1603	david haussler
+1604	michael kearns
+1605	robert e. schapire.
+1606	haussler david
+1607	kearns michael
+1608	schapire robert
+1609	haussler d.
+1610	kearns m.
+1611	schapire r.e.
+1612	david haussler
+1613	michael kearns
+1614	robert schapire.
+1615	d. haussler
+1616	m. kearns
+1617	r. e. schapire.
+1618	d. haussler
+1619	m. kearns
+1620	r. schapire.
+1621	d. haussler
+1622	m. kearns
+1623	r. schapire.
+1624	d. haussler
+1625	m. kearns
+1626	r. e. schapire.
+1627	d. haussler
+1628	m. kearns
+1629	r. e. schapire.
+1630	d. haussler
+1631	m. kearns
+1632	r. schapire.
+1633	d. haussler
+1634	m kearns
+1635	r. shapire.
+1636	d. haussler
+1637	m. kearns
+1638	r. schapire.
+1639	david haussler
+1640	michael kearns
+1641	robert e. schapire.
+1642	d. haussler
+1643	m. kearns
+1644	r. schapire.
+1645	d. haussler
+1646	m. kearns
+1647	r. schapire.
+1648	d. haussler
+1649	m. kearns
+1650	h.s. seung
+1651	n. tishby.
+1652	david haussler
+1653	michael kearns
+1654	h. sebastian seung
+1655	naftali tishby.
+1656	d. haussler
+1657	m. kearns
+1658	h.s. seung
+1659	n. tishby.
+1660	d.p. helmbold
+1661	r.e. schapire.
+1662	david p. helmbold
+1663	robert e. schapire.
+1664	david p. helmhold
+1665	robert e. schapire.
+1666	david p. helmbold
+1667	robert e. schapire.
+1668	d. p. helmbold
+1669	r. e. schapire.
+1670	d. p. helmbold
+1671	r. e. schapire.
+1672	david p. helmbold
+1673	robert e. schapire
+1674	yoram singer
+1675	manfred k. warmuth.
+1676	d. p. helmbold
+1677	r. e. schapire
+1678	y. singer
+1679	m. k. warmuth.
+1680	d.p. helmbold
+1681	r.e. schapire
+1682	y. singer m.k. warmuth
+1683	d. p. helmbold
+1684	r. e. schapire
+1685	y. singer
+1686	m. k. warmuth.
+1687	d. helmbold
+1688	r. e. schapire
+1689	y. singer
+1690	m. k. warmuth.
+1691	helmbold d. p.
+1692	schapire r. e.
+1693	d.p. helmbold
+1694	r.e. schapire.
+1695	kautz henry
+1696	kearns michael
+1697	selman bart
+1698	m. kearns
+1699	m. li
+1700	l. pitt
+1701	l. g. valiant.
+1702	m. kearns
+1703	m. li
+1704	l. pitt
+1705	l. valiant.
+1706	m. kearns
+1707	m. li
+1708	l. pitt
+1709	l. valiant.
+1710	kearns m. j.
+1711	li m.
+1712	pitt l.
+1713	valiant l.
+1714	kearns m.
+1715	li m.
+1716	pitt l.
+1717	valiant l.
+1718	kearns m.
+1719	li m.
+1720	pitt l.
+1721	valiant l.g.
+1722	kearns m.
+1723	li m.
+1724	pitt l.
+1725	valiant l.
+1726	m. kearns
+1727	m. li
+1728	l. pitt
+1729	l. valiant
+1730	m. kearns
+1731	m. li
+1732	l. pitt
+1733	l.g. valiant
+1734	michael kearns
+1735	ming li
+1736	leonard pitt
+1737	leslie valiant.
+1738	m. kearns
+1739	m. li
+1740	l. pitt
+1741	l. valiant
+1742	m. kearns
+1743	m. li
+1744	l. pitt
+1745	l. valiant.
+1746	michael kearns
+1747	ming li
+1748	lenny pitt
+1749	leslie g. valiant.
+1750	michael kearns
+1751	ming li
+1752	leonard pitt
+1753	leslie valiant.
+1754	m. kearns
+1755	m. li
+1756	l. pitt
+1757	l.g. valiant.
+1758	m. kearns
+1759	m. li
+1760	l. pitt
+1761	l. g. valiant.
+1762	kearns m.
+1763	li m.
+1764	pitt l.
+1765	valiant
+1766	l. g.
+1767	kearns m.
+1768	li m.
+1769	pitt l.
+1770	valiant l.
+1771	m. kearns
+1772	m. li
+1773	l. pitt
+1774	l. g. valiant.
+1775	michael kearns
+1776	ming li
+1777	leonard pitt
+1778	leslie valiant.
+1779	m. j. kearns
+1780	m. li
+1781	l. pitt
+1782	l. valiant
+1783	m. kearns
+1784	m. li
+1785	l. pitt
+1786	l. valiant.
+1787	m. kearns
+1788	m. li
+1789	l. pitt
+1790	l.g. valiant.
+1791	m. kearns
+1792	m. li
+1793	l. pitt
+1794	l.g. valiant.
+1795	michael kearns
+1796	ming li
+1797	leonard pitt
+1798	leslie valiant.
+1799	m. kearns
+1800	m. li
+1801	l. pitt
+1802	l. valiant.
+1803	michael kearns
+1804	ming li
+1805	leonard pitt
+1806	leslie valiant.
+1807	m. kearns
+1808	m. li
+1809	l. pitt
+1810	l. valiant
+1811	kearns m.
+1812	m. li
+1813	l. pitt
+1814	l. valiant
+1815	m. kearns
+1816	m. li
+1817	l. pitt
+1818	l. g. valiant.
+1819	m. kearns
+1820	m. li
+1821	l. pitt
+1822	l. valiant.
+1823	m. kearns
+1824	m. li
+1825	l. pitt
+1826	l. valiant.
+1827	m. kearns
+1828	m. li
+1829	l. pitt
+1830	l. valiant.
+1831	michael kearns
+1832	ming li
+1833	leonard pitt
+1834	leslie valiant.
+1835	michael kearns
+1836	ming li
+1837	leonard pitt
+1838	leslie valiant.
+1839	m. kearns
+1840	m. li
+1841	l. pitt
+1842	l.g. valiant.
+1843	kearns m.
+1844	m. li
+1845	l. pitt
+1846	l. valiant
+1847	kearns m. j.
+1848	li m.
+1849	kearns m. j.
+1850	li m.
+1851	kearns m.
+1852	li m.
+1853	m. kearns
+1854	m.
+1855	m. kearns
+1856	m. li
+1857	m. kearns
+1858	m. li.
+1859	m. kearns
+1860	m. li
+1861	m. kearns
+1862	m. li.
+1863	m. kearns
+1864	m. li
+1865	michael kearns
+1866	ming li.
+1867	michael kearns
+1868	ming li.
+1869	michael kearns
+1870	ming li.
+1871	michael kearns
+1872	ming li.
+1873	michael kearns
+1874	ming li.
+1875	michael kearns
+1876	ming li.
+1877	michael kearns
+1878	ming li.
+1879	michael kearns
+1880	ming li.
+1881	michael kearns
+1882	ming li.
+1883	kearns m.
+1884	m. li
+1885	m. kearns
+1886	m. li.
+1887	m. kearns
+1888	m. li.
+1889	michael kearns
+1890	ming li.
+1891	michael kearns
+1892	ming li.
+1893	michael kearns
+1894	ming li.
+1895	michael kearns.
+1896	m. kearns
+1897	l. g. valiant.
+1898	m. kearns
+1899	l. valiant.
+1900	kearns m.
+1901	valiant l.
+1902	kearns m. j.
+1903	valiant l. g.
+1904	kearns m.
+1905	valiant l. g.
+1906	kearns m.
+1907	valiant l.
+1908	kearns m.
+1909	valiant l. g.
+1910	kearns m.
+1911	valiant l. g.
+1912	m. kearns
+1913	l. valiant.
+1914	m. kearns
+1915	l. valiant.
+1916	kearns m.
+1917	valiant l.
+1918	m. kearns
+1919	l. valiant
+1920	m. kearns
+1921	l. valiant
+1922	michael kearns
+1923	leslie valiant.
+1924	m. kearns
+1925	l. valiant.
+1926	michael kearns
+1927	leslie g. valiant.
+1928	michael kearns
+1929	leslie g. valiant.
+1930	kearns m.
+1931	valiant l. g.
+1932	michael kearns
+1933	leslie g. valiant.
+1934	michael kearns
+1935	leslie g. valiant.
+1936	m. kearns
+1937	l. valiant.
+1938	m. kearns
+1939	l. valiant.
+1940	michael kearns
+1941	leslie g. valiant.
+1942	michael kearns
+1943	leslie valiant.
+1944	michael kearns
+1945	leslie valiant.
+1946	m. kearns
+1947	l. g. valiant.
+1948	m. j. kearns
+1949	l. g. valiant.
+1950	michael kearns
+1951	leslie g. valiant.
+1952	kearns m.
+1953	l. valiant
+1954	kearns m.
+1955	valiant l.g.
+1956	m. kearns
+1957	l. valiant
+1958	m. j. kearns
+1959	l. g. valiant.
+1960	m. j. kearns
+1961	l. g. valiant.
+1962	m. kearns
+1963	l. g. valiant.
+1964	m. kearns
+1965	l. g. valiant.
+1966	m. kearns
+1967	l. g. valiant.
+1968	m. kearns
+1969	l. g. valiant.
+1970	m. kearns
+1971	l.g. valiant.
+1972	michael kearns
+1973	leslie valient.
+1974	m. kearns
+1975	l. valiant.
+1976	kearns m.
+1977	kearns m.
+1978	kearns m.
+1979	kearns m. j.
+1980	r. e. schapire
+1981	l. m. sellie.
+1982	kearns m. j.
+1983	schapire r. e.
+1984	sellie l. m.
+1985	kearns m. j.
+1986	schapire r. e.
+1987	sellie l. m.
+1988	kearns m.j.
+1989	schapire r.e.
+1990	sellie l.m.
+1991	m. kearns
+1992	r. schapire
+1993	l. sellie.
+1994	m. j. kearns
+1995	r. e. schapire
+1996	l. m. sellie.
+1997	kearns m.
+1998	schapire r.
+1999	sellie l.
+2000	michael j. kearns
+2001	robert e. schapire
+2002	linda m. sellie.
+2003	m. j. kearns
+2004	r. e. schapire
+2005	l. m. sallie
+2006	michael j. kearns
+2007	robert e. schapire
+2008	linda m. sellie.
+2009	m. j. kearns
+2010	r. e. schapire
+2011	l. m. sellie.
+2012	m. kearns
+2013	r. schapire
+2014	l. sellie
+2015	m. kearns
+2016	r. schapire
+2017	l. sellie
+2018	m. j. kearns
+2019	r. e. schapire
+2020	l. m. sellie.
+2021	m. j. kearns
+2022	r. e. schapire
+2023	l. m. sellie.
+2024	m.j. kearns
+2025	r.e. schapire
+2026	l.m. sellie
+2027	m. j. kearns
+2028	r. e. schapire
+2029	l. m. sellie.
+2030	m. j. kearns
+2031	r. e. schapire
+2032	l. m. sellie.
+2033	m. j. kearns
+2034	r. e. schapire
+2035	l. m. sellie
+2036	m. j. kearns
+2037	r. e. schapire
+2038	l. m. sellie.
+2039	m. j. kearns
+2040	r. e. schapire
+2041	l. m. sellie.
+2042	m. j. kearns
+2043	r. e. schapire
+2044	l. m. sellie.
+2045	m. j. kearns
+2046	r. e. schapire
+2047	l. m. sellie.
+2048	m. kearns
+2049	e. schapire
+2050	l. sellie
+2051	m. kearns
+2052	r.e. schapire
+2053	l.m. sellie.
+2054	m. j. kearns
+2055	r. e. schapire
+2056	l. m. sel-lie.
+2057	m. kearns
+2058	r.e. schapire
+2059	l.m. sellie
+2060	m. kearns
+2061	m. li.
+2062	m. kearns
+2063	m. li.
+2064	m. kearns
+2065	m. li.
+2066	m. kearns
+2067	m. li.
+2068	kearns m.
+2069	li m.
+2070	m. kearns
+2071	m. li.
+2072	m. kearns
+2073	m. li.
+2074	michael kearns
+2075	ming li.
+2076	m. kearns
+2077	m. li.
+2078	m. kearns
+2079	m. li.
+2080	m. kearns
+2081	m. li.
+2082	michael kearns
+2083	ming li.
+2084	michael kearns
+2085	ming li.
+2086	m. kearns
+2087	m. li.
+2088	m. kearns
+2089	m. li.
+2090	michael kearns
+2091	ming li.
+2092	michael kearns
+2093	ming li.
+2094	michael kearns
+2095	ming li.
+2096	m. kearns
+2097	m. li.
+2098	m. kearns
+2099	m. li
+2100	michael kearns
+2101	ming li.
+2102	m. kearns.
+2103	m.j. kearns.
+2104	m. kearns.
+2105	m. kearns.
+2106	m. kearns.
+2107	m.j. kearns.
+2108	kearns m.
+2109	kearns m.
+2110	kearns m.
+2111	kearns m.
+2112	kearns m. j.
+2113	m. kearns.
+2114	m. kearns.
+2115	m. kearns
+2116	michael kearns.
+2117	m. kearns.
+2118	michael j. kearns.
+2119	m. kearns.
+2120	m. kearns.
+2121	michael kearns.
+2122	michael kearns.
+2123	m. kearns.
+2124	m. kearns.
+2125	m. kearns.
+2126	m. kearns.
+2127	m. kearns.
+2128	michael kearns.
+2129	michael kearns.
+2130	m.j. kearns.
+2131	m. kearns.
+2132	m. kearns.
+2133	micahel kearns.
+2134	michael j. kearns
+2135	h. sebastian seung.
+2136	michael kearns.
+2137	m. j. kearns.
+2138	michael kearns.
+2139	michael kearns.
+2140	m. j. kearns.
+2141	m. kearns.
+2142	m. kearns
+2143	m. kearns.
+2144	m. kearns.
+2145	m. kearns.
+2146	m. kearns.
+2147	michael kearns.
+2148	michael kearns.
+2149	kearns m.
+2150	m. kearns.
+2151	seung
+2152	seung
+2153	m. kearns
+2154	h. seung.
+2155	michael j. kearns
+2156	h. sebastian seung.
+2157	m. j. kearns
+2158	u. v. vazirani.
+2159	m.j. kearns
+2160	u.v. vazirani.
+2161	kearns m.
+2162	vazirani u.
+2163	kearns m.
+2164	vazirani u.
+2165	kearns m.
+2166	vazirani u.
+2167	kearns m. j.
+2168	vazirani u. v.
+2169	kearns m. j.
+2170	vazirani u. v.
+2171	kearns m. j.
+2172	vazirani u. v.
+2173	kearns m. j.
+2174	vazirani u. v.
+2175	kearns m. j.
+2176	vazirani u. v.
+2177	kearns m. j.
+2178	vazirani u. v.
+2179	kearns m.
+2180	vazirani u.
+2181	kearns m.
+2182	vazirani u.
+2183	kearns michael
+2184	umesh vazirani.
+2185	m. kearns
+2186	u. vazirani.
+2187	michael kearns
+2188	umesh vazarani.
+2189	m. kearns
+2190	u. vazirani.
+2191	michael j. kearns
+2192	umesh v. vazirani.
+2193	michael j. kearns
+2194	umesh v. vazirani.
+2195	m.j. kearns
+2196	u.v. vazirani.
+2197	m. j. kearns
+2198	u. v. vazirani.
+2199	m. j. kearns
+2200	u. v. vazirani.
+2201	michael j. kearns
+2202	umesh v. vazirani.
+2203	michael j. kearns
+2204	umesh virkumar vazirani.
+2205	kearns m.
+2206	vazirani u.
+2207	m. j. kearns
+2208	u. v. vazirani.
+2209	michael j. kearns
+2210	umesh v. vazirani.
+2211	m. kearns
+2212	u. vazirani.
+2213	m. kearns
+2214	u. vazirani.
+2215	m. kearns
+2216	u. vazirani.
+2217	michael j. kearns
+2218	umesh v. vazirani.
+2219	m.j. kearns
+2220	u.v. vazirani.
+2221	m.j. kearns
+2222	u. vazirani
+2223	m. j. kearns
+2224	u. v. vazirani.
+2225	m. j. kearns
+2226	u.v. vazirani.
+2227	m j kearns
+2228	u v varizani.
+2229	m. j. kearns
+2230	u. v. vazirani.
+2231	m. j. kearns
+2232	u. v. vazirani.
+2233	m. kearns
+2234	u. vazirani.
+2235	m. kearns
+2236	u. vazirani.
+2237	kearns m. j.
+2238	vazirani u. v.
+2239	kearns m.j.
+2240	vazirani u.v.
+2241	kearns m.
+2242	vazirani u.
+2243	eric bauer
+2244	ron kohavi
+2245	wolpert d. h.
+2246	blum a.
+2247	furst m.
+2248	jackson j.
+2249	kearns m.
+2250	mansour y.
+2251	rudich s.
+2252	blum a.
+2253	furst m.
+2254	jackson j.
+2255	kearns m.
+2256	mansour y.
+2257	rudich s.
+2258	blum a.
+2259	furst m.
+2260	jackson j.
+2261	kearns m.
+2262	mansour y.
+2263	rudich s.
+2264	a. blum
+2265	m. furst
+2266	j. jackson
+2267	m. kearns
+2268	y. mansour
+2269	s. rudich.
+2270	avrim blum
+2271	merrick furst
+2272	jeffrey jackson
+2273	michael kearns
+2274	yishay mansour
+2275	steven rudich.
+2276	avrim blum
+2277	merrick furst
+2278	jeffery jackson
+2279	michael kearns
+2280	yishay mansour
+2281	steven rudich.
+2282	avrim blum
+2283	merrick furst
+2284	jeffery jackson
+2285	michael kearns
+2286	yishay mansour
+2287	steven rudich.
+2288	avrim blum
+2289	merrick furst
+2290	jeffery jackson
+2291	michael kearns
+2292	yishay mansour
+2293	steven rudich.
+2294	a. blum
+2295	m. furst
+2296	j. jackson
+2297	m. kearns
+2298	y. mansour
+2299	s. rudich.
+2300	blum a.
+2301	m. furst
+2302	j. jackson
+2303	m. kearns
+2304	y. mansour
+2305	s. rudich
+2306	n. cesa-bianchi
+2307	y. freund
+2308	d. p. helmbold
+2309	m. warmuth.
+2310	n. cesa-bianchi
+2311	y. freund
+2312	d. p. helmbold
+2313	m. warmuth.
+2314	cesa-bianchi n.
+2315	freund y.
+2316	helmbold
+2317	cesa-bianchi n.
+2318	freund y.
+2319	helmbold d. p.
+2320	warmuth m.
+2321	cesa-bianchi n.
+2322	freund y.
+2323	helmbold d. p.
+2324	warmuth
+2325	m.
+2326	cesa-bianchi n.
+2327	y. freund
+2328	d. p. helmbold
+2329	m. warmuth.
+2330	n. cesa-bianchi
+2331	y. freund
+2332	d. p. helmbold
+2333	m. warmuth.
+2334	n. cesa-bianchi
+2335	y. freund
+2336	d.p. helmbold
+2337	m. warmuth.
+2338	n. cesa-bianchi
+2339	y. freund
+2340	d. p. helmbold
+2341	m. warmuth.
+2342	n. cesa-bianchi
+2343	y. freund
+2344	d. helmbold
+2345	m.k. warmuth.
+2346	n. cesa-bianchi
+2347	y. freund
+2348	d. p. helm-bold
+2349	m. warmuth.
+2350	n. cesa-bianchi
+2351	y. freund
+2352	d. p. helmbold
+2353	m. k. warmuth
+2354	n. cesa-bianchi
+2355	y. freund
+2356	d. p. helmbold
+2357	m. k. warmuth.
+2358	n. cesa-bianchi
+2359	y. freund
+2360	t. g. dietterich
+2361	m. kearns
+2362	y. mansour.
+2363	dietterich t. g.
+2364	kearns m.
+2365	mansour y.
+2366	dietterich t.
+2367	kearns m.
+2368	mansour y.
+2369	dietterich t.
+2370	kearns m.
+2371	mansour y.
+2372	dietterich t.
+2373	m. kearns
+2374	y. mansour
+2375	dietterich t.
+2376	m. kearns
+2377	y. mansour
+2378	t. dietterich
+2379	m. kearns
+2380	y. mansour.
+2381	tom dietterich
+2382	michael kearns
+2383	yishay mansour.
+2384	t. dietterich
+2385	m. kearns
+2386	y. mansour.
+2387	t. dietterich
+2388	m. kearns
+2389	y. mansour.
+2390	ehrenfeucht a.
+2391	haussler d.
+2392	kearns m.
+2393	valiant l.
+2394	ehrenfeucht a.
+2395	haussler d.
+2396	kearns m.
+2397	valiant l.g.
+2398	a. ehrenfeucht
+2399	d. haussler
+2400	m. kearns
+2401	l. valiant.
+2402	a. ehrenfeucht
+2403	d. haussler
+2404	m. kearns
+2405	l. g. valiant
+2406	ehrenfeucht a.
+2407	haussler d.
+2408	kearns m.
+2409	valiant l.
+2410	a. ehrenfeucht
+2411	d. haussler
+2412	m. kearns
+2413	l. valiant.
+2414	a. ehrenfeucht
+2415	d. haussler
+2416	m. kearns.
+2417	l.g. valiant.
+2418	a. ehrenfeucht
+2419	d. haussler
+2420	m. kearns
+2421	l. valiant.
+2422	a. ehrenfeucht
+2423	d. haussler
+2424	m. kearns
+2425	l. valiant.
+2426	a. ehrenfeucht
+2427	d. haussler
+2428	m. kearns
+2429	l.g. valiant.
+2430	a. ehrenfeucht
+2431	d. haussler
+2432	m. kearns
+2433	l. valiant.
+2434	a. ehrenfeucht
+2435	d. haussler
+2436	m. kearns
+2437	l. valiant.
+2438	a. ehrenfeucht
+2439	d. haussler
+2440	m. kearns
+2441	l.g. valiant
+2442	ehrenfeucht a.
+2443	haussler d.
+2444	kearns m.
+2445	valiant l.g.
+2446	ehrenfeucht a.
+2447	haussler d.
+2448	kearns m. j.
+2449	valiant l.
+2450	ehrenfeucht a.
+2451	haussler d.
+2452	kearns m.
+2453	valiant l. g.
+2454	ehrenfeucht a.
+2455	haussler d.
+2456	kearns m.
+2457	valiant l.g.
+2458	ehrenfeucht a.
+2459	haussler d.
+2460	kearns m.
+2461	valiant l.
+2462	ehrenfeucht a.
+2463	haussler d.
+2464	kearns m.
+2465	valiant l.
+2466	ehrenfeucht a.
+2467	haussler d.
+2468	kearns m.
+2469	valiant l.
+2470	ehrenfeucht andrzej
+2471	haussler david
+2472	kearns michael
+2473	valiant leslie
+2474	a. ehrenfeucht
+2475	d. haussler
+2476	m. kearns
+2477	l. valiant.
+2478	a. ehrenfeucht
+2479	d. haussler
+2480	m. kearns
+2481	l.g. valiant.
+2482	andrzej ehrenfeucht
+2483	david haussler
+2484	michael kearns
+2485	leslie valiant.
+2486	andrzej ehrenfeucht
+2487	david haussler
+2488	michael kearns
+2489	leslie valiant.
+2490	a. ehrenfeucht
+2491	d. haussler
+2492	m. kearns
+2493	l.g. valiant.
+2494	ehrenfeucht a.
+2495	haussler d.
+2496	kearns m.
+2497	valiant l.
+2498	andrzej ehrenfeucht
+2499	david haussler
+2500	michael kearns
+2501	leslie valiant.
+2502	a. ehrenfeucht
+2503	d. haussler
+2504	m. kearns.
+2505	l.g. valiant.
+2506	a. ehrenfeucht
+2507	d. haussler
+2508	m. kearns
+2509	l. valiant.
+2510	andrzej ehrenfeucht
+2511	david haussler
+2512	michael kearns
+2513	leslie valiant.
+2514	a. ehrenfeucht
+2515	d. haussler
+2516	m. kearns
+2517	l. valiant.
+2518	a. ehrenfeucht
+2519	d. haussler
+2520	m. kearns
+2521	l. valiant.
+2522	a. ehrenfeucht
+2523	d. haussler
+2524	m. j. kearns
+2525	l. g. valiant.
+2526	andrzej ehrenfeucht
+2527	david haussler
+2528	michael kearns
+2529	leslie valiant.
+2530	a. ehrenfeucht
+2531	d. haussler
+2532	m. kearns
+2533	l.g. valiant.
+2534	andrzej ehrenfeucht
+2535	david haussler
+2536	michael kearns
+2537	leslie valiant.
+2538	a. ehrenfeucht
+2539	d. haussler
+2540	m. j. kearns
+2541	l. valiant.
+2542	a. ehrenfeucht
+2543	d. haussler
+2544	m. kearns
+2545	l. valiant.
+2546	a. ehrenfeucht
+2547	d. haussler
+2548	m. kearns
+2549	l. valiant.
+2550	a. ehrenfeucht
+2551	d. haussler
+2552	m. kearns.
+2553	l.g. valiant.
+2554	andrzej ehrenfeucht
+2555	david haussler
+2556	michael kearns
+2557	leslie valiant.
+2558	a. ehrenfeucht
+2559	d. haussler
+2560	m. kearns
+2561	l. valiant.
+2562	a. ehrenfeucht
+2563	d. haussler
+2564	m. kearns
+2565	l. valiant.
+2566	a. ehrenfeucht
+2567	d. haussler
+2568	m. kearns
+2569	l.g. valiant.
+2570	a. ehrenfeucht
+2571	d. haussler
+2572	m. kearns
+2573	l.g. valiant.
+2574	freund y.
+2575	seung h.s.
+2576	shamir e.
+2577	tishby n.
+2578	freund y.
+2579	haussler d.
+2580	y. freund
+2581	d. haussler.
+2582	freund y
+2583	haussler d
+2584	y. freund
+2585	d. haussler.
+2586	freund y.
+2587	haussler d.
+2588	freund y.
+2589	haussler d.
+2590	y. freund
+2591	d. haussler.
+2592	yoav freund.
+2593	freund y.
+2594	freund y.
+2595	freund y.
+2596	freund y.
+2597	freund y.
+2598	freund y.
+2599	freund y.
+2600	freund y.
+2601	y. freund.
+2602	yoav freund.
+2603	yoav freund.
+2604	yoav freund.
+2605	yoav freund.
+2606	y. freund.
+2607	yoav freund.
+2608	freund y.
+2609	freund y.
+2610	y. freund.
+2611	y. freund.
+2612	y. freund
+2613	r. e. schapire.
+2614	y. freund
+2615	r. e. schapire.
+2616	yoav freund
+2617	robert e. schapire.
+2618	freund y.
+2619	schapire r. e.
+2620	freund y.
+2621	schapire r. e.
+2622	freund y.
+2623	schapire r. e.
+2624	freund y.
+2625	schapire r. e.
+2626	freund y.
+2627	schapire r. e.
+2628	freund y.
+2629	schapire r. e.
+2630	freund y.
+2631	schapire r. e.
+2632	freund y.
+2633	shapire r.
+2634	freund y.
+2635	schapire r.
+2636	freund y.
+2637	schapire r. e.
+2638	freund y.
+2639	schapire r.e.
+2640	freund y.
+2641	schapire r. e.
+2642	yoav freund
+2643	robert e. schapire.
+2644	yoav freund
+2645	robert e. schapire.
+2646	yoav freund
+2647	robert e. schapire.
+2648	yoav freund
+2649	robert e. schapire.
+2650	yoav freund
+2651	robert e. schapire.
+2652	yoav freund
+2653	robert e. schapire.
+2654	schapire r.e.
+2655	y. freund
+2656	y. freund
+2657	r.e. schapire.
+2658	yoav freund
+2659	robert e. schapire.
+2660	freund y.
+2661	schapire r. e.
+2662	yoav freund
+2663	robert e. schapire.
+2664	y. freund
+2665	r. schapire.
+2666	y. freund
+2667	r. schapire.
+2668	y. freund
+2669	r. schapire.
+2670	yoav freund
+2671	robert e. schapire.
+2672	schapire r.e.
+2673	y. freund
+2674	freund y.
+2675	schapire r.e.
+2676	y. freund
+2677	r. schapire.
+2678	y. freund
+2679	r. schapire.
+2680	yoav freund
+2681	robert e. schapire.
+2682	yoav freund
+2683	robert e. schapire.
+2684	y. freund
+2685	r.e. schapire.
+2686	y. freund
+2687	r. schapire
+2688	y. freund
+2689	r. schapire.
+2690	freund y.
+2691	schapire r.e.
+2692	freund y.
+2693	schapire r.e.
+2694	freund y.
+2695	schapire r.e.
+2696	freund y.
+2697	schapire r.e.
+2698	freund y.
+2699	schapire r. e.
+2700	freund y.
+2701	schapire r. e.
+2702	freund y.
+2703	schapire r. e.
+2704	freund y.
+2705	schapire r.e.
+2706	yoav freund
+2707	robert e. schapire.
+2708	freund y.
+2709	schapire r.e.
+2710	freund y.
+2711	schapire r. e.
+2712	singer y.
+2713	warmuth m. k.
+2714	yoav freund
+2715	robert e. schapire
+2716	yoram singer
+2717	man-fred k. warmuth.
+2718	yoav freund
+2719	robert e. schapire
+2720	yoram singer
+2721	manfred k. warmuth.
+2722	yoav freund
+2723	robert e. schapire
+2724	yoram singer
+2725	manfred k. warmuth.
+2726	yoav freund
+2727	robert e. schapire
+2728	yoram singer
+2729	manfred k. warmuth.
+2730	freund y.
+2731	seung h. s.
+2732	shamir e.
+2733	tishby n.
+2734	freund y.
+2735	seung h.
+2736	shamir e.
+2737	tishby n.
+2738	y. freund
+2739	h. seung
+2740	e. shamir
+2741	n. tishby.
+2742	y. freund
+2743	h. seung
+2744	e. shamir
+2745	n. tishby.
+2746	yoav freund
+2747	h. sebastian seung
+2748	eli shamir
+2749	naftali tishby
+2750	yoav freund
+2751	h. sebastian seung
+2752	eli shamir
+2753	naftali tishby
+2754	goldman s.
+2755	rivest r.
+2756	schapire r.
+2757	sally a. goldman
+2758	ronald l. rivest
+2759	robert e. schapire.
+2760	sally a. goldman
+2761	ronald l. rivest
+2762	robert e. schapire.
+2763	s.a. goldman
+2764	r.l. rivest
+2765	r.e. schapire.
+2766	sally a. goldman
+2767	ronald l. rivest
+2768	robert e. schapire.
+2769	sally a. goldman
+2770	ronald l. rivest
+2771	robert e. schapire.
+2772	goldman s. a.
+2773	kearns m. j.
+2774	s. a. goldman
+2775	m. j. kearns.
+2776	sally a. goldman
+2777	michael j. kearns.
+2778	s. goldman
+2779	m. kearns.
+2780	s. goldman
+2781	m. kearns
+2782	s. goldman
+2783	m. kearns.
+2784	goldman s.a.
+2785	m.j. kearns.
+2786	s.a goldman
+2787	m.j. kearns.
+2788	s. a. goldman
+2789	m. j. kearns.
+2790	goldman s.a.
+2791	m.j. kearns
+2792	sally a. goldman
+2793	michael j. kearns.
+2794	s. goldman
+2795	m. kearns.
+2796	sally a. goldman
+2797	michael j. kearns.
+2798	goldman s.
+2799	kearns m. j.
+2800	schapire r.
+2801	goldman s.
+2802	kearns m.
+2803	schapire r.
+2804	s. goldman
+2805	m. kearns
+2806	r. schapire.
+2807	s. a. goldman
+2808	m. j. kearns
+2809	r. e. schapire.
+2810	sally a. goldman
+2811	michael j. kearns
+2812	robert e. schapire.
+2813	sally a. goldman
+2814	michael j. kearns
+2815	robert e. schapire.
+2816	sally a. goldman
+2817	michael j. kearns
+2818	robert e. schapire.
+2819	sally a. goldman
+2820	michael j. kearns
+2821	robert e. schapire.
+2822	s. goldman
+2823	m. kearns
+2824	r. schapire.
+2825	s. goldman
+2826	m. kearns
+2827	r. schapire.
+2828	sally a. goldman
+2829	michael j. kearns
+2830	robert e. schapire.
+2831	s. a. goldman
+2832	m. j. kearns.
+2833	goldman s. a.
+2834	kearns m. j.
+2835	s. a. goldman
+2836	m. j. kearns.
+2837	s. a. goldman
+2838	m. j. kearns.
+2839	s. a. goldman
+2840	m. j. kearns.
+2841	david haussler
+2842	michael kearns
+2843	nick littlestone
+2844	manfred k. warmuth.
+2845	d. haussler
+2846	m. kearns
+2847	n. littlestone
+2848	m. k. warmuth.
+2849	d. haussler
+2850	m. kearns
+2851	n. littlestone
+2852	m. k. war-muth.
+2853	d. haussler
+2854	m. kearns
+2855	n. littlestone
+2856	m. k. warmuth.
+2857	d. haussler
+2858	m. kearns
+2859	n. littlestone
+2860	m. k. warmuth.
+2861	david haussler
+2862	michael kearns
+2863	nick littlestone
+2864	manfred k. warmuth.
+2865	david haussler
+2866	michael kearns
+2867	nick littlestone
+2868	manfred k. war-muth.
+2869	d. haussler
+2870	m. kearns
+2871	n. littlestone
+2872	m. k. warmuth.
+2873	d. haussler
+2874	m. kearns
+2875	n. littlestone
+2876	m. k. warmuth.
+2877	david haussler
+2878	michael kearns
+2879	nick littlestone
+2880	manfred k. warmuth.
+2881	david haussler
+2882	michael kearns
+2883	nick littlestone
+2884	manfred k. warmuth.
+2885	david haussler
+2886	michael kearns
+2887	nick littlestone
+2888	manfred k. warmuth.
+2889	d. haussler
+2890	m. kearns
+2891	n. littlestone
+2892	m. k. warmuth.
+2893	d. haussler
+2894	m. kearns
+2895	n. littlestone
+2896	m. k. warmuth.
+2897	david haussler
+2898	michael kearns
+2899	nick littlestone
+2900	manfred k. warmuth.
+2901	d. haussler
+2902	m. kearns
+2903	n. littlestone
+2904	m. k. war-muth.
+2905	d. haussler
+2906	m. kearns
+2907	n. littlestone
+2908	m. warmuth.
+2909	david haussler
+2910	michael kearns
+2911	nick littlestone
+2912	manfred k. warmuth.
+2913	david haussler
+2914	michael kearns
+2915	nick lit-tlestone
+2916	manfred k. warmuth.
+2917	d. haussler
+2918	m. kearns
+2919	n. littlestone
+2920	m. k. warmuth.
+2921	d. haussler
+2922	m. kearns
+2923	n. littlestone
+2924	m. k. warmuth.
+2925	d. haussler
+2926	m. kearns
+2927	n. littlestone
+2928	m. k. warmuth.
+2929	d. haussler
+2930	m. kearns
+2931	n. littlestone
+2932	m. warmuth.
+2933	d. haussler
+2934	m. kearns
+2935	n. littlestone
+2936	m. warmuth.
+2937	david haussler
+2938	michael kearns
+2939	nick littlestone
+2940	manfred k. warmuth.
+2941	haussler d.
+2942	kearns m.
+2943	littlestone n.
+2944	warmuth m.k.
+2945	david haussler
+2946	michael kearns
+2947	nick littlestone
+2948	manfred k. warmuth.
+2949	d. helmbold
+2950	r. e. schapire
+2951	y. singer
+2952	m. k. warmuth.
+2953	d. helmbold
+2954	r. schapire
+2955	y. singer
+2956	m. war muth.
+2957	d. helmbold
+2958	r. schapire
+2959	y. singer
+2960	m. war-muth.
+2961	helmbold d. p.
+2962	r. e. schapire
+2963	y. singer
+2964	m. k. warmuth
+2965	helmbold d. p.
+2966	schapire r. e.
+2967	singer y.
+2968	warmuth m. k.
+2969	helmbold d. p.
+2970	schapire r. e.
+2971	singer y.
+2972	war-muth m. k.
+2973	d. helmbold
+2974	r. e. schapire
+2975	y. singer
+2976	m. k. warmuth
+2977	d. p. helmbold
+2978	r. e. schapire
+2979	y. singer
+2980	m. k. war-muth.
+2981	d. helmbold
+2982	r. e. schapire
+2983	y. singer
+2984	m. k. warmuth.
+2985	helmbold d. p.
+2986	schapire r. e.
+2987	singer y.
+2988	warmuth m. k.
+2989	d.p. helmbold
+2990	r.e. schapire
+2991	y. singer
+2992	m.k. warmuth.
+2993	d. p. helmbold
+2994	r. e. schapire
+2995	y. singer
+2996	m. k. warmuth.
+2997	d. helmbold
+2998	r. e. schapire
+2999	y. singer
+3000	m. k. warmuth
+3001	d. helmbold
+3002	r. e. schapire
+3003	y. singer
+3004	m. k. warmuth.
+3005	kearns m. j.
+3006	li m.
+3007	pitt l.
+3008	valiant l.
+3009	kearns m.
+3010	li m.
+3011	pitt l.
+3012	valiant l. g.
+3013	kearns m.
+3014	li m.
+3015	pitt l.
+3016	valiant l. g.
+3017	m. kearns
+3018	m. li
+3019	l. pitt
+3020	l. valiant.
+3021	michael kearns
+3022	ming li
+3023	leonard pitt
+3024	leslie valiant.
+3025	m. kearns
+3026	m. li
+3027	l. pitt
+3028	l.g. valiant.
+3029	kearns m.
+3030	l.g. valiant
+3031	m. kearns
+3032	l.g. valiant.
+3033	michael kearns
+3034	leslie g. valiant.
+3035	m. kearns
+3036	l.g. valiant.
+3037	m. kearns
+3038	l. pitt.
+3039	m. kearns
+3040	l. pitt.
+3041	m. kearns
+3042	l. pitt.
+3043	michael j. kearns.
+3044	michael j. kearns.
+3045	m. kearns.
+3046	kearns m. j.
+3047	michael j. kearns.
+3048	kearns m.
+3049	michael kearns.
+3050	michael kearns.
+3051	michael kearns.
+3052	michael kearns.
+3053	m. kearns.
+3054	kearns m.
+3055	michael j. kearns.
+3056	kearns m.
+3057	michael j. kearns.
+3058	m. j. kearns.
+3059	kearns m.
+3060	m.j. kearns.
+3061	m. kearns.
+3062	michael kearns.
+3063	michael j. kearns
+3064	kearns m. j.
+3065	j. p. kearns
+3066	j. e. payne.
+3067	m. kearns
+3068	r. schapire.
+3069	kearns m.
+3070	schapire r.
+3071	kearns m. j.
+3072	schapire r. e.
+3073	kearns m. j.
+3074	r. e. schapire.
+3075	kearns m. j.
+3076	schapire r. e.
+3077	m. j. kearns
+3078	r. e. schapire.
+3079	m. j. kearns
+3080	r. e. schapire.
+3081	m. j. kearns
+3082	r. e. schapire.
+3083	m. j. kearns
+3084	r. e. schapire
+3085	michael j. kearns
+3086	robert e. schapire.
+3087	m. j. kearns
+3088	r. e. schapire.
+3089	michael j. kearns
+3090	robert e. schapire.
+3091	michael j. kearns
+3092	robert e. schapire.
+3093	m. j. kearns
+3094	r. e. schapire.
+3095	m. j. kearns
+3096	r. e. schapire.
+3097	m. j. kearns
+3098	r. e. shapire.
+3099	m. kearns
+3100	r. schapire.
+3101	m. kearns
+3102	r. shapire.
+3103	michael j. kearns
+3104	robert e. schapire.
+3105	michael kearns
+3106	robert e. shapire.
+3107	michael kearns
+3108	robert schapire.
+3109	m. j. kearns
+3110	r. e. schapire
+3111	m. j. kearns
+3112	r. e. schapire
+3113	michael j. kearns
+3114	robert e. schapire.
+3115	m. kearns
+3116	y.mansour
+3117	d. ron
+3118	r. rubinfeld
+3119	r.e. schapire
+3120	l. sellie.
+3121	m. kearns
+3122	y.mansour
+3123	d. ron
+3124	r. rubinfeld
+3125	r.e. schapire
+3126	l. sellie.
+3127	kearns m. j.
+3128	mansour y.
+3129	ron d.
+3130	rubinfeld r.
+3131	schapire r. e.
+3132	sellie l.
+3133	m. kearns
+3134	y. mansour
+3135	d. ron
+3136	r. rubinfeld
+3137	r. schapire
+3138	l. sellie
+3139	michael kearns
+3140	yishay mansour
+3141	dana ron
+3142	ronitt rubinfeld
+3143	robert e. schapire
+3144	linda sellie.
+3145	michael kearns
+3146	yishay mansour
+3147	dana ron
+3148	ronitt rubinfeld
+3149	robert e. schapire
+3150	linda sellie.
+3151	m. j. kearns
+3152	y. mansour
+3153	d. ron
+3154	r. rubinfeld
+3155	r. e. schapire
+3156	l. sellie.
+3157	m. kearns
+3158	y. mansour
+3159	d. ron
+3160	r. rubinfeld
+3161	r. schapire
+3162	l. sellie.
+3163	m. kearns
+3164	y. mansour
+3165	d. ron
+3166	r. rubinfeld
+3167	r. schapire
+3168	l. sellie.
+3169	m. j. kearns
+3170	y. mansour
+3171	d. ron
+3172	r. rubinfeld
+3173	r. e. schapire
+3174	l. sellie.
+3175	m. kearns
+3176	y. mansour
+3177	d. ron
+3178	r. rubinfeld
+3179	r. e. schapire
+3180	l. sellie.
+3181	m. kearns
+3182	y. mansour
+3183	d. ron
+3184	r. rubinfeld
+3185	r. e. schapire
+3186	l. sellie.
+3187	m. kearns
+3188	y. mansour
+3189	d. ron
+3190	r. rubinfeld
+3191	r. schapire
+3192	l. sellie.
+3193	m. kearns
+3194	y. mansour
+3195	d. ron
+3196	r. rubinfeld
+3197	r. e. schapire
+3198	l. sellie.
+3199	m. kearns
+3200	y.mansour
+3201	d. ron
+3202	r. rubinfeld
+3203	r.e. schapire
+3204	l. sellie.
+3205	m. kearns
+3206	y.mansour
+3207	d. ron
+3208	r. rubinfeld
+3209	r.e. schapire
+3210	l. sellie.
+3211	m. j. kearns
+3212	y. mansour
+3213	d. ron
+3214	r. rubinfeld
+3215	r. e. schapire
+3216	l. sellie.
+3217	m. kearns
+3218	y. mansour
+3219	d. ron
+3220	r. ru-binfeld
+3221	r. schapire
+3222	l. sellie.
+3223	m. kearns
+3224	y. mansour
+3225	d. ron
+3226	r. rubinfeld
+3227	r. e. schapire
+3228	l. sellie.
+3229	m.j. kearns
+3230	r.e. schapire.
+3231	m.j. kearns
+3232	r.e. schapire.
+3233	kearns m. j.
+3234	schapire r. e.
+3235	kearns m.
+3236	schapire r.
+3237	m. j. kearns
+3238	r. e. schapire.
+3239	m. kearns
+3240	r. schapire.
+3241	m. j. kearns
+3242	r. e. schapire.
+3243	m. kearns
+3244	r.e. schapire.
+3245	m. kearns
+3246	r. schapire.
+3247	m. j. kearns
+3248	r. e. schapire.
+3249	m. j. kearns
+3250	r. e. schapire.
+3251	m. kearns
+3252	r. schapire.
+3253	michael j. kearns
+3254	robert e. schapire.
+3255	kearns m.
+3256	mansour y.
+3257	ng a.
+3258	ron d.
+3259	m. j. kearns
+3260	y. mansour
+3261	a. ng
+3262	d. ron.
+3263	michael kearns
+3264	yishay mansour
+3265	andrew y. ng
+3266	dana ron.
+3267	m. kearns
+3268	y. mansour
+3269	a. y. ng
+3270	d. ron.
+3271	m. kearns
+3272	y. mansour
+3273	a. ng
+3274	d. ron.
+3275	m. kearns
+3276	y. mansour
+3277	a. ng
+3278	d. ron.
+3279	m. kearns
+3280	y. mansour
+3281	a. y. ng
+3282	d. ron
+3283	m. j. kearns
+3284	y. mansour
+3285	a. ng
+3286	d. ron.
+3287	m. kearns
+3288	y. mansour
+3289	a. y. ng
+3290	d. ron.
+3291	kearns m. j.
+3292	mansour y.
+3293	ng a. y.
+3294	ron d.
+3295	kearns m.
+3296	mansour y.
+3297	ng a. y.
+3298	ron d.
+3299	kearns m.
+3300	mansour y.
+3301	ng a.
+3302	ron d.
+3303	kearns m. j.
+3304	mansour y.
+3305	ng a. y.
+3306	ron d.
+3307	m. kearns
+3308	y. mansour
+3309	a. ng
+3310	d. ron.
+3311	m. kearns
+3312	y. mansour
+3313	a. ng
+3314	d. ron.
+3315	kearns m. j.
+3316	ron d.
+3317	kearns m.
+3318	ron d.
+3319	m. kearns
+3320	d. ron.
+3321	michael kearns
+3322	satinder singh.
+3323	m. kearns
+3324	y. mansour
+3325	a. ng.
+3326	rivest r.
+3327	schapire r.
+3328	rivest r. l.
+3329	schapire r. e.
+3330	rivest r. l.
+3331	schapire r. e.
+3332	rivest r.l.
+3333	schapire r.e.
+3334	r. l. rivest
+3335	r. e. schapire.
+3336	r. l. rivest
+3337	r. e. schapire.
+3338	rivest r. l.
+3339	schapire r. e.
+3340	r. rivest
+3341	r. schapire.
+3342	rivest r.
+3343	schapire r.
+3344	rivest r. l.
+3345	schapire r. e.
+3346	rivest r. l.
+3347	schapire r. e.
+3348	rivest r. l.
+3349	schapire r. e.
+3350	rivest r.l.
+3351	r.e. schapire
+3352	r. rivest
+3353	r. schapire.
+3354	r. rivest
+3355	r. schapire.
+3356	ronald. l. rivest
+3357	robert. e. schapire.
+3358	r. rivest
+3359	r. schapire.
+3360	r.e. schapire
+3361	r. l. rivest.
+3362	r. rivest
+3363	r. schapire.
+3364	r.l. rivest
+3365	r.e. schapire
+3366	ronald. l. rivest
+3367	robert. e. schapire.
+3368	r. l. rivest
+3369	r. e. schapire.
+3370	r. l. rivest
+3371	r. e. schapire.
+3372	r. rivest
+3373	r. schapire.
+3374	ronald l. rivest
+3375	robert e. schapire.
+3376	ronald l. rivest
+3377	robert e. schapire.
+3378	r.l. rivest
+3379	r.e. schapire.
+3380	r. l. rivest
+3381	r. e. schapire.
+3382	r. rivest
+3383	r. schapire.
+3384	ronald l. rivest
+3385	robert e. schapire.
+3386	ronald l. rivest
+3387	robert e. schapire.
+3388	rivest r.l.
+3389	schapire r.e.
+3390	r. l. rivest
+3391	r. e. schapire.
+3392	ronald l. rivest
+3393	robert e. schapire.
+3394	ronald l. rivest
+3395	robert e. schapire.
+3396	r.e. schapire
+3397	r. l. rivest.
+3398	ronald l. rivest
+3399	robert e. schapire.
+3400	ronald l. rivest
+3401	robert e. schapire.
+3402	r. l. rivest
+3403	r. e. schapire.
+3404	r. l. rivest
+3405	r. e. schapire.
+3406	r. rivest
+3407	r. schapire.
+3408	ronald l. rivest
+3409	robert e. schapire.
+3410	rivest r.
+3411	schapire r.
+3412	rivest r. l.
+3413	schapire r. e.
+3414	robert e. schapire.
+3415	r. e. schapire.
+3416	robert e. schapire
+3417	r. e. schapire.
+3418	schapire r.
+3419	r. e. schapire.
+3420	r. e. schapire.
+3421	robert e. schapire.
+3422	schapire r.
+3423	r. schapire.
+3424	robert e. schapire.
+3425	r. e. schapire.
+3426	robert e. schapire.
+3427	robert e. schapire.
+3428	robert e. schapire.
+3429	r. e. schapire.
+3430	r. e. schapire.
+3431	robert e. schapire.
+3432	schapire r.e.
+3433	schapire r.e.
+3434	robert e. schapire.
+3435	robert e. schapire.
+3436	robert e. schapire.
+3437	r. e. schapire.
+3438	r. e. schapire
+3439	l. m. sellie.
+3440	schapire r.e.
+3441	freund y.
+3442	bartlett p.
+3443	lee w.s.
+3444	r. e. schapire
+3445	y. freund
+3446	p. bartlett
+3447	w. s. lee.
+3448	schapire r. e.
+3449	freund y.
+3450	bartlett p.
+3451	lee w. s.
+3452	schapire r. e.
+3453	freund y.
+3454	bartlett p.
+3455	lee w. s.
+3456	schapire r.
+3457	freund y.
+3458	bartlett p.
+3459	lee w.
+3460	schapire r.
+3461	y. freund
+3462	p. bartlett
+3463	w.
+3464	schapire r.e.
+3465	freund y.
+3466	bartlett p.
+3467	lee w.s.
+3468	schapire r.e.
+3469	freund y.
+3470	bartlett p.
+3471	lee w.s.
+3472	schapire r.e.
+3473	freund y.
+3474	bartlett p.
+3475	lee w.s.
+3476	schapire r.e.
+3477	freund y.
+3478	bartlett p.
+3479	lee w.s.
+3480	schapire r.e.
+3481	y. freund
+3482	p.
+3483	shapire r.
+3484	freund y.
+3485	bartlett p.
+3486	lee w.
+3487	r. schapire
+3488	y. freund
+3489	p. bartlett
+3490	w. s. lee.
+3491	schapire r. e.
+3492	freund y.
+3493	bartlett p.
+3494	lee w. s.
+3495	robert e. schapire
+3496	yoav freund
+3497	peter bartlett
+3498	wee sun lee.
+3499	robert e. schapire
+3500	yoav freund
+3501	peter bartlett
+3502	wee sun lee.
+3503	robert e. schapire
+3504	yoav freund
+3505	peter bartlett
+3506	wee sun lee.
+3507	robert e. schapire
+3508	yoav freund
+3509	peter bartlett
+3510	wee sun lee.
+3511	r.e. schapire
+3512	y. freund
+3513	p. bartlett
+3514	r. schapire
+3515	y. freund
+3516	p. bartlett
+3517	w. lee.
+3518	schapire
+3519	r.e.
+3520	freund y.
+3521	bartlett p.
+3522	lee

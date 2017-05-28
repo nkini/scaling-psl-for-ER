@@ -1,0 +1,61 @@
+<html>
+<h2>Rexa Coreference Dataset Version 0.5</h2>
+<br>
+10/4/06
+<br>
+Data is available here: <a
+href="http://www.cs.umass.edu/~culotta/data/rexa_coref_datav0.5.tgz">rexa_coref_datav0.5.tgz</a> 
+
+<p>
+The file citations.xml contains citation data annotated for
+coreference among several different entity types: titles, authors,
+venues, and institutions. The data was harvested from REXA
+(http://rexa.info), a digital library and search engine covering the
+computer science research literature and the people who create it.
+<p>
+Most of the xml format should be self-explanatory. The attributes 'id'
+and 'clusterid' have been added to some elements, indicating their
+mention id and cluster id, respectively. Additionally, fileid refers
+to the file from which the reference was found, and refID identifies
+which reference in the paper. The concatenation of fileid and refID
+uniquely identifies a reference.
+
+<br><br>Some statistics about the dataset:<br><br>
+15524 entity mentions (author title venue institution)
+<br>203 clusters
+<br>        avg cluster size=19.8669950738916
+<br>        max cluster size 301
+<br>        min cluster size 1
+<br>2454 citation mentions
+<br>243 header mentions
+<br>9411 authors
+<br>2811 titles
+<br>2031 venues
+<br>1271 institutions
+
+<h3>IMPORTANT</h3> 
+
+Our goal is to construct a large, real-world coreference
+dataset. Since labeling all coreference decisions in such a large
+dataset is infeasible, we have partially labeled it in the following
+way: If a mention is labeled with a clusterid attribute, then all of
+its coreferent mentions have been labeled. If a mention does not have
+a clusterid attribute, then there may exist coreferent mentions that
+have not been labeled as such. The idea is to allow researchers to
+leverage this unlabeled data, while still enabling evaluation on the
+labeled portion.
+
+
+<h3>COMING SOON</h3>
+
+In the future, we plan to expand the amount of labeled data as well as
+the overlap among the mentions and also include scripts for
+partitioning the data and evaluating predictions.
+
+There are likely still errors in the labeling, and we will be updating
+and expanding the dataset shortly.
+
+
+Send questions to Aron Culotta (culotta at cs dot umass dot edu)
+
+</html>

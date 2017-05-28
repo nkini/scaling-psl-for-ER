@@ -1,0 +1,298 @@
+
+
+@page {
+	margin: 2cm;
+}
+
+* {
+	float: none !important;
+	-webkit-print-color-adjust: exact;
+	print-color-adjust: exact;
+	color: #000 !important;
+	position: relative !important;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-box-shadow: none !important;
+	box-shadow: none !important;
+	font-family: "Neo Sans W02", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+body {
+	color: #000;
+	background: #fff !important;
+	height: 100%;
+	position: relative;
+	top: 0;
+	margin-top: 0 !important;
+}
+
+body > .container:before {
+	background-color: #fff;
+	position: relative;
+	height: 0;
+}
+
+body.theme2,
+body.theme1,
+body.theme3,
+body.theme4,
+body.theme5 {
+	background-image: none;
+}
+
+a {text-decoration: none;}
+
+a,
+.news a,
+.wrapper-4.teaser.sidebar h1 a,
+.col-md-8.news h1 a {
+	color: #000 !important;
+}
+
+p {
+	font-size: 16px !important;
+}
+
+
+/*HEADER*/
+.headwrapper{padding-left: 5px;}
+.headtop {
+	height: auto;
+}
+
+.smallheader {
+	display: block !important;
+	position: relative !important;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: auto;
+	margin-bottom: 10px;
+	padding-top: 0;
+}
+
+.headbg {
+	position: relative !important;
+	margin-top: 0 !important;
+}
+
+.subsitebackhead a[href="http://www.hpi.de/"]:after {
+	content: url(../img/hpi_header_logo_pos_srgb.png) !important;
+	background-image: url(../img/hpi_header_logo_pos_srgb.png) !important;
+	height: 44px;
+	width: 235px;
+	display: block;
+}
+
+.subsitebackhead {
+	background-color: #fff;
+	height: 0;
+}
+
+.subsitebackhead div {
+	max-width: 50%;
+	width: auto;
+	margin: 0;
+	top: -49px;
+}
+
+.subsitebackhead .h1 {
+	float: none;
+}
+
+.smallheader .claim {
+    margin: 0;
+    padding: 15px 10px 0 0;
+    position: static !important;
+    display: block;
+    float: right !important;
+}
+/*
+.smallheader .claim:after {
+	content: url(/fileadmin/templates/img/claim.png) !important;
+	background-image: url(/fileadmin/templates/img/claim.png) !important;
+	height: 16px;
+	width: 222px;
+	display: block;
+}
+*/
+
+
+/*Startseite*/
+.index .col-md-4 h1 {font-size: 1em; margin-top: 30px; page-break-after: avoid;}
+.col-md-4 {margin-bottom: 20px;}
+.index .col-md-4 .tab-pane {margin-bottom: 15px;}
+.tab-pane img {bottom:0 !important;margin-top: 10px;}
+
+/*Hinweisbox*/
+.alert-info {padding: 10px;  background-color:rgba(0,0,0,0.2); margin-bottom: 15px; border: 1px solid rgba(0,0,0,0.2);}
+
+/*Breadcrumb*/
+.breadcrumb {overflow: hidden; list-style-position: inside; margin-left: 0; padding-left: 0; font-size: 1em;}
+.breadcrumb li {float: left; margin-right: 10px;}
+
+/*AUSBLENDEN*/
+.pics3view {display: inline-block; float: left; margin: 10px !important;}
+.csc-textpic-image {float: left; width: auto; margin: 0 10px 10px 10px !important; max-height: 80%!important;}
+
+.csc-textpic-imagecolumn {width: auto;}
+.csc-textpic-center {margin-left: 0; margin-right: 0;}
+ 
+
+/*
+.pics3view a img,
+.pics3view img 
+.col-md-8.news.showDefaultImage a img,
+div.csc-textpic .csc-textpic-imagewrap figure.csc-textpic-image,
+.csc-textpic-image,
+.csc-textpic-imagecolumn,
+.pics3view a img,
+.pics3view img,
+.tx_dscoverview.testimonials img,
+.wrapper-8.teaser.channel .col-md-4 .tab-pane a img,
+.tx-sixpack-pi1 tr td.tx_sixpack_pi1-item-1 img,
+.tx-sixpack-pi1 tr td.tx_sixpack_pi1-item-0 img,
+*/
+
+.zoomContainer,
+.navbar-header .navbar-toggle,
+a[href="http://www.hpi.de/"] img,
+.submenu,
+.footer-links li,
+.bigheader,
+.bigheader .inner,
+.pagebg,
+.headbottom,
+#bottom_stuff,
+.wrapper-8.teaser.channel .col-md-4 ul,
+.lang_switcher,
+#social,
+iframe,
+.tx-yb-videoplayer,
+.navbar-toggle,
+.inner, 
+.navbar-header,
+.headbottom,
+#site_nav,
+.nav,
+.nav.nav-tabs{
+	display: none !important;
+}
+
+
+/*ALLE WRAPPER UND CONTAINER AUF 100%*/
+
+.container,
+.index #content,
+.sub #content,
+.wrapper-8,
+.wrapper-4,
+.wrapper-12,
+.csc-default,
+.tab-content,
+.tab-pane {
+	width: 100%;
+}
+/*.pics3view */
+.col,
+.col-md-1,
+.col-md-2,
+.col-md-3,
+.col-md-4,
+.col-md-5,
+.col-md-6,
+.col-md-7,
+.col-md-8,
+.col-md-9,
+.col-md-10,
+.col-md-11{
+	width: 100% !important;
+	min-width: 0;
+	max-width: 100% !important;
+	margin-left: 0 !important;
+	margin-right: 0 !important;
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+}
+
+
+/*ABSTAENDE UND HOEHEN EINRICHTEN*/
+
+.col-md-8.news.showDefaultImage p,
+.col-md-8.news.showDefaultImage h1.h2 {
+	margin-left: 0 !important;
+}
+
+.wrapper-8.teaser.channel .col-md-4,
+.wrapper-8.teaser.channel .col-md-4 .csc-default {
+	height: auto;
+	min-height: 0;
+}
+
+.col-md-8.news.showDefaultImage a img .wrapper-8.teaser.channel .col-md-4 .tab-pane {
+	margin-bottom: 10px;
+}
+
+.breadcrumb > li {
+	margin-bottom: 5px;
+}
+
+
+/*LINKS NICHT MIT DRUCKEN*/
+
+a:link:after,
+a:visited:after {
+	content: "";
+}
+
+
+/*SONSTIGE*/
+
+blockquote {
+	border: none;
+}
+
+.pics3view .caption {
+	display: block;
+}
+
+.wrapper-4.teaser.sidebar h1,
+.csc-header h1,
+.wrapper-8.teaser.channel h1 {
+	border-bottom: 1px solid #000 !important;
+}
+
+.tab-content .tab-pane h2,
+.tab-content .tab-pane p {
+	display: block !important;
+}
+
+
+/*SEITENUMBRUECHE VERHINDERN*/
+
+h1,
+h2,
+h3,
+h4,
+h5,
+.wrapper-4.teaser.sidebar h1 a,
+.col-md-8.news h1 a,
+.csc-default h1,
+#content div.col-md-8 h1{
+	page-break-after: avoid !important;
+}
+
+ul,
+.wrapper-8.teaser.channel .col-md-4 .tab-pane, .csc-textpic, img {
+	page-break-inside: avoid;
+}
+
+
+/*FOOTER*/
+footer .container,
+footer div,
+.footer-links{margin: 0 !important;}
+.footer-links li:first-child {
+	display: block !important;
+	color: #000;
+}
