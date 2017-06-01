@@ -12,16 +12,16 @@ ahlskog1994a  <author> M. Ahlskog, J. Paloheimo, H. Stubb, P. Dyreklev, M. Fahlm
 ahlskog1994a  <author> M. Ahlskog, J. Paloheimo, H. Stubb, P. Dyreklev, M. Fahlman, O. Inganas and M.R. Andersson,</author><journal> J Appl. Phys., </journal> <volume> 76, </volume><pages>893, </pages> <date> (1994). </date>
 
 <NEWREFERENCE>
-ahlskog1994a  <author> M. Ahlskog, J. Paloheimo, H. Stubb, P. Dyreklev, M. Fahlman, O. </au Inganas and M.R. Andersson,</author><journal> J Appl. Phys., </journal> <volume> 76, </volume><pages>893, </pages> <date> (1994). </date>
+ahlskog1994a  <author> M. Ahlskog, J. Paloheimo, H. Stubb, P. Dyreklev, M. Fahlman, O. Inganas and M.R. Andersson,</author><journal> J Appl. Phys., </journal> <volume> 76, </volume><pages>893, </pages> <date> (1994). </date>
 
 <NEWREFERENCE>
-ahlskog1994a  <author> M. Ahlskog, J. Paloheimo, H. Stubb, P. Dyreklev, M. Fahlman, O. Inganas and M.R. Andersson,<author><journal> J Appl. Phys., </journal> <volume> 76, </volume><pages>893, </pages> <date> (1994). </date>
+ahlskog1994a  <author> M. Ahlskog, J. Paloheimo, H. Stubb, P. Dyreklev, M. Fahlman, O. Inganas and M.R. Andersson,</author><journal> J Appl. Phys., </journal> <volume> 76, </volume><pages>893, </pages> <date> (1994). </date>
 
 <NEWREFERENCE>
-ahlskog1994a  <author> M. Ahlskog, J. Paloheimo, H. Stubb, P. Dyreklev, M. Fahlman, O. Inganas and M.R. Andersson,<author><journal> J Appl. Phys., </journal> <volume> 76, </volume><pages>893, </pages> <date> (1994). </date>
+ahlskog1994a  <author> M. Ahlskog, J. Paloheimo, H. Stubb, P. Dyreklev, M. Fahlman, O. Inganas and M.R. Andersson,</author><journal> J Appl. Phys., </journal> <volume> 76, </volume><pages>893, </pages> <date> (1994). </date>
 
 <NEWREFERENCE>
-ahlskog1994a  <author> M. Ahlskog, J. Paloheimo, H. Stubb, P. Dyreklev, M. Fahlman, O. Inganas and M.R. Andersson,<author><journal> Journal of Applied Physics, </journal> <volume> 76, </volume><pages>893, </pages> <date> (1994). </date>
+ahlskog1994a  <author> M. Ahlskog, J. Paloheimo, H. Stubb, P. Dyreklev, M. Fahlman, O. Inganas and M.R. Andersson,</author><journal> Journal of Applied Physics, </journal> <volume> 76, </volume><pages>893, </pages> <date> (1994). </date>
 
 <NEWREFERENCE>
 asfahl1992a  <author> C. Ray Asfahl. </author> <title> Robots and Manufacturing Automation. </title> <publisher> John Wiley and Sons, </publisher> <address> New York, </address> <note> second edition, </note> <date> 1992. </date>
@@ -45,7 +45,7 @@ benford1995a  <author> Benford, S., Bowers, J., Fahlen, L.E., Greenhalgh, C., Sn
 benford1995b  <author> Steve Benford, John Bowers, Lennart Fahlen, Chris Greenhalg, John Mariani, and Tom Rodden. </author> <title> Networked Virtual realitty and Cooperative Work. </title> <journal> Presence,</journal> <volume> 4(4) </volume> <pages> 364-386, </pages> <date> 1995. </date>
 
 <NEWREFERENCE>
-brown1992a <author> Brown, D. F., Moura, H. & Watt, D. A. </author> <date> (1992b), </date> <title> Actress: an action semantics directed compiler generator, </title> <editor> in U. Kas-tens & P. Pfahler, eds, </editor> <booktitle> `Proceedings of the International Workshop on Compiler Construction (CC-92)', <note>Vol. 641 of Lecture Notes in Computer Science, </note> <publisher> Springer-Verlag, </publisher> <address> Paderborn, Germany, </address> <pages> pp. 95-109. </pages>
+brown1992a <author> Brown, D. F., Moura, H. & Watt, D. A. </author> <date> (1992b), </date> <title> Actress: an action semantics directed compiler generator, </title> <editor> in U. Kas-tens & P. Pfahler, eds, </editor> <booktitle> `Proceedings of the International Workshop on Compiler Construction (CC-92)', </booktitle><note>Vol. 641 of Lecture Notes in Computer Science, </note> <publisher> Springer-Verlag, </publisher> <address> Paderborn, Germany, </address> <pages> pp. 95-109. </pages>
 
 <NEWREFERENCE>
 brown1992a <author> Brown, D. F., Moura, H. & Watt, D. A. </author> <date> (1992b), </date> <title> Actress: an action semantics directed compiler generator, </title> <editor> in U. Kas-tens & P. Pfahler, eds, </editor> <booktitle> `Proceedings of the International Workshop on Compiler Construction (CC-92)', </booktitle><note>Vol. 641 of Lecture Notes in Computer Science, </note> <publisher> Springer-Verlag, </publisher> <address> Paderborn, Germany, </address> <pages> pp. 95-109. </pages>
@@ -69,10 +69,10 @@ buth1992a 6. <author> B. Buth et. al., </author> <date> 1992, </date> <title> Pr
 buth1992a  <author> Bettina Buth, Karl-Heinz Buth, Martin Franzle, Burghard von Karger, Yassine Lakhneche, Hans Langmaack, and Markus Muller-Olm. </author> <title> Provably correct compiler development and implementation. </title> <editor> In U. Kastens and P. Pfahler, editors, </editor> <booktitle> Compiler Construction, number 641 in Lecture Notes in Computer Science, </booktitle> <pages> pages 141-155. </pages> <publisher> Springer-Verlag, </publisher> <date> 1992. </date>
 
 <NEWREFERENCE>
-carlson1993a <author> Carlson, C.; L.E.Fahln. </author> <date> 1993. </date> <title> Integrated CSCW Tools Within a Shared 3D Virtual Environment.</title><booktile> In Proceedings of InterCHI93 (Amsterdam). ACM,</booktile><address> NY:</address><pages> 513 </pages><author> Conklin, J.<date> 1985.</date><title> Hypertext: An Introduction and Survey.</title><booktitle> In Computer Supported Cooperative Work: A Book of Readings. </booktitle> <editor> Ed. Irene Greit:</editor><publisher> Morgan Kaufmann. </publisher>
+carlson1993a <author> Carlson, C.; L.E.Fahln.; Conklin, J. </author> <date> 1993. </date> <title> Integrated CSCW Tools Within a Shared 3D Virtual Environment.</title><booktile> In Proceedings of InterCHI93 (Amsterdam). ACM,</booktile><address> NY:</address><pages> 513 </pages><date> 1985.</date><title> Hypertext: An Introduction and Survey.</title><booktitle> In Computer Supported Cooperative Work: A Book of Readings. </booktitle> <editor> Ed. Irene Greit:</editor><publisher> Morgan Kaufmann. </publisher>
 
 <NEWREFERENCE>
-cramer1985a <author> Cramer, N. L. </author> <date> (1985). </date> <title> A representation for the adaptive generation of simple sequential programs. </title> <editor> In Grefenstette, J., editor, </editor> <booktitle> Proceedings of an International Conference on Genetic Algorithms and Their Applications, </booktitle> <pages> pages 183-187, </pages> <address> Hillsdale, NJ. </address> <publisher> Lawrence Erlbaum Associates. 
+cramer1985a <author> Cramer, N. L. </author> <date> (1985). </date> <title> A representation for the adaptive generation of simple sequential programs. </title> <editor> In Grefenstette, J., editor, </editor> <booktitle> Proceedings of an International Conference on Genetic Algorithms and Their Applications, </booktitle> <pages> pages 183-187, </pages> <address> Hillsdale, NJ. </address> <publisher> Lawrence Erlbaum Associates. </publisher>
 
 
 <NEWREFERENCE>
