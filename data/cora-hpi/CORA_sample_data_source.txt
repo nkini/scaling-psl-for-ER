@@ -1,0 +1,50 @@
+/* CORA dataset - sample data sources
+ * 
+ * This file contains samples for CORA data sources.
+ * 
+ * A whole example experiment for the CORA dataset can be found in class "CoraExec"
+ * in package "de.hpi.fgis.dude.exec"
+ * 
+ */
+
+
+/*
+ * CORA records
+ */
+
+// instantiates the XML data source for reading records
+// "cora" is the source identifier
+// parameters for the file are the directory and the filename
+// "CORA" is the root element of the data source - all child elements of the root will be transformed into DuDeObjects
+DataSource dataSource = new XMLSource("cora", new File("./res", "CORA.xml"), "CORA");
+
+// uses the "id" attribute for the object id (attribute "id" is referenced by the gold standard)
+// this call is optional, if no id attribute is set, DuDe will generate its own object ids 
+dataSource.addIdAttributes("id");		
+
+
+
+/*
+ * CORA gold standard
+ */
+
+// instantiates the CSV data source for reading the gold standard
+// "goldstandard" is the gold standard identifier
+// parameters for the file are the directory and the filename
+CSVSource goldstandardSource = new CSVSource("goldstandard", new File("./res", "cora_gold.csv"));
+
+// enable header to read attribute names from file
+goldstandardSource.enableHeader();
+		
+// instantiate a gold standard (the identifier of the CSVSource is not important)
+GoldStandard goldStandard = new GoldStandard(goldstandardSource);
+
+// since "id1" and "id2" are the default attribute names, no custom object id attributes need to be set
+// goldStandard.setFirstElementsObjectIdAttributes("id1");
+// goldStandard.setSecondElementsObjectIdAttributes("id2");
+
+// set the gold standard source identifier
+// (has be to the same as the identifier for the data source)
+goldStandard.setSourceIdLiteral("cora");
+
+
